@@ -21,6 +21,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Debugger Checklist – Part I](https://talktotheduck.dev/the-debugger-checklist-part-i)
 - [Debug World – Why Write this Blog?](https://talktotheduck.dev/debug-world-why-write-this-blog)
 - [Debugging in Production—How to move fast without breaking things](https://medium.com/javarevisited/debugging-in-production-how-to-move-fast-without-breaking-things-46cc2eda36b6?source=rss-a8cc878ccaaa------2)
 - [Node.js Security and Observability using Lightrun & Snyk](https://lightrun.com/observability/nodejs-security-observability-lightrun-snyk/)
@@ -40,7 +41,6 @@
 - [Build Cross-Platform Native Mobile Apps using Java/Kotlin for iOS, Android, Desktop & Web](https://dev.to/codename_one/build-cross-platform-native-mobile-apps-using-java-kotlin-for-ios-android-desktop-web-5g3j)
 - [Create Native Mobile Apps using Java (Kotlin) and Maven](https://medium.com/javarevisited/create-native-mobile-apps-using-java-kotlin-and-maven-f50e0bd03527?source=rss-a8cc878ccaaa------2)
 - [Android App Bundle Support](https://www.codenameone.com/blog/android-app-bundle-support.html)
-- [Moving to Xcode 12](https://www.codenameone.com/blog/moving-to-xcode-12.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
