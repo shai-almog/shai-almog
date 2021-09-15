@@ -12,3 +12,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://talktotheduck.dev/rss.xml, https://dev.to/feed/codename_one, https://medium.com/feed/@codename_one, https://lightrun.com/feed/, https://www.codenameone.com/feed.xml"
+          max_post_count: 20
