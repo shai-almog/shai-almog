@@ -7,13 +7,13 @@
 
 - I have another developer account at [https://github.com/shai-athena/](https://github.com/shai-athena/)
 
-- 📝 I regularly write articles on [https://talktotheduck.dev/](https://talktotheduck.dev/), [https://www.codenameone.com/blog](https://www.codenameone.com/blog), [https://lightrun.com/blog/](https://lightrun.com/blog/), [https://dev.to/codename_one/](https://dev.to/codename_one/), [https://medium.com/@Codename_One](https://medium.com/@Codename_One) and [https://hackernoon.com/u/Codename_One](https://hackernoon.com/u/Codename_One)
+- 📝 I regularly write articles on [Talk to the Duck](https://talktotheduck.dev/), [Codename One](https://www.codenameone.com/blog), [Lightrun](https://lightrun.com/blog/), [Dev.to](https://dev.to/codename_one/), [Medium](https://medium.com/@Codename_One) and [Hacker Noon](https://hackernoon.com/u/Codename_One). I'm ocassionally featured on [dzone](https://dzone.com/users/308/sa74997.html), [JavaCodeGeeks](https://www.javacodegeeks.com/user/shai.almog?profiletab=posts) and others
 
 - 💬 Ask me about **Java, Debugging, Production, VM internals and pretty much anything**
 
-- 📫 How to reach me **shaia@lightrun.com**
+- 📫 You can write to me at shaia (at) lightrun.com
 
-- I tweet under [https://twitter.com/debugagent](https://twitter.com/debugagent) and [https://twitter.com/Codename_One](https://twitter.com/Codename_One)
+- I tweet as [@debugagent](https://twitter.com/debugagent) and [@Codename_One](https://twitter.com/Codename_One)
 
 - I wrote a [couple of books](https://www.goodreads.com/author/list/15647322.Shai_Almog) and created a few [online courses](codenameone.teachable.com/)
 
