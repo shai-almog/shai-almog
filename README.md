@@ -26,6 +26,21 @@
 - [Node.js Security and Observability using Lightrun & Snyk](https://lightrun.com/observability/nodejs-security-observability-lightrun-snyk/)
 - [The Essential Guide to Kubernetes Service Discovery](https://lightrun.com/observability/the-essential-guide-to-kubernetes-service-discovery/)
 - [Moving the Support to Reddit](https://www.codenameone.com/blog/moving-the-support-to-reddit.html)
+- [Full-cycle observability with the Elastic Stack and Lightrun](https://lightrun.com/observability/full-cycle-observability-with-the-elastic-stack-and-lightrun/)
+- [How to Debug Remotely in VS Code](https://lightrun.com/debugging/how-to-debug-remotely-in-vs-code/)
+- [Announcing CodeRAD 2.0 Preview](https://www.codenameone.com/blog/announcing-coderad-2-0-preview.html)
+- [Debugging in Production – How to move fast without breaking things](https://www.codenameone.com/blog/debugging-in-production-how-to-move-fast-without-breaking-things.html)
+- [Lightrun for Python is Now Generally Available](https://lightrun.com/debugging/lightrun-python/)
+- [[Press Release] Lightrun Launches Support for Python, Giving Developers a Simpler Way to Debug Live Machine Learning Pipelines](https://lightrun.com/inside-lightrun/pr-python-pycharm/)
+- [5 Most Common API Errors and How to Fix Them](https://lightrun.com/best-practices/5-most-common-api-errors-and-how-to-fix-them/)
+- [New CSS Units in Codename One Apps](https://www.codenameone.com/blog/new-css-units-in-codename-one-apps.html)
+- [Moving to API Level 30](https://www.codenameone.com/blog/moving-to-api-level-30.html)
+- [Tips for the Javascript port of Codename One apps](https://www.codenameone.com/blog/tips-for-the-javascript-port-of-codename-one-apps.html)
+- [How to detect Jailbroken or Rooted device and hide sensitive data in background?](https://www.codenameone.com/blog/how-to-detect-jailbroken-or-rooted-device-and-hide-sensitive-data-in-background.html)
+- [Build Cross-Platform Native Mobile Apps using Java/Kotlin for iOS, Android, Desktop & Web](https://dev.to/codename_one/build-cross-platform-native-mobile-apps-using-java-kotlin-for-ios-android-desktop-web-5g3j)
+- [Create Native Mobile Apps using Java (Kotlin) and Maven](https://medium.com/javarevisited/create-native-mobile-apps-using-java-kotlin-and-maven-f50e0bd03527?source=rss-a8cc878ccaaa------2)
+- [Android App Bundle Support](https://www.codenameone.com/blog/android-app-bundle-support.html)
+- [Moving to Xcode 12](https://www.codenameone.com/blog/moving-to-xcode-12.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
