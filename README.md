@@ -21,6 +21,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Debug World – Why Write this Blog?](https://talktotheduck.dev/debug-world-why-write-this-blog)
+- [Debugging in Production—How to move fast without breaking things](https://medium.com/javarevisited/debugging-in-production-how-to-move-fast-without-breaking-things-46cc2eda36b6?source=rss-a8cc878ccaaa------2)
+- [Node.js Security and Observability using Lightrun & Snyk](https://lightrun.com/observability/nodejs-security-observability-lightrun-snyk/)
+- [The Essential Guide to Kubernetes Service Discovery](https://lightrun.com/observability/the-essential-guide-to-kubernetes-service-discovery/)
+- [Moving the Support to Reddit](https://www.codenameone.com/blog/moving-the-support-to-reddit.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
