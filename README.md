@@ -19,7 +19,7 @@
 
 <a href="https://stackoverflow.com/users/756809/shai-almog"><img src="https://stackoverflow.com/users/flair/756809.png" width="208" height="58" alt="profile for Shai Almog at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Shai Almog at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
-### Blogs posts
+### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Debug World – Why Write this Blog?](https://talktotheduck.dev/debug-world-why-write-this-blog)
 - [Debugging in Production—How to move fast without breaking things](https://medium.com/javarevisited/debugging-in-production-how-to-move-fast-without-breaking-things-46cc2eda36b6?source=rss-a8cc878ccaaa------2)
