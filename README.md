@@ -7,7 +7,7 @@
 
 - I have another developer account at [https://github.com/shai-athena/](https://github.com/shai-athena/)
 
-- 📝 I regularly write articles on [Talk to the Duck](https://talktotheduck.dev/), [Codename One](https://www.codenameone.com/blog), [Lightrun](https://lightrun.com/blog/), [Dev.to](https://dev.to/codename_one/), [Medium](https://medium.com/@Codename_One) and [Hacker Noon](https://hackernoon.com/u/Codename_One). I'm ocassionally featured on [dzone](https://dzone.com/users/308/sa74997.html), [JavaCodeGeeks](https://www.javacodegeeks.com/user/shai.almog?profiletab=posts) and others
+- 📝 I regularly write articles on [Talk to the Duck](https://talktotheduck.dev/), [Codename One](https://www.codenameone.com/blog), [Lightrun](https://lightrun.com/blog/), [Dev.to](https://dev.to/codename_one/), [Medium](https://medium.com/@Codename_One) and [Hacker Noon](https://hackernoon.com/u/Codename_One). I'm ocassionally featured on [foojay](https://foojay.io/), [dzone](https://dzone.com/users/308/sa74997.html), [JavaCodeGeeks](https://www.javacodegeeks.com/user/shai.almog?profiletab=posts) and others
 
 - 💬 Ask me about **Java, Debugging, Production, VM internals and pretty much anything**
 
