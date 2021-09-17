@@ -21,6 +21,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Debugging in Production-How to move fast without breaking things](https://dev.to/codename_one/debugging-in-production-how-to-move-fast-without-breaking-things-3hnl)
 - [The Debugger Checklist — Part I](https://medium.com/javarevisited/the-debugger-checklist-part-i-b5bf56765bb8?source=rss-a8cc878ccaaa------2)
 - [The Debugger Checklist – Part I](https://talktotheduck.dev/the-debugger-checklist-part-i)
 - [Debug World – Why Write this Blog?](https://talktotheduck.dev/debug-world-why-write-this-blog)
@@ -40,7 +41,6 @@
 - [Tips for the Javascript port of Codename One apps](https://www.codenameone.com/blog/tips-for-the-javascript-port-of-codename-one-apps.html)
 - [How to detect Jailbroken or Rooted device and hide sensitive data in background?](https://www.codenameone.com/blog/how-to-detect-jailbroken-or-rooted-device-and-hide-sensitive-data-in-background.html)
 - [Build Cross-Platform Native Mobile Apps using Java/Kotlin for iOS, Android, Desktop & Web](https://dev.to/codename_one/build-cross-platform-native-mobile-apps-using-java-kotlin-for-ios-android-desktop-web-5g3j)
-- [Create Native Mobile Apps using Java (Kotlin) and Maven](https://medium.com/javarevisited/create-native-mobile-apps-using-java-kotlin-and-maven-f50e0bd03527?source=rss-a8cc878ccaaa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
