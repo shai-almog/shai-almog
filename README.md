@@ -21,6 +21,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Complete List of Spring Boot Annotations You Must Know](https://lightrun.com/java/the-complete-list-of-spring-boot-annotations-you-must-know/)
 - [Debugging in Production-How to move fast without breaking things](https://dev.to/codename_one/debugging-in-production-how-to-move-fast-without-breaking-things-3hnl)
 - [The Debugger Checklist — Part I](https://medium.com/javarevisited/the-debugger-checklist-part-i-b5bf56765bb8?source=rss-a8cc878ccaaa------2)
 - [The Debugger Checklist – Part I](https://talktotheduck.dev/the-debugger-checklist-part-i)
@@ -35,7 +36,6 @@
 - [Debugging in Production – How to move fast without breaking things](https://www.codenameone.com/blog/debugging-in-production-how-to-move-fast-without-breaking-things.html)
 - [Lightrun for Python is Now Generally Available](https://lightrun.com/debugging/lightrun-python/)
 - [[Press Release] Lightrun Launches Support for Python, Giving Developers a Simpler Way to Debug Live Machine Learning Pipelines](https://lightrun.com/inside-lightrun/pr-python-pycharm/)
-- [5 Most Common API Errors and How to Fix Them](https://lightrun.com/best-practices/5-most-common-api-errors-and-how-to-fix-them/)
 - [New CSS Units in Codename One Apps](https://www.codenameone.com/blog/new-css-units-in-codename-one-apps.html)
 - [Moving to API Level 30](https://www.codenameone.com/blog/moving-to-api-level-30.html)
 - [Tips for the Javascript port of Codename One apps](https://www.codenameone.com/blog/tips-for-the-javascript-port-of-codename-one-apps.html)
