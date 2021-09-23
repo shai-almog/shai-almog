@@ -21,6 +21,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Debuggers Checklist](https://medium.com/javarevisited/the-debuggers-checklist-ea68fdf4ea68?source=rss-a8cc878ccaaa------2)
 - [The Debugger Checklist – Part II](https://talktotheduck.dev/the-debugger-checklist-part-ii)
 - [The Complete List of Spring Boot Annotations You Must Know](https://lightrun.com/java/the-complete-list-of-spring-boot-annotations-you-must-know/)
 - [Debugging in Production-How to move fast without breaking things](https://dev.to/codename_one/debugging-in-production-how-to-move-fast-without-breaking-things-3hnl)
@@ -40,7 +41,6 @@
 - [New CSS Units in Codename One Apps](https://www.codenameone.com/blog/new-css-units-in-codename-one-apps.html)
 - [Moving to API Level 30](https://www.codenameone.com/blog/moving-to-api-level-30.html)
 - [Tips for the Javascript port of Codename One apps](https://www.codenameone.com/blog/tips-for-the-javascript-port-of-codename-one-apps.html)
-- [How to detect Jailbroken or Rooted device and hide sensitive data in background?](https://www.codenameone.com/blog/how-to-detect-jailbroken-or-rooted-device-and-hide-sensitive-data-in-background.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
