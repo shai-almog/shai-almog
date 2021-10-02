@@ -21,6 +21,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Contribute to Codename One during Hacktoberfest](https://medium.com/@Codename_One/contribute-to-codename-one-during-hacktoberfest-aff5b8798753?source=rss-a8cc878ccaaa------2)
 - [Contribute to Codename One during Hacktoberfest](https://www.codenameone.com/blog/contribute-to-codename-one-during-hacktoberfest.html)
 - [Understanding Stack Traces and Debugging them Further](https://talktotheduck.dev/understanding-stack-traces-and-debugging-them-further)
 - [Google Play Kafkaesque Experience](https://medium.com/theleanprogrammer/google-play-kafkaesque-experience-5ee2bc436b09?source=rss-a8cc878ccaaa------2)
@@ -40,7 +41,6 @@
 - [Announcing CodeRAD 2.0 Preview](https://www.codenameone.com/blog/announcing-coderad-2-0-preview.html)
 - [Debugging in Production – How to move fast without breaking things](https://www.codenameone.com/blog/debugging-in-production-how-to-move-fast-without-breaking-things.html)
 - [Lightrun for Python is Now Generally Available](https://lightrun.com/debugging/lightrun-python/)
-- [[Press Release] Lightrun Launches Support for Python, Giving Developers a Simpler Way to Debug Live Machine Learning Pipelines](https://lightrun.com/inside-lightrun/pr-python-pycharm/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
