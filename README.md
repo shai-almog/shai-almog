@@ -22,6 +22,7 @@
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Contribute to Codename One during Hacktoberfest](https://medium.com/@Codename_One/contribute-to-codename-one-during-hacktoberfest-aff5b8798753?source=rss-a8cc878ccaaa------2)
+- [Contribute to Codename One during Hacktoberfest](https://www.codenameone.com/blog/contribute-to-codename-one-during-hacktoberfest.html)
 - [Understanding Stack Traces and Debugging them Further](https://talktotheduck.dev/understanding-stack-traces-and-debugging-them-further)
 - [Google Play Kafkaesque Experience](https://medium.com/theleanprogrammer/google-play-kafkaesque-experience-5ee2bc436b09?source=rss-a8cc878ccaaa------2)
 - [The Debuggers Checklist](https://medium.com/javarevisited/the-debuggers-checklist-ea68fdf4ea68?source=rss-a8cc878ccaaa------2)
@@ -34,13 +35,12 @@
 - [Debugging in Production—How to move fast without breaking things](https://medium.com/javarevisited/debugging-in-production-how-to-move-fast-without-breaking-things-46cc2eda36b6?source=rss-a8cc878ccaaa------2)
 - [Node.js Security and Observability using Lightrun & Snyk](https://lightrun.com/observability/nodejs-security-observability-lightrun-snyk/)
 - [The Essential Guide to Kubernetes Service Discovery](https://lightrun.com/observability/the-essential-guide-to-kubernetes-service-discovery/)
+- [Moving the Support to Reddit](https://www.codenameone.com/blog/moving-the-support-to-reddit.html)
 - [Full-cycle observability with the Elastic Stack and Lightrun](https://lightrun.com/observability/full-cycle-observability-with-the-elastic-stack-and-lightrun/)
 - [How to Debug Remotely in VS Code](https://lightrun.com/debugging/how-to-debug-remotely-in-vs-code/)
+- [Announcing CodeRAD 2.0 Preview](https://www.codenameone.com/blog/announcing-coderad-2-0-preview.html)
+- [Debugging in Production – How to move fast without breaking things](https://www.codenameone.com/blog/debugging-in-production-how-to-move-fast-without-breaking-things.html)
 - [Lightrun for Python is Now Generally Available](https://lightrun.com/debugging/lightrun-python/)
-- [[Press Release] Lightrun Launches Support for Python, Giving Developers a Simpler Way to Debug Live Machine Learning Pipelines](https://lightrun.com/inside-lightrun/pr-python-pycharm/)
-- [Build Cross-Platform Native Mobile Apps using Java/Kotlin for iOS, Android, Desktop & Web](https://dev.to/codename_one/build-cross-platform-native-mobile-apps-using-java-kotlin-for-ios-android-desktop-web-5g3j)
-- [Create Native Mobile Apps using Java (Kotlin) and Maven](https://medium.com/javarevisited/create-native-mobile-apps-using-java-kotlin-and-maven-f50e0bd03527?source=rss-a8cc878ccaaa------2)
-- [Hibernate isn’t Object Oriented, Don’t try to Make it OOP](https://medium.com/javarevisited/hibernate-isnt-object-oriented-don-t-try-to-make-it-oop-631c53253099?source=rss-a8cc878ccaaa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
