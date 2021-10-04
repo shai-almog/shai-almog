@@ -21,6 +21,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Stack Traces and Debugging them Further](https://medium.com/javarevisited/understanding-stack-traces-and-debugging-them-further-d866a1ce0493?source=rss-a8cc878ccaaa------2)
 - [Contribute to Codename One during Hacktoberfest](https://medium.com/@Codename_One/contribute-to-codename-one-during-hacktoberfest-aff5b8798753?source=rss-a8cc878ccaaa------2)
 - [Contribute to Codename One during Hacktoberfest](https://www.codenameone.com/blog/contribute-to-codename-one-during-hacktoberfest.html)
 - [Understanding Stack Traces and Debugging them Further](https://talktotheduck.dev/understanding-stack-traces-and-debugging-them-further)
@@ -40,7 +41,6 @@
 - [How to Debug Remotely in VS Code](https://lightrun.com/debugging/how-to-debug-remotely-in-vs-code/)
 - [Announcing CodeRAD 2.0 Preview](https://www.codenameone.com/blog/announcing-coderad-2-0-preview.html)
 - [Debugging in Production – How to move fast without breaking things](https://www.codenameone.com/blog/debugging-in-production-how-to-move-fast-without-breaking-things.html)
-- [Lightrun for Python is Now Generally Available](https://lightrun.com/debugging/lightrun-python/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
