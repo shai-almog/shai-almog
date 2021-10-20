@@ -21,6 +21,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Debugging Tutorial 1 – Introduction: Conditional Breakpoints](https://talktotheduck.dev/debugging-tutorial-1-introduction-conditional-breakpoints)
 - [PSA:The Risks of Remote JDWP Debugging](https://talktotheduck.dev/psa-the-risks-of-remote-jdwp-debugging)
 - [Understanding Stack Traces and Debugging them Further](https://medium.com/javarevisited/understanding-stack-traces-and-debugging-them-further-d866a1ce0493?source=rss-a8cc878ccaaa------2)
 - [Contribute to Codename One during Hacktoberfest](https://medium.com/@Codename_One/contribute-to-codename-one-during-hacktoberfest-aff5b8798753?source=rss-a8cc878ccaaa------2)
@@ -40,7 +41,6 @@
 - [The Essential Guide to Kubernetes Service Discovery](https://lightrun.com/observability/the-essential-guide-to-kubernetes-service-discovery/)
 - [Moving the Support to Reddit](https://www.codenameone.com/blog/moving-the-support-to-reddit.html)
 - [Full-cycle observability with the Elastic Stack and Lightrun](https://lightrun.com/observability/full-cycle-observability-with-the-elastic-stack-and-lightrun/)
-- [How to Debug Remotely in VS Code](https://lightrun.com/debugging/how-to-debug-remotely-in-vs-code/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
