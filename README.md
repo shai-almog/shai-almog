@@ -21,6 +21,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Production Horrors — Handling Disasters: Public Debrief](https://medium.com/javarevisited/production-horrors-handling-disasters-public-debrief-9fc8b57b127a?source=rss-a8cc878ccaaa------2)
 - [Production Horrors – Handling Disasters: Public Debrief](https://talktotheduck.dev/production-horrors-handling-disasters-public-debrief)
 - [Debugging Tutorial 1 — Introduction: Conditional Breakpoints](https://medium.com/javarevisited/debugging-tutorial-1-introduction-conditional-breakpoints-1721efee1ace?source=rss-a8cc878ccaaa------2)
 - [Debugging Tutorial 1 – Introduction: Conditional Breakpoints](https://talktotheduck.dev/debugging-tutorial-1-introduction-conditional-breakpoints)
@@ -40,7 +41,6 @@
 - [How to Perform Python Remote Debugging](https://lightrun.com/debugging/how-to-perform-python-remote-debugging/)
 - [Debugging in Production—How to move fast without breaking things](https://medium.com/javarevisited/debugging-in-production-how-to-move-fast-without-breaking-things-46cc2eda36b6?source=rss-a8cc878ccaaa------2)
 - [Node.js Security and Observability using Lightrun & Snyk](https://lightrun.com/observability/nodejs-security-observability-lightrun-snyk/)
-- [The Essential Guide to Kubernetes Service Discovery](https://lightrun.com/observability/the-essential-guide-to-kubernetes-service-discovery/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
