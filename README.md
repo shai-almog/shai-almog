@@ -21,6 +21,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Developers Can Now Debug Running Nomad-Orchestrated Applications Using Lightrun](https://lightrun.com/blog/hashicorp-nomad-lightrun-driver/)
 - [Production Horrors — Handling Disasters: Public Debrief](https://medium.com/javarevisited/production-horrors-handling-disasters-public-debrief-9fc8b57b127a?source=rss-a8cc878ccaaa------2)
 - [Production Horrors – Handling Disasters: Public Debrief](https://talktotheduck.dev/production-horrors-handling-disasters-public-debrief)
 - [Debugging Tutorial 1 — Introduction: Conditional Breakpoints](https://medium.com/javarevisited/debugging-tutorial-1-introduction-conditional-breakpoints-1721efee1ace?source=rss-a8cc878ccaaa------2)
@@ -40,7 +41,6 @@
 - [Debug World – Why Write this Blog?](https://talktotheduck.dev/debug-world-why-write-this-blog)
 - [How to Perform Python Remote Debugging](https://lightrun.com/debugging/how-to-perform-python-remote-debugging/)
 - [Debugging in Production—How to move fast without breaking things](https://medium.com/javarevisited/debugging-in-production-how-to-move-fast-without-breaking-things-46cc2eda36b6?source=rss-a8cc878ccaaa------2)
-- [Node.js Security and Observability using Lightrun & Snyk](https://lightrun.com/observability/nodejs-security-observability-lightrun-snyk/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
