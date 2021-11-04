@@ -21,6 +21,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Programs Fail — a Book Review](https://medium.com/javarevisited/why-programs-fail-a-book-review-1452c3e7d476?source=rss-a8cc878ccaaa------2)
 - [Why Programs Fail – a Book Review](https://talktotheduck.dev/why-programs-fail-a-book-review)
 - [5 Best VS Code Themes](https://lightrun.com/dev-tools/5-best-vs-code-themes/)
 - [Developers Can Now Debug Running Nomad-Orchestrated Applications Using Lightrun](https://lightrun.com/blog/hashicorp-nomad-lightrun-driver/)
@@ -40,7 +41,6 @@
 - [Debugging in Production-How to move fast without breaking things](https://dev.to/codename_one/debugging-in-production-how-to-move-fast-without-breaking-things-3hnl)
 - [The Debugger Checklist — Part I](https://medium.com/javarevisited/the-debugger-checklist-part-i-b5bf56765bb8?source=rss-a8cc878ccaaa------2)
 - [The Debugger Checklist – Part I](https://talktotheduck.dev/the-debugger-checklist-part-i)
-- [Debug World – Why Write this Blog?](https://talktotheduck.dev/debug-world-why-write-this-blog)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
