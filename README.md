@@ -21,6 +21,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Production Horrors — Customer Miscommunication Leads to Ongoing Nightmare](https://medium.com/javarevisited/production-horrors-customer-miscommunication-leads-to-ongoing-nightmare-e06ed505bcb0?source=rss-a8cc878ccaaa------2)
 - [Production Horrors – Customer Miscommunication Leads to Ongoing Nightmare](https://talktotheduck.dev/production-horrors-customer-miscommunication-leads-to-ongoing-nightmare)
 - [What is Kubernetes Lens?](https://lightrun.com/dev-tools/what-is-kubernetes-lens/)
 - [PSA:The Risks of Remote JDWP Debugging](https://medium.com/theleanprogrammer/psa-the-risks-of-remote-jdwp-debugging-732ebbff4ad7?source=rss-a8cc878ccaaa------2)
@@ -40,7 +41,6 @@
 - [Understanding Stack Traces and Debugging them Further](https://talktotheduck.dev/understanding-stack-traces-and-debugging-them-further)
 - [Google Play Kafkaesque Experience](https://medium.com/theleanprogrammer/google-play-kafkaesque-experience-5ee2bc436b09?source=rss-a8cc878ccaaa------2)
 - [The Debuggers Checklist](https://medium.com/javarevisited/the-debuggers-checklist-ea68fdf4ea68?source=rss-a8cc878ccaaa------2)
-- [The Debugger Checklist – Part II](https://talktotheduck.dev/the-debugger-checklist-part-ii)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
