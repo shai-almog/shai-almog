@@ -21,6 +21,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Effortless Cloud Native App Development Using Skaffold — Book Review](https://medium.com/javarevisited/cloud-native-skaffold-book-review-49457242fadf?source=rss-a8cc878ccaaa------2)
 - [Effortless Cloud Native App Development Using Skaffold - Book Review](https://talktotheduck.dev/cloud-native-skaffold-book-review)
 - [Production Horrors — Customer Miscommunication Leads to Ongoing Nightmare](https://medium.com/javarevisited/production-horrors-customer-miscommunication-leads-to-ongoing-nightmare-e06ed505bcb0?source=rss-a8cc878ccaaa------2)
 - [Production Horrors – Customer Miscommunication Leads to Ongoing Nightmare](https://talktotheduck.dev/production-horrors-customer-miscommunication-leads-to-ongoing-nightmare)
@@ -40,7 +41,6 @@
 - [Contribute to Codename One during Hacktoberfest](https://medium.com/@Codename_One/contribute-to-codename-one-during-hacktoberfest-aff5b8798753?source=rss-a8cc878ccaaa------2)
 - [Contribute to Codename One during Hacktoberfest](https://www.codenameone.com/blog/contribute-to-codename-one-during-hacktoberfest.html)
 - [Understanding Stack Traces and Debugging them Further](https://talktotheduck.dev/understanding-stack-traces-and-debugging-them-further)
-- [Google Play Kafkaesque Experience](https://medium.com/theleanprogrammer/google-play-kafkaesque-experience-5ee2bc436b09?source=rss-a8cc878ccaaa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
