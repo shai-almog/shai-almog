@@ -27,7 +27,6 @@
 - [Production Horrors – Customer Miscommunication Leads to Ongoing Nightmare](https://talktotheduck.dev/production-horrors-customer-miscommunication-leads-to-ongoing-nightmare)
 - [What is Kubernetes Lens?](https://lightrun.com/dev-tools/what-is-kubernetes-lens/)
 - [PSA:The Risks of Remote JDWP Debugging](https://medium.com/theleanprogrammer/psa-the-risks-of-remote-jdwp-debugging-732ebbff4ad7?source=rss-a8cc878ccaaa------2)
-- [We’re Raising Prices! Here’s how you can keep the old Price](https://www.codenameone.com/blog/we-are-raising-prices.html)
 - [Why Programs Fail — a Book Review](https://medium.com/javarevisited/why-programs-fail-a-book-review-1452c3e7d476?source=rss-a8cc878ccaaa------2)
 - [Why Programs Fail – a Book Review](https://talktotheduck.dev/why-programs-fail-a-book-review)
 - [5 Best VS Code Themes](https://lightrun.com/dev-tools/5-best-vs-code-themes/)
@@ -39,8 +38,9 @@
 - [PSA:The Risks of Remote JDWP Debugging](https://talktotheduck.dev/psa-the-risks-of-remote-jdwp-debugging)
 - [Understanding Stack Traces and Debugging them Further](https://medium.com/javarevisited/understanding-stack-traces-and-debugging-them-further-d866a1ce0493?source=rss-a8cc878ccaaa------2)
 - [Contribute to Codename One during Hacktoberfest](https://medium.com/@Codename_One/contribute-to-codename-one-during-hacktoberfest-aff5b8798753?source=rss-a8cc878ccaaa------2)
-- [Contribute to Codename One during Hacktoberfest](https://www.codenameone.com/blog/contribute-to-codename-one-during-hacktoberfest.html)
 - [Understanding Stack Traces and Debugging them Further](https://talktotheduck.dev/understanding-stack-traces-and-debugging-them-further)
+- [Google Play Kafkaesque Experience](https://medium.com/theleanprogrammer/google-play-kafkaesque-experience-5ee2bc436b09?source=rss-a8cc878ccaaa------2)
+- [The Debuggers Checklist](https://medium.com/javarevisited/the-debuggers-checklist-ea68fdf4ea68?source=rss-a8cc878ccaaa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
