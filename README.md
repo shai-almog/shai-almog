@@ -21,6 +21,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Debugging the Technical Interview. Methods and Cheating](https://talktotheduck.dev/debugging-the-technical-interview-methods-and-cheating)
 - [Hashcode and Equals Debugging, Performance](https://medium.com/javarevisited/hashcode-and-equals-debugging-performance-a4763d02f0ce?source=rss-a8cc878ccaaa------2)
 - [Hashcode and Equals Debugging, Performance](https://talktotheduck.dev/hashcode-and-equals-debugging-performance)
 - [Effortless Cloud Native App Development Using Skaffold — Book Review](https://medium.com/javarevisited/cloud-native-skaffold-book-review-49457242fadf?source=rss-a8cc878ccaaa------2)
@@ -40,7 +41,6 @@
 - [Debugging Tutorial 1 – Introduction: Conditional Breakpoints](https://talktotheduck.dev/debugging-tutorial-1-introduction-conditional-breakpoints)
 - [PSA:The Risks of Remote JDWP Debugging](https://talktotheduck.dev/psa-the-risks-of-remote-jdwp-debugging)
 - [Understanding Stack Traces and Debugging them Further](https://medium.com/javarevisited/understanding-stack-traces-and-debugging-them-further-d866a1ce0493?source=rss-a8cc878ccaaa------2)
-- [Contribute to Codename One during Hacktoberfest](https://medium.com/@Codename_One/contribute-to-codename-one-during-hacktoberfest-aff5b8798753?source=rss-a8cc878ccaaa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
