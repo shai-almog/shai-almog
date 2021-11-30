@@ -23,6 +23,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Debugging the Technical Interview. Methods and Cheating](https://talktotheduck.dev/debugging-the-technical-interview-methods-and-cheating)
 - [Hashcode and Equals Debugging, Performance](https://medium.com/javarevisited/hashcode-and-equals-debugging-performance-a4763d02f0ce?source=rss-a8cc878ccaaa------2)
+- [Linux Mint vs Ubuntu: Who will win?](https://lightrun.com/best-practices/comparing-linux-mint-and-ubuntu/)
 - [Hashcode and Equals Debugging, Performance](https://talktotheduck.dev/hashcode-and-equals-debugging-performance)
 - [Effortless Cloud Native App Development Using Skaffold — Book Review](https://medium.com/javarevisited/cloud-native-skaffold-book-review-49457242fadf?source=rss-a8cc878ccaaa------2)
 - [Effortless Cloud Native App Development Using Skaffold - Book Review](https://talktotheduck.dev/cloud-native-skaffold-book-review)
@@ -40,7 +41,6 @@
 - [Debugging Tutorial 1 — Introduction: Conditional Breakpoints](https://medium.com/javarevisited/debugging-tutorial-1-introduction-conditional-breakpoints-1721efee1ace?source=rss-a8cc878ccaaa------2)
 - [Debugging Tutorial 1 – Introduction: Conditional Breakpoints](https://talktotheduck.dev/debugging-tutorial-1-introduction-conditional-breakpoints)
 - [PSA:The Risks of Remote JDWP Debugging](https://talktotheduck.dev/psa-the-risks-of-remote-jdwp-debugging)
-- [Understanding Stack Traces and Debugging them Further](https://medium.com/javarevisited/understanding-stack-traces-and-debugging-them-further-d866a1ce0493?source=rss-a8cc878ccaaa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
