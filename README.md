@@ -21,6 +21,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Fail-Fast Reliable Software Strategy. Debug Failures Effectively](https://talktotheduck.dev/fail-fast-reliable-software-strategy-debug-failures-effectively)
 - [Debugging the Technical Interview. Methods and Cheating](https://medium.com/javarevisited/debugging-the-technical-interview-methods-and-cheating-d71fdacee9c2?source=rss-a8cc878ccaaa------2)
 - [Debugging the Technical Interview. Methods and Cheating](https://talktotheduck.dev/debugging-the-technical-interview-methods-and-cheating)
 - [Hashcode and Equals Debugging, Performance](https://medium.com/javarevisited/hashcode-and-equals-debugging-performance-a4763d02f0ce?source=rss-a8cc878ccaaa------2)
@@ -40,7 +41,6 @@
 - [Production Horrors — Handling Disasters: Public Debrief](https://medium.com/javarevisited/production-horrors-handling-disasters-public-debrief-9fc8b57b127a?source=rss-a8cc878ccaaa------2)
 - [Production Horrors – Handling Disasters: Public Debrief](https://talktotheduck.dev/production-horrors-handling-disasters-public-debrief)
 - [Debugging Tutorial 1 — Introduction: Conditional Breakpoints](https://medium.com/javarevisited/debugging-tutorial-1-introduction-conditional-breakpoints-1721efee1ace?source=rss-a8cc878ccaaa------2)
-- [Debugging Tutorial 1 – Introduction: Conditional Breakpoints](https://talktotheduck.dev/debugging-tutorial-1-introduction-conditional-breakpoints)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
