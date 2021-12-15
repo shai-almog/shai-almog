@@ -21,6 +21,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Merry Christmas and Happy New Year - the blog is on Vacation](https://talktotheduck.dev/merry-christmas-and-happy-new-year-the-blog-is-on-vacation)
 - [Is Fail-Fast a Reliable Software Strategy?](https://betterprogramming.pub/is-fail-fast-a-reliable-software-strategy-9ee5c659f061?source=rss-a8cc878ccaaa------2)
 - [Fail-Fast Reliable Software Strategy. Debug Failures Effectively](https://talktotheduck.dev/fail-fast-reliable-software-strategy-debug-failures-effectively)
 - [Debugging the Technical Interview. Methods and Cheating](https://medium.com/javarevisited/debugging-the-technical-interview-methods-and-cheating-d71fdacee9c2?source=rss-a8cc878ccaaa------2)
@@ -40,7 +41,6 @@
 - [5 Best VS Code Themes](https://lightrun.com/dev-tools/5-best-vs-code-themes/)
 - [Developers Can Now Debug Running Nomad-Orchestrated Applications Using Lightrun](https://lightrun.com/blog/hashicorp-nomad-lightrun-driver/)
 - [Production Horrors — Handling Disasters: Public Debrief](https://medium.com/javarevisited/production-horrors-handling-disasters-public-debrief-9fc8b57b127a?source=rss-a8cc878ccaaa------2)
-- [Production Horrors – Handling Disasters: Public Debrief](https://talktotheduck.dev/production-horrors-handling-disasters-public-debrief)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
