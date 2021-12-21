@@ -21,6 +21,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Scaffolding Spring Boot, Freemarker and JDI — Building DDTJ, Day 2](https://medium.com/javarevisited/scaffolding-spring-boot-freemarker-and-jdi-building-ddtj-day-2-1b991ad3c40c?source=rss-a8cc878ccaaa------2)
 - [Open Source Software Product Development, Building DDTJ — Day 1](https://medium.com/javarevisited/open-source-software-product-development-building-ddtj-day-1-f87d0c648288?source=rss-a8cc878ccaaa------2)
 - [Merry Christmas and Happy New Year - the blog is on Vacation](https://talktotheduck.dev/merry-christmas-and-happy-new-year-the-blog-is-on-vacation)
 - [Is Fail-Fast a Reliable Software Strategy?](https://betterprogramming.pub/is-fail-fast-a-reliable-software-strategy-9ee5c659f061?source=rss-a8cc878ccaaa------2)
@@ -40,7 +41,6 @@
 - [Why Programs Fail — a Book Review](https://medium.com/javarevisited/why-programs-fail-a-book-review-1452c3e7d476?source=rss-a8cc878ccaaa------2)
 - [Why Programs Fail – a Book Review](https://talktotheduck.dev/why-programs-fail-a-book-review)
 - [5 Best VS Code Themes](https://lightrun.com/dev-tools/5-best-vs-code-themes/)
-- [Developers Can Now Debug Running Nomad-Orchestrated Applications Using Lightrun](https://lightrun.com/blog/hashicorp-nomad-lightrun-driver/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
