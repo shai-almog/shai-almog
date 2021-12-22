@@ -21,26 +21,26 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Scaffolding Spring Boot, Freemarker and JDI — Building DDTJ, Day 2](https://medium.com/javarevisited/scaffolding-spring-boot-freemarker-and-jdi-building-ddtj-day-2-1b991ad3c40c?source=rss-a8cc878ccaaa------2)
-- [Open Source Software Product Development, Building DDTJ — Day 1](https://medium.com/javarevisited/open-source-software-product-development-building-ddtj-day-1-f87d0c648288?source=rss-a8cc878ccaaa------2)
 - [Merry Christmas and Happy New Year - the blog is on Vacation](https://talktotheduck.dev/merry-christmas-and-happy-new-year-the-blog-is-on-vacation)
-- [Is Fail-Fast a Reliable Software Strategy?](https://betterprogramming.pub/is-fail-fast-a-reliable-software-strategy-9ee5c659f061?source=rss-a8cc878ccaaa------2)
 - [Fail-Fast Reliable Software Strategy. Debug Failures Effectively](https://talktotheduck.dev/fail-fast-reliable-software-strategy-debug-failures-effectively)
-- [Debugging the Technical Interview. Methods and Cheating](https://medium.com/javarevisited/debugging-the-technical-interview-methods-and-cheating-d71fdacee9c2?source=rss-a8cc878ccaaa------2)
 - [Debugging the Technical Interview. Methods and Cheating](https://talktotheduck.dev/debugging-the-technical-interview-methods-and-cheating)
-- [Hashcode and Equals Debugging, Performance](https://medium.com/javarevisited/hashcode-and-equals-debugging-performance-a4763d02f0ce?source=rss-a8cc878ccaaa------2)
 - [Linux Mint vs Ubuntu: Who will win?](https://lightrun.com/best-practices/comparing-linux-mint-and-ubuntu/)
 - [Hashcode and Equals Debugging, Performance](https://talktotheduck.dev/hashcode-and-equals-debugging-performance)
-- [Effortless Cloud Native App Development Using Skaffold — Book Review](https://medium.com/javarevisited/cloud-native-skaffold-book-review-49457242fadf?source=rss-a8cc878ccaaa------2)
 - [Effortless Cloud Native App Development Using Skaffold - Book Review](https://talktotheduck.dev/cloud-native-skaffold-book-review)
-- [Production Horrors — Customer Miscommunication Leads to Ongoing Nightmare](https://medium.com/javarevisited/production-horrors-customer-miscommunication-leads-to-ongoing-nightmare-e06ed505bcb0?source=rss-a8cc878ccaaa------2)
 - [Production Horrors – Customer Miscommunication Leads to Ongoing Nightmare](https://talktotheduck.dev/production-horrors-customer-miscommunication-leads-to-ongoing-nightmare)
 - [What is Kubernetes Lens?](https://lightrun.com/dev-tools/what-is-kubernetes-lens/)
-- [PSA:The Risks of Remote JDWP Debugging](https://medium.com/theleanprogrammer/psa-the-risks-of-remote-jdwp-debugging-732ebbff4ad7?source=rss-a8cc878ccaaa------2)
 - [We’re Raising Prices! Here’s how you can keep the old Price](https://www.codenameone.com/blog/we-are-raising-prices.html)
-- [Why Programs Fail — a Book Review](https://medium.com/javarevisited/why-programs-fail-a-book-review-1452c3e7d476?source=rss-a8cc878ccaaa------2)
 - [Why Programs Fail – a Book Review](https://talktotheduck.dev/why-programs-fail-a-book-review)
 - [5 Best VS Code Themes](https://lightrun.com/dev-tools/5-best-vs-code-themes/)
+- [Developers Can Now Debug Running Nomad-Orchestrated Applications Using Lightrun](https://lightrun.com/blog/hashicorp-nomad-lightrun-driver/)
+- [Production Horrors – Handling Disasters: Public Debrief](https://talktotheduck.dev/production-horrors-handling-disasters-public-debrief)
+- [Debugging Tutorial 1 – Introduction: Conditional Breakpoints](https://talktotheduck.dev/debugging-tutorial-1-introduction-conditional-breakpoints)
+- [PSA:The Risks of Remote JDWP Debugging](https://talktotheduck.dev/psa-the-risks-of-remote-jdwp-debugging)
+- [Contribute to Codename One during Hacktoberfest](https://www.codenameone.com/blog/contribute-to-codename-one-during-hacktoberfest.html)
+- [Understanding Stack Traces and Debugging them Further](https://talktotheduck.dev/understanding-stack-traces-and-debugging-them-further)
+- [The Debugger Checklist – Part II](https://talktotheduck.dev/the-debugger-checklist-part-ii)
+- [The Complete List of Spring Boot Annotations You Must Know](https://lightrun.com/java/the-complete-list-of-spring-boot-annotations-you-must-know/)
+- [Debugging in Production-How to move fast without breaking things](https://dev.to/codename_one/debugging-in-production-how-to-move-fast-without-breaking-things-3hnl)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
