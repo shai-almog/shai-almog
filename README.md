@@ -21,6 +21,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Still Deep in Type Hierarchy Hell Code, Building DDTJ — Day 5](https://medium.com/javarevisited/still-deep-in-type-hierarchy-hell-code-building-ddtj-day-5-7404378f7a63?source=rss-a8cc878ccaaa------2)
 - [End to end Debug Object Modeling. First hard problem in Building DDTJ — Day 4](https://medium.com/javarevisited/end-to-end-debug-object-modeling-first-hard-problem-in-building-ddtj-day-4-77c2d10874c7?source=rss-a8cc878ccaaa------2)
 - [Code Coverage, Java Debugger API and Full Integration in Building DDJT — Day 3](https://medium.com/javarevisited/code-coverage-java-debugger-api-and-full-integration-in-building-ddjt-day-3-320317b081f6?source=rss-a8cc878ccaaa------2)
 - [Scaffolding Spring Boot, Freemarker and JDI — Building DDTJ, Day 2](https://medium.com/javarevisited/scaffolding-spring-boot-freemarker-and-jdi-building-ddtj-day-2-1b991ad3c40c?source=rss-a8cc878ccaaa------2)
@@ -38,7 +39,6 @@
 - [Production Horrors — Customer Miscommunication Leads to Ongoing Nightmare](https://medium.com/javarevisited/production-horrors-customer-miscommunication-leads-to-ongoing-nightmare-e06ed505bcb0?source=rss-a8cc878ccaaa------2)
 - [Production Horrors – Customer Miscommunication Leads to Ongoing Nightmare](https://talktotheduck.dev/production-horrors-customer-miscommunication-leads-to-ongoing-nightmare)
 - [What is Kubernetes Lens?](https://lightrun.com/dev-tools/what-is-kubernetes-lens/)
-- [PSA:The Risks of Remote JDWP Debugging](https://medium.com/theleanprogrammer/psa-the-risks-of-remote-jdwp-debugging-732ebbff4ad7?source=rss-a8cc878ccaaa------2)
 - [We’re Raising Prices! Here’s how you can keep the old Price](https://www.codenameone.com/blog/we-are-raising-prices.html)
 - [Why Programs Fail – a Book Review](https://talktotheduck.dev/why-programs-fail-a-book-review)
 <!-- BLOG-POST-LIST:END -->
