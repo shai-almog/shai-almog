@@ -21,6 +21,8 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Good News and Bad News, Pivot and Turn — Building DDTJ Day 6](https://medium.com/javarevisited/good-news-and-bad-news-pivot-and-turn-building-ddtj-day-6-3795d30882b9?source=rss-a8cc878ccaaa------2)
+- [60x Performance Improvement &amp; Moving on fullstack — Building DDTJ Day 7](https://medium.com/javarevisited/60x-performance-improvement-moving-on-fullstack-building-ddtj-day-7-1deec0dc932a?source=rss-a8cc878ccaaa------2)
 - [Still Deep in Type Hierarchy Hell Code, Building DDTJ — Day 5](https://medium.com/javarevisited/still-deep-in-type-hierarchy-hell-code-building-ddtj-day-5-7404378f7a63?source=rss-a8cc878ccaaa------2)
 - [End to end Debug Object Modeling. First hard problem in Building DDTJ — Day 4](https://medium.com/javarevisited/end-to-end-debug-object-modeling-first-hard-problem-in-building-ddtj-day-4-77c2d10874c7?source=rss-a8cc878ccaaa------2)
 - [Code Coverage, Java Debugger API and Full Integration in Building DDJT — Day 3](https://medium.com/javarevisited/code-coverage-java-debugger-api-and-full-integration-in-building-ddjt-day-3-320317b081f6?source=rss-a8cc878ccaaa------2)
@@ -34,9 +36,7 @@
 - [Hashcode and Equals Debugging, Performance](https://medium.com/javarevisited/hashcode-and-equals-debugging-performance-a4763d02f0ce?source=rss-a8cc878ccaaa------2)
 - [Linux Mint vs Ubuntu: Who will win?](https://lightrun.com/best-practices/comparing-linux-mint-and-ubuntu/)
 - [Hashcode and Equals Debugging, Performance](https://talktotheduck.dev/hashcode-and-equals-debugging-performance)
-- [Effortless Cloud Native App Development Using Skaffold — Book Review](https://medium.com/javarevisited/cloud-native-skaffold-book-review-49457242fadf?source=rss-a8cc878ccaaa------2)
 - [Effortless Cloud Native App Development Using Skaffold - Book Review](https://talktotheduck.dev/cloud-native-skaffold-book-review)
-- [Production Horrors — Customer Miscommunication Leads to Ongoing Nightmare](https://medium.com/javarevisited/production-horrors-customer-miscommunication-leads-to-ongoing-nightmare-e06ed505bcb0?source=rss-a8cc878ccaaa------2)
 - [Production Horrors – Customer Miscommunication Leads to Ongoing Nightmare](https://talktotheduck.dev/production-horrors-customer-miscommunication-leads-to-ongoing-nightmare)
 - [What is Kubernetes Lens?](https://lightrun.com/dev-tools/what-is-kubernetes-lens/)
 - [We’re Raising Prices! Here’s how you can keep the old Price](https://www.codenameone.com/blog/we-are-raising-prices.html)
