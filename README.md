@@ -21,6 +21,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Build Issues, Code Generation and Depth vs. Breadth First — Building DDTJ Day 8](https://medium.com/javarevisited/build-issues-code-generation-and-depth-vs-breadth-first-building-ddtj-day-8-aba6f6c2dbad?source=rss-a8cc878ccaaa------2)
 - [Good News and Bad News, Pivot and Turn — Building DDTJ Day 6](https://medium.com/javarevisited/good-news-and-bad-news-pivot-and-turn-building-ddtj-day-6-3795d30882b9?source=rss-a8cc878ccaaa------2)
 - [60x Performance Improvement &amp; Moving on fullstack — Building DDTJ Day 7](https://medium.com/javarevisited/60x-performance-improvement-moving-on-fullstack-building-ddtj-day-7-1deec0dc932a?source=rss-a8cc878ccaaa------2)
 - [Still Deep in Type Hierarchy Hell Code, Building DDTJ — Day 5](https://medium.com/javarevisited/still-deep-in-type-hierarchy-hell-code-building-ddtj-day-5-7404378f7a63?source=rss-a8cc878ccaaa------2)
@@ -33,7 +34,6 @@
 - [Fail-Fast Reliable Software Strategy. Debug Failures Effectively](https://talktotheduck.dev/fail-fast-reliable-software-strategy-debug-failures-effectively)
 - [Debugging the Technical Interview. Methods and Cheating](https://medium.com/javarevisited/debugging-the-technical-interview-methods-and-cheating-d71fdacee9c2?source=rss-a8cc878ccaaa------2)
 - [Debugging the Technical Interview. Methods and Cheating](https://talktotheduck.dev/debugging-the-technical-interview-methods-and-cheating)
-- [Hashcode and Equals Debugging, Performance](https://medium.com/javarevisited/hashcode-and-equals-debugging-performance-a4763d02f0ce?source=rss-a8cc878ccaaa------2)
 - [Linux Mint vs Ubuntu: Who will win?](https://lightrun.com/best-practices/comparing-linux-mint-and-ubuntu/)
 - [Hashcode and Equals Debugging, Performance](https://talktotheduck.dev/hashcode-and-equals-debugging-performance)
 - [Effortless Cloud Native App Development Using Skaffold - Book Review](https://talktotheduck.dev/cloud-native-skaffold-book-review)
