@@ -21,6 +21,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Polyglot Cloud Native Debugging - Beyond APM and Logging](https://talktotheduck.dev/polyglot-cloud-native-debugging-beyond-apm-and-logging)
 - [Debugging RAM: Java Garbage Collection - Java Heap Deep Dive, Part 1](https://talktotheduck.dev/debugging-ram-java-garbage-collection-java-heap-deep-dive-part-1)
 - [Merry Christmas and Happy New Year - the blog is on Vacation](https://talktotheduck.dev/merry-christmas-and-happy-new-year-the-blog-is-on-vacation)
 - [Fail-Fast Reliable Software Strategy. Debug Failures Effectively](https://talktotheduck.dev/fail-fast-reliable-software-strategy-debug-failures-effectively)
@@ -40,7 +41,6 @@
 - [Contribute to Codename One during Hacktoberfest](https://www.codenameone.com/blog/contribute-to-codename-one-during-hacktoberfest.html)
 - [Understanding Stack Traces and Debugging them Further](https://talktotheduck.dev/understanding-stack-traces-and-debugging-them-further)
 - [The Debugger Checklist – Part II](https://talktotheduck.dev/the-debugger-checklist-part-ii)
-- [The Complete List of Spring Boot Annotations You Must Know](https://lightrun.com/java/the-complete-list-of-spring-boot-annotations-you-must-know/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
