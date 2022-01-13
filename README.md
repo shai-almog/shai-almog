@@ -15,7 +15,7 @@
 
 - I tweet as [@debugagent](https://twitter.com/debugagent) and [@Codename_One](https://twitter.com/Codename_One)
 
-- I wrote a [couple of books](https://www.goodreads.com/author/list/15647322.Shai_Almog) and created a few [online courses](codenameone.teachable.com/)
+- I wrote a [couple of books](https://www.goodreads.com/author/list/15647322.Shai_Almog) and created a few [online courses](https://codenameone.teachable.com/)
 
 <a href="https://stackoverflow.com/users/756809/shai-almog"><img src="https://stackoverflow.com/users/flair/756809.png" width="208" height="58" alt="profile for Shai Almog at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Shai Almog at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
