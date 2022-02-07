@@ -21,6 +21,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [New iOS Certificate Wizard](https://www.codenameone.com/blog/new-ios-certificate-wizard.html)
 - [Debugging RAM: Detect/Fix Memory Leaks in Managed Languages - Heap Deep Dive, Part 2](https://talktotheduck.dev/debugging-ram-detectfix-memory-leaks-in-managed-languages-heap-deep-dive-part-2)
 - [Polyglot Cloud Native Debugging - Beyond APM and Logging](https://talktotheduck.dev/polyglot-cloud-native-debugging-beyond-apm-and-logging)
 - [Debugging RAM: Java Garbage Collection - Java Heap Deep Dive, Part 1](https://talktotheduck.dev/debugging-ram-java-garbage-collection-java-heap-deep-dive-part-1)
@@ -32,15 +33,14 @@
 - [Effortless Cloud Native App Development Using Skaffold - Book Review](https://talktotheduck.dev/cloud-native-skaffold-book-review)
 - [Production Horrors – Customer Miscommunication Leads to Ongoing Nightmare](https://talktotheduck.dev/production-horrors-customer-miscommunication-leads-to-ongoing-nightmare)
 - [What is Kubernetes Lens?](https://lightrun.com/dev-tools/what-is-kubernetes-lens/)
+- [We’re Raising Prices! Here’s how you can keep the old Price](https://www.codenameone.com/blog/we-are-raising-prices.html)
 - [Why Programs Fail – a Book Review](https://talktotheduck.dev/why-programs-fail-a-book-review)
 - [5 Best VS Code Themes](https://lightrun.com/dev-tools/5-best-vs-code-themes/)
 - [Developers Can Now Debug Running Nomad-Orchestrated Applications Using Lightrun](https://lightrun.com/blog/hashicorp-nomad-lightrun-driver/)
 - [Production Horrors – Handling Disasters: Public Debrief](https://talktotheduck.dev/production-horrors-handling-disasters-public-debrief)
 - [Debugging Tutorial 1 – Introduction: Conditional Breakpoints](https://talktotheduck.dev/debugging-tutorial-1-introduction-conditional-breakpoints)
 - [PSA:The Risks of Remote JDWP Debugging](https://talktotheduck.dev/psa-the-risks-of-remote-jdwp-debugging)
-- [Understanding Stack Traces and Debugging them Further](https://talktotheduck.dev/understanding-stack-traces-and-debugging-them-further)
-- [The Debugger Checklist – Part II](https://talktotheduck.dev/the-debugger-checklist-part-ii)
-- [The Complete List of Spring Boot Annotations You Must Know](https://lightrun.com/java/the-complete-list-of-spring-boot-annotations-you-must-know/)
+- [Contribute to Codename One during Hacktoberfest](https://www.codenameone.com/blog/contribute-to-codename-one-during-hacktoberfest.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
