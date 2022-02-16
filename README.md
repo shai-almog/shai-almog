@@ -21,6 +21,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [You’re Doing It Wrong — Recruiting a DevRel](https://talktotheduck.dev/youre-doing-it-wrong-recruiting-a-devrel)
 - [Enter the Cloud Native Dojo: Blackbelt-Level Debugging](https://talktotheduck.dev/enter-the-cloud-native-dojo-blackbelt-level-debugging)
 - [Introducing 140 Second Ducklings: What is Debugging?](https://talktotheduck.dev/introducing-140-second-ducklings-what-is-debugging)
 - [New iOS Certificate Wizard](https://www.codenameone.com/blog/new-ios-certificate-wizard.html)
@@ -40,7 +41,6 @@
 - [5 Best VS Code Themes](https://lightrun.com/dev-tools/5-best-vs-code-themes/)
 - [Developers Can Now Debug Running Nomad-Orchestrated Applications Using Lightrun](https://lightrun.com/blog/hashicorp-nomad-lightrun-driver/)
 - [Production Horrors – Handling Disasters: Public Debrief](https://talktotheduck.dev/production-horrors-handling-disasters-public-debrief)
-- [Debugging Tutorial 1 – Introduction: Conditional Breakpoints](https://talktotheduck.dev/debugging-tutorial-1-introduction-conditional-breakpoints)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
