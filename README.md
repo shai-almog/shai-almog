@@ -21,12 +21,14 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Full-Cycle Observability With Instana and Lightrun](https://lightrun.com/integrations/full-cycle-observability-with-the-instana-and-lightrun/)
 - [Debugging Tutorial: Java Return Value, IntelliJ Jump to Line and more](https://talktotheduck.dev/debugging-tutorial-java-return-value-intellij-jump-to-line-and-more)
 - [You’re Doing It Wrong — Recruiting a DevRel](https://talktotheduck.dev/youre-doing-it-wrong-recruiting-a-devrel)
 - [Enter the Cloud Native Dojo: Blackbelt-Level Debugging](https://talktotheduck.dev/enter-the-cloud-native-dojo-blackbelt-level-debugging)
 - [Introducing 140 Second Ducklings: What is Debugging?](https://talktotheduck.dev/introducing-140-second-ducklings-what-is-debugging)
 - [New iOS Certificate Wizard](https://www.codenameone.com/blog/new-ios-certificate-wizard.html)
 - [Debugging RAM: Detect/Fix Memory Leaks in Managed Languages - Heap Deep Dive, Part 2](https://talktotheduck.dev/debugging-ram-detectfix-memory-leaks-in-managed-languages-heap-deep-dive-part-2)
+- [Lightrun For Application Security – Detecting, Investigating and Verifying Fixes for Security Incidents Using Lightrun](https://lightrun.com/security/lightrun-for-application-security-detecting-investigating-and-verifying-fixes-for-security-incidents-using-lightrun/)
 - [Polyglot Cloud Native Debugging - Beyond APM and Logging](https://talktotheduck.dev/polyglot-cloud-native-debugging-beyond-apm-and-logging)
 - [Debugging RAM: Java Garbage Collection - Java Heap Deep Dive, Part 1](https://talktotheduck.dev/debugging-ram-java-garbage-collection-java-heap-deep-dive-part-1)
 - [Merry Christmas and Happy New Year - the blog is on Vacation](https://talktotheduck.dev/merry-christmas-and-happy-new-year-the-blog-is-on-vacation)
@@ -39,8 +41,6 @@
 - [What is Kubernetes Lens?](https://lightrun.com/dev-tools/what-is-kubernetes-lens/)
 - [We’re Raising Prices! Here’s how you can keep the old Price](https://www.codenameone.com/blog/we-are-raising-prices.html)
 - [Why Programs Fail – a Book Review](https://talktotheduck.dev/why-programs-fail-a-book-review)
-- [5 Best VS Code Themes](https://lightrun.com/dev-tools/5-best-vs-code-themes/)
-- [Developers Can Now Debug Running Nomad-Orchestrated Applications Using Lightrun](https://lightrun.com/blog/hashicorp-nomad-lightrun-driver/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
