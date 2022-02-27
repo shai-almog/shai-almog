@@ -21,6 +21,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Developers Can Now Debug Live Applications in VS Code With Lightrun](https://lightrun.com/inside-lightrun/lightrun-for-visual-studio-code/)
 - [Full-Cycle Observability With Instana and Lightrun](https://lightrun.com/integrations/full-cycle-observability-with-the-instana-and-lightrun/)
 - [Debugging Tutorial: Java Return Value, IntelliJ Jump to Line and more](https://talktotheduck.dev/debugging-tutorial-java-return-value-intellij-jump-to-line-and-more)
 - [You’re Doing It Wrong — Recruiting a DevRel](https://talktotheduck.dev/youre-doing-it-wrong-recruiting-a-devrel)
@@ -40,7 +41,6 @@
 - [Production Horrors – Customer Miscommunication Leads to Ongoing Nightmare](https://talktotheduck.dev/production-horrors-customer-miscommunication-leads-to-ongoing-nightmare)
 - [What is Kubernetes Lens?](https://lightrun.com/dev-tools/what-is-kubernetes-lens/)
 - [We’re Raising Prices! Here’s how you can keep the old Price](https://www.codenameone.com/blog/we-are-raising-prices.html)
-- [Why Programs Fail – a Book Review](https://talktotheduck.dev/why-programs-fail-a-book-review)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
