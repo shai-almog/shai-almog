@@ -21,6 +21,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing KoolKits - OSS  Debugging Toolkits for Kubernetes](https://talktotheduck.dev/introducing-koolkits-oss-debugging-toolkits-for-kubernetes)
 - [Lightrun Releases KoolKits – Debugging Toolkits for Kubernetes](https://lightrun.com/debugging/koolkits-debugging-toolkits-for-kubernetes/)
 - [Lightrun Announces GA Support for Visual Studio Code](https://lightrun.com/inside-lightrun/lightrun-for-visual-studio-code/)
 - [Full-Cycle Observability With Instana and Lightrun](https://lightrun.com/integrations/full-cycle-observability-with-the-instana-and-lightrun/)
@@ -40,7 +41,6 @@
 - [Hashcode and Equals Debugging, Performance](https://talktotheduck.dev/hashcode-and-equals-debugging-performance)
 - [Effortless Cloud Native App Development Using Skaffold - Book Review](https://talktotheduck.dev/cloud-native-skaffold-book-review)
 - [Production Horrors – Customer Miscommunication Leads to Ongoing Nightmare](https://talktotheduck.dev/production-horrors-customer-miscommunication-leads-to-ongoing-nightmare)
-- [What is Kubernetes Lens?](https://lightrun.com/dev-tools/what-is-kubernetes-lens/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
