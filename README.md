@@ -21,7 +21,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Developers Can Now Debug Live Applications in VS Code With Lightrun](https://lightrun.com/inside-lightrun/lightrun-for-visual-studio-code/)
+- [Lightrun Announces GA Support for Visual Studio Code](https://lightrun.com/inside-lightrun/lightrun-for-visual-studio-code/)
 - [Full-Cycle Observability With Instana and Lightrun](https://lightrun.com/integrations/full-cycle-observability-with-the-instana-and-lightrun/)
 - [Debugging Tutorial: Java Return Value, IntelliJ Jump to Line and more](https://talktotheduck.dev/debugging-tutorial-java-return-value-intellij-jump-to-line-and-more)
 - [You’re Doing It Wrong — Recruiting a DevRel](https://talktotheduck.dev/youre-doing-it-wrong-recruiting-a-devrel)
