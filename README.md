@@ -21,6 +21,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Effectively Bridging the DevOps – R&amp;D Gap without Sacrificing Reliability](https://lightrun.com/best-practices/bridge-devops-dev-gap-without-sacrificing-reliability/)
 - [Detecting, Investigating and Verifying Fixes for Security Incidents and Zero Day Issues Using Lightrun](https://talktotheduck.dev/detect-track-verify-security-issues-zero-days)
 - [Build-Hints Editor](https://www.codenameone.com/blog/build-hints-editor.html)
 - [Introducing KoolKits - OSS  Debugging Toolkits for Kubernetes](https://talktotheduck.dev/introducing-koolkits-oss-debugging-toolkits-for-kubernetes)
@@ -40,7 +41,6 @@
 - [Fail-Fast Reliable Software Strategy. Debug Failures Effectively](https://talktotheduck.dev/fail-fast-reliable-software-strategy-debug-failures-effectively)
 - [Debugging the Technical Interview. Methods and Cheating](https://talktotheduck.dev/debugging-the-technical-interview-methods-and-cheating)
 - [Linux Mint vs Ubuntu: Who will win?](https://lightrun.com/best-practices/comparing-linux-mint-and-ubuntu/)
-- [Hashcode and Equals Debugging, Performance](https://talktotheduck.dev/hashcode-and-equals-debugging-performance)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
