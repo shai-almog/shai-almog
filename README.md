@@ -21,6 +21,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Basics of Breakpoints you Might not Know](https://talktotheduck.dev/basics-of-breakpoints-you-might-not-know)
 - [Effectively Bridging the DevOps – R&amp;D Gap without Sacrificing Reliability](https://talktotheduck.dev/effectively-bridging-the-devops-randd-gap-without-sacrificing-reliability)
 - [Effectively Bridging the DevOps – R&amp;D Gap without Sacrificing Reliability](https://lightrun.com/best-practices/bridge-devops-dev-gap-without-sacrificing-reliability/)
 - [Detecting, Investigating and Verifying Fixes for Security Incidents and Zero Day Issues Using Lightrun](https://talktotheduck.dev/detect-track-verify-security-issues-zero-days)
@@ -40,7 +41,6 @@
 - [Debugging RAM: Java Garbage Collection - Java Heap Deep Dive, Part 1](https://talktotheduck.dev/debugging-ram-java-garbage-collection-java-heap-deep-dive-part-1)
 - [Merry Christmas and Happy New Year - the blog is on Vacation](https://talktotheduck.dev/merry-christmas-and-happy-new-year-the-blog-is-on-vacation)
 - [Fail-Fast Reliable Software Strategy. Debug Failures Effectively](https://talktotheduck.dev/fail-fast-reliable-software-strategy-debug-failures-effectively)
-- [Debugging the Technical Interview. Methods and Cheating](https://talktotheduck.dev/debugging-the-technical-interview-methods-and-cheating)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
