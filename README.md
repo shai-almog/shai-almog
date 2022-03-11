@@ -21,7 +21,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Better VSCode Support for Maven Projects￼](https://www.codenameone.com/blog/better-vscode-support-for-maven-projects%ef%bf%bc.html)
+- [Better VSCode Support for Maven Projects￼](https://www.codenameone.com/blog/better-vscode-support-for-maven-projects.html)
 - [The Basics of Breakpoints you Might not Know](https://talktotheduck.dev/basics-of-breakpoints-you-might-not-know)
 - [Effectively Bridging the DevOps – R&amp;D Gap without Sacrificing Reliability](https://talktotheduck.dev/effectively-bridging-the-devops-randd-gap-without-sacrificing-reliability)
 - [Effectively Bridging the DevOps – R&amp;D Gap without Sacrificing Reliability](https://lightrun.com/best-practices/bridge-devops-dev-gap-without-sacrificing-reliability/)
