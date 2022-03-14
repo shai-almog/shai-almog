@@ -21,6 +21,8 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Debugging Race Conditions in Production](https://talktotheduck.dev/debugging-race-conditions-in-production)
+- [Debugging Race Conditions in Production](https://lightrun.com/tutorials/debug-race-condition-production/)
 - [Better VSCode Support for Maven Projects￼](https://www.codenameone.com/blog/better-vscode-support-for-maven-projects.html)
 - [The Basics of Breakpoints you Might not Know](https://talktotheduck.dev/basics-of-breakpoints-you-might-not-know)
 - [Effectively Bridging the DevOps – R&amp;D Gap without Sacrificing Reliability](https://talktotheduck.dev/effectively-bridging-the-devops-randd-gap-without-sacrificing-reliability)
@@ -39,8 +41,6 @@
 - [Debugging RAM: Detect/Fix Memory Leaks in Managed Languages - Heap Deep Dive, Part 2](https://talktotheduck.dev/debugging-ram-detectfix-memory-leaks-in-managed-languages-heap-deep-dive-part-2)
 - [Lightrun For Application Security – Detecting, Investigating and Verifying Fixes for Security Incidents Using Lightrun](https://lightrun.com/security/lightrun-for-application-security-detecting-investigating-and-verifying-fixes-for-security-incidents-using-lightrun/)
 - [Polyglot Cloud Native Debugging - Beyond APM and Logging](https://talktotheduck.dev/polyglot-cloud-native-debugging-beyond-apm-and-logging)
-- [Debugging RAM: Java Garbage Collection - Java Heap Deep Dive, Part 1](https://talktotheduck.dev/debugging-ram-java-garbage-collection-java-heap-deep-dive-part-1)
-- [Merry Christmas and Happy New Year - the blog is on Vacation](https://talktotheduck.dev/merry-christmas-and-happy-new-year-the-blog-is-on-vacation)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
