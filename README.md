@@ -21,6 +21,8 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Interview with Tom Granot - Developer Observability, KoolKits and Reliability](https://talktotheduck.dev/interview-with-tom-granot-developer-observability-koolkits-and-reliability)
+- [Interview with Tom Granot – Developer Observability, KoolKits and Reliability](https://lightrun.com/blog/interview-with-tom-granot-developer-observability-koolkits-and-reliability/)
 - [Debugging Race Conditions in Production](https://talktotheduck.dev/debugging-race-conditions-in-production)
 - [Debugging Race Conditions in Production](https://lightrun.com/tutorials/debug-race-condition-production/)
 - [Better VSCode Support for Maven Projects￼](https://www.codenameone.com/blog/better-vscode-support-for-maven-projects.html)
@@ -39,8 +41,6 @@
 - [Introducing 140 Second Ducklings: What is Debugging?](https://talktotheduck.dev/introducing-140-second-ducklings-what-is-debugging)
 - [New iOS Certificate Wizard](https://www.codenameone.com/blog/new-ios-certificate-wizard.html)
 - [Debugging RAM: Detect/Fix Memory Leaks in Managed Languages - Heap Deep Dive, Part 2](https://talktotheduck.dev/debugging-ram-detectfix-memory-leaks-in-managed-languages-heap-deep-dive-part-2)
-- [Lightrun For Application Security – Detecting, Investigating and Verifying Fixes for Security Incidents Using Lightrun](https://lightrun.com/security/lightrun-for-application-security-detecting-investigating-and-verifying-fixes-for-security-incidents-using-lightrun/)
-- [Polyglot Cloud Native Debugging - Beyond APM and Logging](https://talktotheduck.dev/polyglot-cloud-native-debugging-beyond-apm-and-logging)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
