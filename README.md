@@ -21,6 +21,8 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Debugging Java Equals and Hashcode Performance in Production](https://talktotheduck.dev/debugging-java-equals-and-hashcode-performance-in-production)
+- [Debugging Java Equals and Hashcode Performance in Production](https://lightrun.com/tutorials/debugging-java-equals-and-hashcode-performance-in-production/)
 - [Codename One Simulator Facelift](https://www.codenameone.com/blog/codename-one-simulator-facelift.html)
 - [Interview with Tom Granot - Developer Observability, KoolKits and Reliability](https://talktotheduck.dev/interview-with-tom-granot-developer-observability-koolkits-and-reliability)
 - [Interview with Tom Granot – Developer Observability, KoolKits and Reliability](https://lightrun.com/blog/interview-with-tom-granot-developer-observability-koolkits-and-reliability/)
@@ -39,8 +41,6 @@
 - [Debugging Tutorial: Java Return Value, IntelliJ Jump to Line and more](https://talktotheduck.dev/debugging-tutorial-java-return-value-intellij-jump-to-line-and-more)
 - [You’re Doing It Wrong — Recruiting a DevRel](https://talktotheduck.dev/youre-doing-it-wrong-recruiting-a-devrel)
 - [Enter the Cloud Native Dojo: Blackbelt-Level Debugging](https://talktotheduck.dev/enter-the-cloud-native-dojo-blackbelt-level-debugging)
-- [Introducing 140 Second Ducklings: What is Debugging?](https://talktotheduck.dev/introducing-140-second-ducklings-what-is-debugging)
-- [New iOS Certificate Wizard](https://www.codenameone.com/blog/new-ios-certificate-wizard.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
