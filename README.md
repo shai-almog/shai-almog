@@ -21,6 +21,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Exception Breakpoint that Doesn&#39;t Suck and a Real Use Case for Method Breakpoints](https://talktotheduck.dev/exception-breakpoint-that-doesnt-suck)
 - [Debugging Java Equals and Hashcode Performance in Production](https://talktotheduck.dev/debugging-java-equals-and-hashcode-performance-in-production)
 - [Debugging Java Equals and Hashcode Performance in Production](https://lightrun.com/tutorials/debugging-java-equals-and-hashcode-performance-in-production/)
 - [Codename One Simulator Facelift](https://www.codenameone.com/blog/codename-one-simulator-facelift.html)
@@ -40,7 +41,6 @@
 - [Full-Cycle Observability With Instana and Lightrun](https://lightrun.com/integrations/full-cycle-observability-with-the-instana-and-lightrun/)
 - [Debugging Tutorial: Java Return Value, IntelliJ Jump to Line and more](https://talktotheduck.dev/debugging-tutorial-java-return-value-intellij-jump-to-line-and-more)
 - [You’re Doing It Wrong — Recruiting a DevRel](https://talktotheduck.dev/youre-doing-it-wrong-recruiting-a-devrel)
-- [Enter the Cloud Native Dojo: Blackbelt-Level Debugging](https://talktotheduck.dev/enter-the-cloud-native-dojo-blackbelt-level-debugging)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
