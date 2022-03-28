@@ -21,6 +21,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [New Feature: Inspect Component](https://www.codenameone.com/blog/inspect-component.html)
 - [Exception Breakpoint that Doesn&#39;t Suck and a Real Use Case for Method Breakpoints](https://talktotheduck.dev/exception-breakpoint-that-doesnt-suck)
 - [Debugging Java Equals and Hashcode Performance in Production](https://talktotheduck.dev/debugging-java-equals-and-hashcode-performance-in-production)
 - [Debugging Java Equals and Hashcode Performance in Production](https://lightrun.com/tutorials/debugging-java-equals-and-hashcode-performance-in-production/)
@@ -40,7 +41,6 @@
 - [Lightrun Announces GA Support for Visual Studio Code](https://lightrun.com/inside-lightrun/lightrun-for-visual-studio-code/)
 - [Full-Cycle Observability With Instana and Lightrun](https://lightrun.com/integrations/full-cycle-observability-with-the-instana-and-lightrun/)
 - [Debugging Tutorial: Java Return Value, IntelliJ Jump to Line and more](https://talktotheduck.dev/debugging-tutorial-java-return-value-intellij-jump-to-line-and-more)
-- [You’re Doing It Wrong — Recruiting a DevRel](https://talktotheduck.dev/youre-doing-it-wrong-recruiting-a-devrel)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
