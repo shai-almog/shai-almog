@@ -21,6 +21,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Debugging JAXB Production Issues](https://talktotheduck.dev/debugging-jaxb-production-issues)
 - [Debugging JAXB Production Issues](https://lightrun.com/tutorials/debugging-jaxb-production-issues/)
 - [New Feature: Inspect Component](https://www.codenameone.com/blog/inspect-component.html)
 - [Exception Breakpoint that Doesn&#39;t Suck and a Real Use Case for Method Breakpoints](https://talktotheduck.dev/exception-breakpoint-that-doesnt-suck)
@@ -40,7 +41,6 @@
 - [Introducing KoolKits - OSS  Debugging Toolkits for Kubernetes](https://talktotheduck.dev/introducing-koolkits-oss-debugging-toolkits-for-kubernetes)
 - [Lightrun Releases KoolKits – Debugging Toolkits for Kubernetes](https://lightrun.com/debugging/koolkits-debugging-toolkits-for-kubernetes/)
 - [Lightrun Announces GA Support for Visual Studio Code](https://lightrun.com/inside-lightrun/lightrun-for-visual-studio-code/)
-- [Debugging Tutorial: Java Return Value, IntelliJ Jump to Line and more](https://talktotheduck.dev/debugging-tutorial-java-return-value-intellij-jump-to-line-and-more)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
