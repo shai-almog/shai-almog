@@ -21,6 +21,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Spring Remote Code Execution Vulnerability](https://talktotheduck.dev/spring-remote-code-execution-vulnerability)
 - [Creating New Projects with Old Templates](https://www.codenameone.com/blog/creating-new-projects-with-old-templates.html)
 - [Debugging JAXB Production Issues](https://talktotheduck.dev/debugging-jaxb-production-issues)
 - [Debugging JAXB Production Issues](https://lightrun.com/tutorials/debugging-jaxb-production-issues/)
@@ -40,7 +41,6 @@
 - [Detecting, Investigating and Verifying Fixes for Security Incidents and Zero Day Issues Using Lightrun](https://talktotheduck.dev/detect-track-verify-security-issues-zero-days)
 - [Build-Hints Editor](https://www.codenameone.com/blog/build-hints-editor.html)
 - [Introducing KoolKits - OSS  Debugging Toolkits for Kubernetes](https://talktotheduck.dev/introducing-koolkits-oss-debugging-toolkits-for-kubernetes)
-- [Lightrun Releases KoolKits – Debugging Toolkits for Kubernetes](https://lightrun.com/debugging/koolkits-debugging-toolkits-for-kubernetes/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
