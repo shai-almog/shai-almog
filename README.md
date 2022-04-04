@@ -22,25 +22,25 @@
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Spring Remote Code Execution Vulnerability](https://talktotheduck.dev/spring-remote-code-execution-vulnerability)
+- [Creating New Projects with Old Templates](https://www.codenameone.com/blog/creating-new-projects-with-old-templates.html)
 - [Debugging JAXB Production Issues](https://talktotheduck.dev/debugging-jaxb-production-issues)
 - [Debugging JAXB Production Issues](https://lightrun.com/tutorials/debugging-jaxb-production-issues/)
+- [New Feature: Inspect Component](https://www.codenameone.com/blog/inspect-component.html)
 - [Exception Breakpoint that Doesn&#39;t Suck and a Real Use Case for Method Breakpoints](https://talktotheduck.dev/exception-breakpoint-that-doesnt-suck)
 - [Debugging Java Equals and Hashcode Performance in Production](https://talktotheduck.dev/debugging-java-equals-and-hashcode-performance-in-production)
 - [Debugging Java Equals and Hashcode Performance in Production](https://lightrun.com/tutorials/debugging-java-equals-and-hashcode-performance-in-production/)
+- [Codename One Simulator Facelift](https://www.codenameone.com/blog/codename-one-simulator-facelift.html)
 - [Interview with Tom Granot - Developer Observability, KoolKits and Reliability](https://talktotheduck.dev/interview-with-tom-granot-developer-observability-koolkits-and-reliability)
 - [Interview with Tom Granot – Developer Observability, KoolKits and Reliability](https://lightrun.com/blog/interview-with-tom-granot-developer-observability-koolkits-and-reliability/)
 - [Debugging Race Conditions in Production](https://talktotheduck.dev/debugging-race-conditions-in-production)
 - [Debugging Race Conditions in Production](https://lightrun.com/tutorials/debug-race-condition-production/)
+- [Better VSCode Support for Maven Projects￼](https://www.codenameone.com/blog/better-vscode-support-for-maven-projects.html)
 - [The Basics of Breakpoints you Might not Know](https://talktotheduck.dev/basics-of-breakpoints-you-might-not-know)
 - [Effectively Bridging the DevOps – R&amp;D Gap without Sacrificing Reliability](https://talktotheduck.dev/effectively-bridging-the-devops-randd-gap-without-sacrificing-reliability)
 - [Effectively Bridging the DevOps – R&amp;D Gap without Sacrificing Reliability](https://lightrun.com/best-practices/bridge-devops-dev-gap-without-sacrificing-reliability/)
 - [Detecting, Investigating and Verifying Fixes for Security Incidents and Zero Day Issues Using Lightrun](https://talktotheduck.dev/detect-track-verify-security-issues-zero-days)
+- [Build-Hints Editor](https://www.codenameone.com/blog/build-hints-editor.html)
 - [Introducing KoolKits - OSS  Debugging Toolkits for Kubernetes](https://talktotheduck.dev/introducing-koolkits-oss-debugging-toolkits-for-kubernetes)
-- [Lightrun Releases KoolKits – Debugging Toolkits for Kubernetes](https://lightrun.com/debugging/koolkits-debugging-toolkits-for-kubernetes/)
-- [Lightrun Announces GA Support for Visual Studio Code](https://lightrun.com/inside-lightrun/lightrun-for-visual-studio-code/)
-- [Debugging Tutorial: Java Return Value, IntelliJ Jump to Line and more](https://talktotheduck.dev/debugging-tutorial-java-return-value-intellij-jump-to-line-and-more)
-- [You’re Doing It Wrong — Recruiting a DevRel](https://talktotheduck.dev/youre-doing-it-wrong-recruiting-a-devrel)
-- [Enter the Cloud Native Dojo: Blackbelt-Level Debugging](https://talktotheduck.dev/enter-the-cloud-native-dojo-blackbelt-level-debugging)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
