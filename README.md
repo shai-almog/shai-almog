@@ -21,6 +21,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Logging Best Practices – MDC, Ingestion and Scale](https://lightrun.com/best-practices/logging-best-practices-mdc-ingestion-and-scale/)
 - [Spring Remote Code Execution Vulnerability](https://talktotheduck.dev/spring-remote-code-execution-vulnerability)
 - [Creating New Projects with Old Templates](https://www.codenameone.com/blog/creating-new-projects-with-old-templates.html)
 - [Debugging JAXB Production Issues](https://talktotheduck.dev/debugging-jaxb-production-issues)
@@ -40,7 +41,6 @@
 - [Effectively Bridging the DevOps – R&amp;D Gap without Sacrificing Reliability](https://lightrun.com/best-practices/bridge-devops-dev-gap-without-sacrificing-reliability/)
 - [Detecting, Investigating and Verifying Fixes for Security Incidents and Zero Day Issues Using Lightrun](https://talktotheduck.dev/detect-track-verify-security-issues-zero-days)
 - [Build-Hints Editor](https://www.codenameone.com/blog/build-hints-editor.html)
-- [Introducing KoolKits - OSS  Debugging Toolkits for Kubernetes](https://talktotheduck.dev/introducing-koolkits-oss-debugging-toolkits-for-kubernetes)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
