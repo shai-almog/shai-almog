@@ -21,6 +21,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Async Debugging with IntelliJ IDEA](https://www.codenameone.com/blog/async-debugging-with-intellij-idea.html)
 - [Debugging jsoup Java Code in Production Using Lightrun](https://lightrun.com/tutorials/debugging-jsoup-java-code-in-production-using-lightrun/)
 - [New Property Sheet and JavaDocs](https://www.codenameone.com/blog/new-property-sheet-and-javadocs.html)
 - [Debugging Collections, Streams and Watch Renderers](https://talktotheduck.dev/debugging-collections-streams-and-watch-renderers)
@@ -40,7 +41,6 @@
 - [Debugging Race Conditions in Production](https://talktotheduck.dev/debugging-race-conditions-in-production)
 - [Debugging Race Conditions in Production](https://lightrun.com/tutorials/debug-race-condition-production/)
 - [Better VSCode Support for Maven Projects￼](https://www.codenameone.com/blog/better-vscode-support-for-maven-projects.html)
-- [The Basics of Breakpoints you Might not Know](https://talktotheduck.dev/basics-of-breakpoints-you-might-not-know)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
