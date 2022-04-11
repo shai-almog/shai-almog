@@ -21,6 +21,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Debugging jsoup Java Code in Production Using Lightrun](https://lightrun.com/tutorials/debugging-jsoup-java-code-in-production-using-lightrun/)
 - [New Property Sheet and JavaDocs](https://www.codenameone.com/blog/new-property-sheet-and-javadocs.html)
 - [Debugging Collections, Streams and Watch Renderers](https://talktotheduck.dev/debugging-collections-streams-and-watch-renderers)
 - [Logging Best Practices - MDC, Ingestion and Scale](https://talktotheduck.dev/logging-best-practices-mdc-ingestion-and-scale)
@@ -40,7 +41,6 @@
 - [Debugging Race Conditions in Production](https://lightrun.com/tutorials/debug-race-condition-production/)
 - [Better VSCode Support for Maven Projects￼](https://www.codenameone.com/blog/better-vscode-support-for-maven-projects.html)
 - [The Basics of Breakpoints you Might not Know](https://talktotheduck.dev/basics-of-breakpoints-you-might-not-know)
-- [Effectively Bridging the DevOps – R&amp;D Gap without Sacrificing Reliability](https://talktotheduck.dev/effectively-bridging-the-devops-randd-gap-without-sacrificing-reliability)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
