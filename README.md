@@ -21,6 +21,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Spring Transaction Debugging in Production with Lightrun](https://talktotheduck.dev/spring-transaction-debugging-in-production-with-lightrun)
 - [Debugging the Java Message Service &lpar;JMS&rpar; API using Lightrun](https://lightrun.com/tutorials/debugging-the-java-message-service-jms-api-using-lightrun/)
 - [Debugging jsoup Java Code in Production Using Lightrun](https://talktotheduck.dev/debugging-jsoup-java-code-in-production-using-lightrun)
 - [Spring Transaction Debugging in Production with Lightrun](https://lightrun.com/tutorials/spring-transaction-debugging-in-production-with-lightrun/)
@@ -40,7 +41,6 @@
 - [Debugging Java Equals and Hashcode Performance in Production](https://lightrun.com/tutorials/debugging-java-equals-and-hashcode-performance-in-production/)
 - [Codename One Simulator Facelift](https://www.codenameone.com/blog/codename-one-simulator-facelift.html)
 - [Interview with Tom Granot - Developer Observability, KoolKits and Reliability](https://talktotheduck.dev/interview-with-tom-granot-developer-observability-koolkits-and-reliability)
-- [Interview with Tom Granot – Developer Observability, KoolKits and Reliability](https://lightrun.com/blog/interview-with-tom-granot-developer-observability-koolkits-and-reliability/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
