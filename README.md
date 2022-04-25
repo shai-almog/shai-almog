@@ -21,6 +21,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Debugging the Java Message Service &lpar;JMS&rpar; API using Lightrun](https://lightrun.com/tutorials/debugging-the-java-message-service-jms-api-using-lightrun/)
 - [Debugging jsoup Java Code in Production Using Lightrun](https://talktotheduck.dev/debugging-jsoup-java-code-in-production-using-lightrun)
 - [Spring Transaction Debugging in Production with Lightrun](https://lightrun.com/tutorials/spring-transaction-debugging-in-production-with-lightrun/)
 - [Async Debugging with IntelliJ IDEA](https://www.codenameone.com/blog/async-debugging-with-intellij-idea.html)
@@ -40,7 +41,6 @@
 - [Codename One Simulator Facelift](https://www.codenameone.com/blog/codename-one-simulator-facelift.html)
 - [Interview with Tom Granot - Developer Observability, KoolKits and Reliability](https://talktotheduck.dev/interview-with-tom-granot-developer-observability-koolkits-and-reliability)
 - [Interview with Tom Granot – Developer Observability, KoolKits and Reliability](https://lightrun.com/blog/interview-with-tom-granot-developer-observability-koolkits-and-reliability/)
-- [Debugging Race Conditions in Production](https://talktotheduck.dev/debugging-race-conditions-in-production)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
