@@ -21,6 +21,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Modernize Legacy Code in Production – Rebuild your Airplane Midflight without Crashing](https://lightrun.com/best-practices/modernize-legacy-code-in-production-rebuild-your-airplane-midflight-without-crashing/)
 - [Memory Debugging and Watch Annotations](https://talktotheduck.dev/memory-debugging-and-watch-annotations)
 - [Full-Cycle Observability With Dynatrace and Lightrun](https://lightrun.com/integrations/full-cycle-observability-with-dynatrace-and-lightrun/)
 - [Spring Transaction Debugging in Production with Lightrun](https://talktotheduck.dev/spring-transaction-debugging-in-production-with-lightrun)
@@ -40,7 +41,6 @@
 - [New Feature: Inspect Component](https://www.codenameone.com/blog/inspect-component.html)
 - [Exception Breakpoint that Doesn&#39;t Suck and a Real Use Case for Method Breakpoints](https://talktotheduck.dev/exception-breakpoint-that-doesnt-suck)
 - [Debugging Java Equals and Hashcode Performance in Production](https://talktotheduck.dev/debugging-java-equals-and-hashcode-performance-in-production)
-- [Debugging Java Equals and Hashcode Performance in Production](https://lightrun.com/tutorials/debugging-java-equals-and-hashcode-performance-in-production/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
