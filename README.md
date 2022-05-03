@@ -21,6 +21,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Debugging Deadlocks and Race Conditions](https://talktotheduck.dev/debugging-deadlocks-and-race-conditions)
 - [Debugging the Java Message Service &lpar;JMS&rpar; API using Lightrun](https://talktotheduck.dev/debugging-the-java-message-service-jms-api-using-lightrun)
 - [Modernize Legacy Code in Production – Rebuild your Airplane Midflight without Crashing](https://lightrun.com/best-practices/modernize-legacy-code-in-production-rebuild-your-airplane-midflight-without-crashing/)
 - [Memory Debugging and Watch Annotations](https://talktotheduck.dev/memory-debugging-and-watch-annotations)
@@ -40,7 +41,6 @@
 - [Debugging JAXB Production Issues](https://talktotheduck.dev/debugging-jaxb-production-issues)
 - [Debugging JAXB Production Issues](https://lightrun.com/tutorials/debugging-jaxb-production-issues/)
 - [New Feature: Inspect Component](https://www.codenameone.com/blog/inspect-component.html)
-- [Exception Breakpoint that Doesn&#39;t Suck and a Real Use Case for Method Breakpoints](https://talktotheduck.dev/exception-breakpoint-that-doesnt-suck)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
