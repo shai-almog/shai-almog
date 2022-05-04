@@ -21,6 +21,8 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [When Disaster Strikes: Production Troubleshooting](https://talktotheduck.dev/when-disaster-strikes-production-troubleshooting)
+- [When Disaster Strikes: Production Troubleshooting](https://lightrun.com/inside-lightrun/when-disaster-strikes-production-troubleshooting/)
 - [Debugging Deadlocks and Race Conditions](https://talktotheduck.dev/debugging-deadlocks-and-race-conditions)
 - [Debugging the Java Message Service &lpar;JMS&rpar; API using Lightrun](https://talktotheduck.dev/debugging-the-java-message-service-jms-api-using-lightrun)
 - [Modernize Legacy Code in Production – Rebuild your Airplane Midflight without Crashing](https://lightrun.com/best-practices/modernize-legacy-code-in-production-rebuild-your-airplane-midflight-without-crashing/)
@@ -39,8 +41,6 @@
 - [Spring Remote Code Execution Vulnerability](https://talktotheduck.dev/spring-remote-code-execution-vulnerability)
 - [Creating New Projects with Old Templates](https://www.codenameone.com/blog/creating-new-projects-with-old-templates.html)
 - [Debugging JAXB Production Issues](https://talktotheduck.dev/debugging-jaxb-production-issues)
-- [Debugging JAXB Production Issues](https://lightrun.com/tutorials/debugging-jaxb-production-issues/)
-- [New Feature: Inspect Component](https://www.codenameone.com/blog/inspect-component.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
