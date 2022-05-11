@@ -21,6 +21,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [IllegalArgumentException in Java – A Cheatsheet](https://lightrun.com/cheatsheets/illegalargumentexception/)
 - [Debugging Java Collections Framework Issues in Production](https://lightrun.com/tutorials/debugging-java-collections-framework-issues-in-production/)
 - [Modernize Legacy Code in Production – Rebuild your Airplane Midflight without Crashing](https://talktotheduck.dev/modernize-legacy-code-in-production-rebuild-your-airplane-midflight-without-crashing)
 - [When Disaster Strikes: Production Troubleshooting](https://talktotheduck.dev/when-disaster-strikes-production-troubleshooting)
@@ -35,7 +36,6 @@
 - [Debugging jsoup Java Code in Production Using Lightrun](https://talktotheduck.dev/debugging-jsoup-java-code-in-production-using-lightrun)
 - [Spring Transaction Debugging in Production with Lightrun](https://lightrun.com/tutorials/spring-transaction-debugging-in-production-with-lightrun/)
 - [Async Debugging with IntelliJ IDEA](https://www.codenameone.com/blog/async-debugging-with-intellij-idea.html)
-- [Debugging jsoup Java Code in Production Using Lightrun](https://lightrun.com/tutorials/debugging-jsoup-java-code-in-production-using-lightrun/)
 - [New Property Sheet and JavaDocs](https://www.codenameone.com/blog/new-property-sheet-and-javadocs.html)
 - [Debugging Collections, Streams and Watch Renderers](https://talktotheduck.dev/debugging-collections-streams-and-watch-renderers)
 - [Logging Best Practices - MDC, Ingestion and Scale](https://talktotheduck.dev/logging-best-practices-mdc-ingestion-and-scale)
