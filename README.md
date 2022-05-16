@@ -21,6 +21,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Debugging Java Collections Framework Issues in Production](https://talktotheduck.dev/debugging-java-collections-framework-issues-in-production)
 - [IllegalArgumentException in Java – A Cheatsheet](https://lightrun.com/cheatsheets/illegalargumentexception/)
 - [Debugging Java Collections Framework Issues in Production](https://lightrun.com/tutorials/debugging-java-collections-framework-issues-in-production/)
 - [Modernize Legacy Code in Production – Rebuild your Airplane Midflight without Crashing](https://talktotheduck.dev/modernize-legacy-code-in-production-rebuild-your-airplane-midflight-without-crashing)
@@ -40,7 +41,6 @@
 - [Debugging Collections, Streams and Watch Renderers](https://talktotheduck.dev/debugging-collections-streams-and-watch-renderers)
 - [Logging Best Practices - MDC, Ingestion and Scale](https://talktotheduck.dev/logging-best-practices-mdc-ingestion-and-scale)
 - [Spring Remote Code Execution Vulnerability](https://talktotheduck.dev/spring-remote-code-execution-vulnerability)
-- [Creating New Projects with Old Templates](https://www.codenameone.com/blog/creating-new-projects-with-old-templates.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
