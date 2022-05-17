@@ -22,7 +22,7 @@
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Debugging Java Collections Framework Issues in Production](https://talktotheduck.dev/debugging-java-collections-framework-issues-in-production)
-- [IllegalArgumentException in Java – A Cheatsheet](https://lightrun.com/cheatsheets/illegalargumentexception/)
+- [IllegalArgumentException in Java](https://lightrun.com/java-exceptions/illegalargumentexception/)
 - [Debugging Java Collections Framework Issues in Production](https://lightrun.com/tutorials/debugging-java-collections-framework-issues-in-production/)
 - [Modernize Legacy Code in Production – Rebuild your Airplane Midflight without Crashing](https://talktotheduck.dev/modernize-legacy-code-in-production-rebuild-your-airplane-midflight-without-crashing)
 - [When Disaster Strikes: Production Troubleshooting](https://talktotheduck.dev/when-disaster-strikes-production-troubleshooting)
