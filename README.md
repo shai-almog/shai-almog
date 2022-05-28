@@ -21,26 +21,26 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [How to use VSCode to debug a Node.js application](https://lightrun.com/dev-tools/vscode-to-debug-node-js-application/)
 - [Debugging Java Collections Framework Issues in Production](https://talktotheduck.dev/debugging-java-collections-framework-issues-in-production)
-- [IllegalArgumentException in Java](https://lightrun.com/java-exceptions/illegalargumentexception/)
-- [Debugging Java Collections Framework Issues in Production](https://lightrun.com/tutorials/debugging-java-collections-framework-issues-in-production/)
 - [Modernize Legacy Code in Production – Rebuild your Airplane Midflight without Crashing](https://talktotheduck.dev/modernize-legacy-code-in-production-rebuild-your-airplane-midflight-without-crashing)
 - [When Disaster Strikes: Production Troubleshooting](https://talktotheduck.dev/when-disaster-strikes-production-troubleshooting)
-- [When Disaster Strikes: Production Troubleshooting](https://lightrun.com/inside-lightrun/when-disaster-strikes-production-troubleshooting/)
 - [Debugging Deadlocks and Race Conditions](https://talktotheduck.dev/debugging-deadlocks-and-race-conditions)
 - [Debugging the Java Message Service &lpar;JMS&rpar; API using Lightrun](https://talktotheduck.dev/debugging-the-java-message-service-jms-api-using-lightrun)
-- [Modernize Legacy Code in Production – Rebuild your Airplane Midflight without Crashing](https://lightrun.com/best-practices/modernize-legacy-code-in-production-rebuild-your-airplane-midflight-without-crashing/)
 - [Memory Debugging and Watch Annotations](https://talktotheduck.dev/memory-debugging-and-watch-annotations)
-- [Full-Cycle Observability With Dynatrace and Lightrun](https://lightrun.com/integrations/full-cycle-observability-with-dynatrace-and-lightrun/)
 - [Spring Transaction Debugging in Production with Lightrun](https://talktotheduck.dev/spring-transaction-debugging-in-production-with-lightrun)
-- [Debugging the Java Message Service &lpar;JMS&rpar; API using Lightrun](https://lightrun.com/tutorials/debugging-the-java-message-service-jms-api-using-lightrun/)
 - [Debugging jsoup Java Code in Production Using Lightrun](https://talktotheduck.dev/debugging-jsoup-java-code-in-production-using-lightrun)
-- [Async Debugging with IntelliJ IDEA](https://www.codenameone.com/blog/async-debugging-with-intellij-idea.html)
-- [New Property Sheet and JavaDocs](https://www.codenameone.com/blog/new-property-sheet-and-javadocs.html)
 - [Debugging Collections, Streams and Watch Renderers](https://talktotheduck.dev/debugging-collections-streams-and-watch-renderers)
 - [Logging Best Practices - MDC, Ingestion and Scale](https://talktotheduck.dev/logging-best-practices-mdc-ingestion-and-scale)
 - [Spring Remote Code Execution Vulnerability](https://talktotheduck.dev/spring-remote-code-execution-vulnerability)
+- [Debugging JAXB Production Issues](https://talktotheduck.dev/debugging-jaxb-production-issues)
+- [Exception Breakpoint that Doesn&#39;t Suck and a Real Use Case for Method Breakpoints](https://talktotheduck.dev/exception-breakpoint-that-doesnt-suck)
+- [Debugging Java Equals and Hashcode Performance in Production](https://talktotheduck.dev/debugging-java-equals-and-hashcode-performance-in-production)
+- [Interview with Tom Granot - Developer Observability, KoolKits and Reliability](https://talktotheduck.dev/interview-with-tom-granot-developer-observability-koolkits-and-reliability)
+- [Debugging Race Conditions in Production](https://talktotheduck.dev/debugging-race-conditions-in-production)
+- [The Basics of Breakpoints you Might not Know](https://talktotheduck.dev/basics-of-breakpoints-you-might-not-know)
+- [Effectively Bridging the DevOps – R&amp;D Gap without Sacrificing Reliability](https://talktotheduck.dev/effectively-bridging-the-devops-randd-gap-without-sacrificing-reliability)
+- [Detecting, Investigating and Verifying Fixes for Security Incidents and Zero Day Issues Using Lightrun](https://talktotheduck.dev/detect-track-verify-security-issues-zero-days)
+- [Introducing KoolKits - OSS  Debugging Toolkits for Kubernetes](https://talktotheduck.dev/introducing-koolkits-oss-debugging-toolkits-for-kubernetes)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
