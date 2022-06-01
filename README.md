@@ -21,6 +21,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Remote Debugging and Developer Observability](https://talktotheduck.dev/remote-debugging-and-developer-observability)
 - [Lightrun Is Now Available For Web IDEs](https://lightrun.com/inside-lightrun/lightrun-is-now-available-for-web-ides/)
 - [How to use VSCode to debug a Node.js application](https://lightrun.com/dev-tools/vscode-to-debug-node-js-application/)
 - [Top 9 Observability Tools in 2022](https://lightrun.com/observability/observability-tools-2022/)
@@ -40,7 +41,6 @@
 - [New Property Sheet and JavaDocs](https://www.codenameone.com/blog/new-property-sheet-and-javadocs.html)
 - [Debugging Collections, Streams and Watch Renderers](https://talktotheduck.dev/debugging-collections-streams-and-watch-renderers)
 - [Logging Best Practices - MDC, Ingestion and Scale](https://talktotheduck.dev/logging-best-practices-mdc-ingestion-and-scale)
-- [Spring Remote Code Execution Vulnerability](https://talktotheduck.dev/spring-remote-code-execution-vulnerability)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
