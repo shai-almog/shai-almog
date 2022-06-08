@@ -21,6 +21,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Spring Boot Performance Workshop with Vlad Mihalcea](https://lightrun.com/tutorials/spring-boot-performance-workshop-with-vlad-mihalcea/)
 - [How to debug python in VSCode](https://lightrun.com/debugging/debug-python-in-vscode/)
 - [Remote Debugging and Developer Observability](https://talktotheduck.dev/remote-debugging-and-developer-observability)
 - [Lightrun Is Now Available For Web IDEs](https://lightrun.com/inside-lightrun/lightrun-is-now-available-for-web-ides/)
@@ -29,7 +30,6 @@
 - [Top 9 Observability Tools in 2022](https://lightrun.com/observability/observability-tools-2022/)
 - [Debugging Java Collections Framework Issues in Production](https://talktotheduck.dev/debugging-java-collections-framework-issues-in-production)
 - [IllegalArgumentException in Java](https://lightrun.com/java-exceptions/illegalargumentexception/)
-- [Debugging Java Collections Framework Issues in Production](https://lightrun.com/tutorials/debugging-java-collections-framework-issues-in-production/)
 - [Modernize Legacy Code in Production – Rebuild your Airplane Midflight without Crashing](https://talktotheduck.dev/modernize-legacy-code-in-production-rebuild-your-airplane-midflight-without-crashing)
 - [When Disaster Strikes: Production Troubleshooting](https://talktotheduck.dev/when-disaster-strikes-production-troubleshooting)
 - [Debugging Deadlocks and Race Conditions](https://talktotheduck.dev/debugging-deadlocks-and-race-conditions)
