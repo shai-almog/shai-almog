@@ -21,6 +21,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Understand Source Code – Deep into the Codebase, Locally and in Production](https://lightrun.com/tutorials/understand-source-code-deep-into-the-codebase-locally-and-in-production/)
 - [Spring Boot Performance Workshop with Vlad Mihalcea](https://lightrun.com/tutorials/spring-boot-performance-workshop-with-vlad-mihalcea/)
 - [Top 8 IntelliJ Debug Shortcuts](https://lightrun.com/debugging/intellij-debug-shortcuts/)
 - [How to debug python in VSCode](https://lightrun.com/debugging/debug-python-in-vscode/)
@@ -28,7 +29,6 @@
 - [Lightrun Is Now Available For Web IDEs](https://lightrun.com/inside-lightrun/lightrun-is-now-available-for-web-ides/)
 - [How to use VSCode to debug a Node.js application](https://lightrun.com/dev-tools/vscode-to-debug-node-js-application/)
 - [Observability vs. Monitoring](https://lightrun.com/observability/observability-vs-monitoring/)
-- [Top 9 Observability Tools in 2022](https://lightrun.com/observability/observability-tools-2022/)
 - [Debugging Java Collections Framework Issues in Production](https://talktotheduck.dev/debugging-java-collections-framework-issues-in-production)
 - [Modernize Legacy Code in Production – Rebuild your Airplane Midflight without Crashing](https://talktotheduck.dev/modernize-legacy-code-in-production-rebuild-your-airplane-midflight-without-crashing)
 - [When Disaster Strikes: Production Troubleshooting](https://talktotheduck.dev/when-disaster-strikes-production-troubleshooting)
