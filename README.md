@@ -21,6 +21,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Spring Boot Performance Workshop with Vlad Mihalcea](https://talktotheduck.dev/spring-boot-performance-workshop-with-vlad-mihalcea)
 - [Understand Source Code – Deep into the Codebase, Locally and in Production](https://lightrun.com/tutorials/understand-source-code-deep-into-the-codebase-locally-and-in-production/)
 - [Spring Boot Performance Workshop with Vlad Mihalcea](https://lightrun.com/tutorials/spring-boot-performance-workshop-with-vlad-mihalcea/)
 - [Top 8 IntelliJ Debug Shortcuts](https://lightrun.com/debugging/intellij-debug-shortcuts/)
@@ -40,7 +41,6 @@
 - [Async Debugging with IntelliJ IDEA](https://www.codenameone.com/blog/async-debugging-with-intellij-idea.html)
 - [New Property Sheet and JavaDocs](https://www.codenameone.com/blog/new-property-sheet-and-javadocs.html)
 - [Debugging Collections, Streams and Watch Renderers](https://talktotheduck.dev/debugging-collections-streams-and-watch-renderers)
-- [Logging Best Practices - MDC, Ingestion and Scale](https://talktotheduck.dev/logging-best-practices-mdc-ingestion-and-scale)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
