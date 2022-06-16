@@ -21,7 +21,14 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Understand Source Code – Deep into the Codebase, Locally and in Production](https://lightrun.com/tutorials/understand-source-code-deep-into-the-codebase-locally-and-in-production/)
+- [Spring Boot Performance Workshop with Vlad Mihalcea](https://lightrun.com/tutorials/spring-boot-performance-workshop-with-vlad-mihalcea/)
+- [Top 8 IntelliJ Debug Shortcuts](https://lightrun.com/debugging/intellij-debug-shortcuts/)
+- [How to debug python in VSCode](https://lightrun.com/debugging/debug-python-in-vscode/)
 - [Remote Debugging and Developer Observability](https://talktotheduck.dev/remote-debugging-and-developer-observability)
+- [Lightrun Is Now Available For Web IDEs](https://lightrun.com/inside-lightrun/lightrun-is-now-available-for-web-ides/)
+- [How to use VSCode to debug a Node.js application](https://lightrun.com/dev-tools/vscode-to-debug-node-js-application/)
+- [Observability vs. Monitoring](https://lightrun.com/observability/observability-vs-monitoring/)
 - [Debugging Java Collections Framework Issues in Production](https://talktotheduck.dev/debugging-java-collections-framework-issues-in-production)
 - [Modernize Legacy Code in Production – Rebuild your Airplane Midflight without Crashing](https://talktotheduck.dev/modernize-legacy-code-in-production-rebuild-your-airplane-midflight-without-crashing)
 - [When Disaster Strikes: Production Troubleshooting](https://talktotheduck.dev/when-disaster-strikes-production-troubleshooting)
@@ -30,17 +37,10 @@
 - [Memory Debugging and Watch Annotations](https://talktotheduck.dev/memory-debugging-and-watch-annotations)
 - [Spring Transaction Debugging in Production with Lightrun](https://talktotheduck.dev/spring-transaction-debugging-in-production-with-lightrun)
 - [Debugging jsoup Java Code in Production Using Lightrun](https://talktotheduck.dev/debugging-jsoup-java-code-in-production-using-lightrun)
+- [Async Debugging with IntelliJ IDEA](https://www.codenameone.com/blog/async-debugging-with-intellij-idea.html)
+- [New Property Sheet and JavaDocs](https://www.codenameone.com/blog/new-property-sheet-and-javadocs.html)
 - [Debugging Collections, Streams and Watch Renderers](https://talktotheduck.dev/debugging-collections-streams-and-watch-renderers)
 - [Logging Best Practices - MDC, Ingestion and Scale](https://talktotheduck.dev/logging-best-practices-mdc-ingestion-and-scale)
-- [Spring Remote Code Execution Vulnerability](https://talktotheduck.dev/spring-remote-code-execution-vulnerability)
-- [Debugging JAXB Production Issues](https://talktotheduck.dev/debugging-jaxb-production-issues)
-- [Exception Breakpoint that Doesn&#39;t Suck and a Real Use Case for Method Breakpoints](https://talktotheduck.dev/exception-breakpoint-that-doesnt-suck)
-- [Debugging Java Equals and Hashcode Performance in Production](https://talktotheduck.dev/debugging-java-equals-and-hashcode-performance-in-production)
-- [Interview with Tom Granot - Developer Observability, KoolKits and Reliability](https://talktotheduck.dev/interview-with-tom-granot-developer-observability-koolkits-and-reliability)
-- [Debugging Race Conditions in Production](https://talktotheduck.dev/debugging-race-conditions-in-production)
-- [The Basics of Breakpoints you Might not Know](https://talktotheduck.dev/basics-of-breakpoints-you-might-not-know)
-- [Effectively Bridging the DevOps – R&amp;D Gap without Sacrificing Reliability](https://talktotheduck.dev/effectively-bridging-the-devops-randd-gap-without-sacrificing-reliability)
-- [Detecting, Investigating and Verifying Fixes for Security Incidents and Zero Day Issues Using Lightrun](https://talktotheduck.dev/detect-track-verify-security-issues-zero-days)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
