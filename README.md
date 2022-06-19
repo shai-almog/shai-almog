@@ -21,7 +21,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Short journey and yet super exciting about configure M1 build agent](https://lightrun.com/dev-tools/short-journey-and-yet-super-exciting-about-configure-m1-build-agent/)
+- [Short and Exciting Journey of M1 Build Agent Configuration](https://lightrun.com/dev-tools/short-journey-and-yet-super-exciting-about-configure-m1-build-agent/)
 - [We Are Developers Trip Report: Largest Conference you Might not Know](https://talktotheduck.dev/we-are-developers-trip-report-largest-conference-you-might-not-know)
 - [Spring Boot Performance Workshop with Vlad Mihalcea](https://talktotheduck.dev/spring-boot-performance-workshop-with-vlad-mihalcea)
 - [Understand Source Code – Deep into the Codebase, Locally and in Production](https://lightrun.com/tutorials/understand-source-code-deep-into-the-codebase-locally-and-in-production/)
