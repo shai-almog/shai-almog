@@ -21,6 +21,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Understand Source Code – Deep into the Codebase, Locally and in Production](https://talktotheduck.dev/understand-source-code-deep-into-the-codebase-locally-and-in-production)
 - [Debugging Gson, Moshi and Jackson JSON Frameworks in Production](https://lightrun.com/tutorials/debugging-gson-moshi-and-jackson-json-frameworks-in-production/)
 - [Short and Exciting Journey of M1 Build Agent Configuration](https://lightrun.com/dev-tools/short-journey-and-yet-super-exciting-about-configure-m1-build-agent/)
 - [We Are Developers Trip Report: Largest Conference you Might not Know](https://talktotheduck.dev/we-are-developers-trip-report-largest-conference-you-might-not-know)
@@ -40,7 +41,6 @@
 - [Spring Transaction Debugging in Production with Lightrun](https://talktotheduck.dev/spring-transaction-debugging-in-production-with-lightrun)
 - [Debugging jsoup Java Code in Production Using Lightrun](https://talktotheduck.dev/debugging-jsoup-java-code-in-production-using-lightrun)
 - [Async Debugging with IntelliJ IDEA](https://www.codenameone.com/blog/async-debugging-with-intellij-idea.html)
-- [New Property Sheet and JavaDocs](https://www.codenameone.com/blog/new-property-sheet-and-javadocs.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
