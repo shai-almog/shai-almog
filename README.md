@@ -21,6 +21,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 8 VScode Python Extensions](https://lightrun.com/debugging/vscode-python-extensions/)
 - [Understand Source Code – Deep into the Codebase, Locally and in Production](https://talktotheduck.dev/understand-source-code-deep-into-the-codebase-locally-and-in-production)
 - [Debugging Gson, Moshi and Jackson JSON Frameworks in Production](https://lightrun.com/tutorials/debugging-gson-moshi-and-jackson-json-frameworks-in-production/)
 - [Short and Exciting Journey of M1 Build Agent Configuration](https://lightrun.com/dev-tools/short-journey-and-yet-super-exciting-about-configure-m1-build-agent/)
@@ -31,7 +32,6 @@
 - [Top 8 IntelliJ Debug Shortcuts](https://lightrun.com/debugging/intellij-debug-shortcuts/)
 - [How to debug python in VSCode](https://lightrun.com/debugging/debug-python-in-vscode/)
 - [Remote Debugging and Developer Observability](https://talktotheduck.dev/remote-debugging-and-developer-observability)
-- [Lightrun Is Now Available For Web IDEs](https://lightrun.com/inside-lightrun/lightrun-is-now-available-for-web-ides/)
 - [Debugging Java Collections Framework Issues in Production](https://talktotheduck.dev/debugging-java-collections-framework-issues-in-production)
 - [Modernize Legacy Code in Production – Rebuild your Airplane Midflight without Crashing](https://talktotheduck.dev/modernize-legacy-code-in-production-rebuild-your-airplane-midflight-without-crashing)
 - [When Disaster Strikes: Production Troubleshooting](https://talktotheduck.dev/when-disaster-strikes-production-troubleshooting)
