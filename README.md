@@ -21,6 +21,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [External Debugging Tools 1: dtrace and strace](https://talktotheduck.dev/external-debugging-tools-dtrace-strace)
 - [The Cost of Production Blindness](https://lightrun.com/best-practices/the-cost-of-production-blindness/)
 - [Debugging Gson, Moshi and Jackson JSON Frameworks in Production](https://talktotheduck.dev/debugging-gson-moshi-and-jackson-json-frameworks-in-production)
 - [Node.js SQLite Tutorial](https://lightrun.com/debugging/node-js-sqlite-tutorial/)
@@ -40,7 +41,6 @@
 - [Debugging Deadlocks and Race Conditions](https://talktotheduck.dev/debugging-deadlocks-and-race-conditions)
 - [Debugging the Java Message Service &lpar;JMS&rpar; API using Lightrun](https://talktotheduck.dev/debugging-the-java-message-service-jms-api-using-lightrun)
 - [Memory Debugging and Watch Annotations](https://talktotheduck.dev/memory-debugging-and-watch-annotations)
-- [Spring Transaction Debugging in Production with Lightrun](https://talktotheduck.dev/spring-transaction-debugging-in-production-with-lightrun)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
