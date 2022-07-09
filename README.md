@@ -25,6 +25,7 @@
 - [The Cost of Production Blindness](https://lightrun.com/best-practices/the-cost-of-production-blindness/)
 - [Debugging Gson, Moshi and Jackson JSON Frameworks in Production](https://talktotheduck.dev/debugging-gson-moshi-and-jackson-json-frameworks-in-production)
 - [Node.js SQLite Tutorial](https://lightrun.com/debugging/node-js-sqlite-tutorial/)
+- [How to Build iOS Apps with Java](https://www.codenameone.com/blog/how-to-build-ios-apps-with-java.html)
 - [Top 8 VScode Python Extensions](https://lightrun.com/debugging/vscode-python-extensions/)
 - [Understand Source Code – Deep into the Codebase, Locally and in Production](https://talktotheduck.dev/understand-source-code-deep-into-the-codebase-locally-and-in-production)
 - [Debugging Gson, Moshi and Jackson JSON Frameworks in Production](https://lightrun.com/tutorials/debugging-gson-moshi-and-jackson-json-frameworks-in-production/)
@@ -40,7 +41,6 @@
 - [Debugging Deadlocks and Race Conditions](https://talktotheduck.dev/debugging-deadlocks-and-race-conditions)
 - [Debugging the Java Message Service &lpar;JMS&rpar; API using Lightrun](https://talktotheduck.dev/debugging-the-java-message-service-jms-api-using-lightrun)
 - [Memory Debugging and Watch Annotations](https://talktotheduck.dev/memory-debugging-and-watch-annotations)
-- [Spring Transaction Debugging in Production with Lightrun](https://talktotheduck.dev/spring-transaction-debugging-in-production-with-lightrun)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
