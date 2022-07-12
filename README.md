@@ -21,6 +21,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Understand the Root Cause of Regressions with Git Bisect](https://talktotheduck.dev/understand-the-root-cause-of-regressions-with-git-bisect)
 - [The Cost of Production Blindness](https://talktotheduck.dev/the-cost-of-production-blindness)
 - [Shift Left Testing: 6 Essentials for Successful Implementation](https://lightrun.com/debugging/shift-left-testing/)
 - [External Debugging Tools 1: dtrace and strace](https://talktotheduck.dev/external-debugging-tools-dtrace-strace)
@@ -40,7 +41,6 @@
 - [Modernize Legacy Code in Production – Rebuild your Airplane Midflight without Crashing](https://talktotheduck.dev/modernize-legacy-code-in-production-rebuild-your-airplane-midflight-without-crashing)
 - [When Disaster Strikes: Production Troubleshooting](https://talktotheduck.dev/when-disaster-strikes-production-troubleshooting)
 - [Debugging Deadlocks and Race Conditions](https://talktotheduck.dev/debugging-deadlocks-and-race-conditions)
-- [Debugging the Java Message Service &lpar;JMS&rpar; API using Lightrun](https://talktotheduck.dev/debugging-the-java-message-service-jms-api-using-lightrun)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
