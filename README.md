@@ -22,6 +22,7 @@
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [External Debugging Tools 3: JMXTerm](https://talktotheduck.dev/external-debugging-tools-3-jmxterm)
+- [Top 12 Site Reliability Engineering &lpar;SRE&rpar; Tools](https://lightrun.com/debugging/site-reliability-engineering-tools/)
 - [Understand the Root Cause of Regressions with Git Bisect](https://talktotheduck.dev/understand-the-root-cause-of-regressions-with-git-bisect)
 - [The Cost of Production Blindness](https://talktotheduck.dev/the-cost-of-production-blindness)
 - [Shift Left Testing: 6 Essentials for Successful Implementation](https://lightrun.com/debugging/shift-left-testing/)
@@ -35,7 +36,6 @@
 - [Debugging Gson, Moshi and Jackson JSON Frameworks in Production](https://lightrun.com/tutorials/debugging-gson-moshi-and-jackson-json-frameworks-in-production/)
 - [Short and Exciting Journey of M1 Build Agent Configuration](https://lightrun.com/dev-tools/short-journey-and-yet-super-exciting-about-configure-m1-build-agent/)
 - [We Are Developers Trip Report: Largest Conference you Might not Know](https://talktotheduck.dev/we-are-developers-trip-report-largest-conference-you-might-not-know)
-- [OpenTracing vs. OpenTelemetry](https://lightrun.com/dev-tools/opentracing-vs-opentelemetry/)
 - [Spring Boot Performance Workshop with Vlad Mihalcea](https://talktotheduck.dev/spring-boot-performance-workshop-with-vlad-mihalcea)
 - [Remote Debugging and Developer Observability](https://talktotheduck.dev/remote-debugging-and-developer-observability)
 - [Debugging Java Collections Framework Issues in Production](https://talktotheduck.dev/debugging-java-collections-framework-issues-in-production)
