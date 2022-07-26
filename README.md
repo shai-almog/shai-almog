@@ -21,6 +21,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [External Debugging Tools 4: Debug the JVM Using jhsdb](https://talktotheduck.dev/debug-the-jvm-using-jhsdb)
 - [The Essential List of Spring Boot Annotations and Their Use Cases](https://lightrun.com/debugging/spring-boot-annotations/)
 - [External Debugging Tools 3: JMXTerm](https://talktotheduck.dev/external-debugging-tools-3-jmxterm)
 - [Top 12 Site Reliability Engineering &lpar;SRE&rpar; Tools](https://lightrun.com/debugging/site-reliability-engineering-tools/)
@@ -40,7 +41,6 @@
 - [Remote Debugging and Developer Observability](https://talktotheduck.dev/remote-debugging-and-developer-observability)
 - [Debugging Java Collections Framework Issues in Production](https://talktotheduck.dev/debugging-java-collections-framework-issues-in-production)
 - [Modernize Legacy Code in Production – Rebuild your Airplane Midflight without Crashing](https://talktotheduck.dev/modernize-legacy-code-in-production-rebuild-your-airplane-midflight-without-crashing)
-- [When Disaster Strikes: Production Troubleshooting](https://talktotheduck.dev/when-disaster-strikes-production-troubleshooting)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
