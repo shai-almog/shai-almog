@@ -19,6 +19,9 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Build Real World Full Stack Mobile Apps in Java - Free Course](https://debugagent.com/build-real-world-full-stack-mobile-apps-in-java-free-course)
+- [Deep Dive into Mobile Development with Codename One - Free Online Course Material](https://debugagent.com/deep-dive-into-mobile-development-with-codename-one-free-online-course-material)
+- [Java for Mobile Devices - Free online course](https://debugagent.com/java-for-mobile-devices-free-online-course)
 - [Debugging a Wordle Bug](https://talktotheduck.dev/debugging-a-wordle-bug)
 - [Debugging a Wordle Bug](https://lightrun.com/blog/debugging-a-wordle-bug/)
 - [External Debugging Tools 4: Debug the JVM Using jhsdb](https://talktotheduck.dev/debug-the-jvm-using-jhsdb)
@@ -36,9 +39,6 @@
 - [How to Build iOS Apps with Java](https://www.codenameone.com/blog/how-to-build-ios-apps-with-java.html)
 - [Understand Source Code – Deep into the Codebase, Locally and in Production](https://talktotheduck.dev/understand-source-code-deep-into-the-codebase-locally-and-in-production)
 - [We Are Developers Trip Report: Largest Conference you Might not Know](https://talktotheduck.dev/we-are-developers-trip-report-largest-conference-you-might-not-know)
-- [Spring Boot Performance Workshop with Vlad Mihalcea](https://talktotheduck.dev/spring-boot-performance-workshop-with-vlad-mihalcea)
-- [Remote Debugging and Developer Observability](https://talktotheduck.dev/remote-debugging-and-developer-observability)
-- [Debugging Java Collections Framework Issues in Production](https://talktotheduck.dev/debugging-java-collections-framework-issues-in-production)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
