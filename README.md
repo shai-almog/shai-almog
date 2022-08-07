@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm Shai Almog</h1>
-<h3 align="center">Developer Advocate at Lightrun. Co-Founder of Codename One. Java Rockstar, Speaker, Author, Blogger and open source hacker</h3>
+<h3 align="center">Entrepreneur, Author, Blogger, Open Source Hacker, DevRel, Java Rockstar, Conference Speaker and Instructor</h3>
 
-- 🔭 I’m currently working at [Lightrun](https://lightrun.com/) and [Codename One](https://www.codenameone.com/)
+- 🔭 I’m currently working at [Codename One](https://www.codenameone.com/) and [Lightrun](https://lightrun.com/)
 
-- 👨‍💻 Most of my projects are available at [https://github.com/codenameone/](https://github.com/codenameone/) -- that was a personal account convetered to an organizational account so my github account is relatively new
+- 👨‍💻 Most of my projects are available at [https://github.com/codenameone/](https://github.com/codenameone/) -- it was a personal account convetered to an organizational account so this github account is relatively new
 
-- I have another developer account at [https://github.com/shai-athena/](https://github.com/shai-athena/)
+- I have another developer account at [https://github.com/shai-athena/](https://github.com/shai-athena/), it's used for propriatery work.
 
-- 📝 I regularly write articles on [Talk to the Duck](https://talktotheduck.dev/), [Codename One](https://www.codenameone.com/blog), [Lightrun](https://lightrun.com/blog/), [Dev.to](https://dev.to/codename_one/), [Medium](https://medium.com/@Codename_One) and [Hacker Noon](https://hackernoon.com/u/Codename_One). I'm ocassionally featured on [foojay](https://foojay.io/), [dzone](https://dzone.com/users/308/sa74997.html), [JavaCodeGeeks](https://www.javacodegeeks.com/user/shai.almog?profiletab=posts) and others
+- 📝 I regularly write articles on [Debug Agent](https://debugagent.com/), [Talk to the Duck](https://talktotheduck.dev/), [Codename One](https://www.codenameone.com/blog), [Lightrun](https://lightrun.com/blog/), [Dev.to](https://dev.to/codename_one/), [Medium](https://medium.com/@Codename_One) and [Hacker Noon](https://hackernoon.com/u/Codename_One). I'm ocassionally featured on [foojay](https://foojay.io/), [dzone](https://dzone.com/users/308/sa74997.html), [JavaCodeGeeks](https://www.javacodegeeks.com/user/shai.almog?profiletab=posts) and others
 
 - 💬 Ask me about **Java, Debugging, Production, VM internals and pretty much anything**
 
-- 📫 You can write to me at shaia (at) lightrun.com
-
 - I tweet as [@debugagent](https://twitter.com/debugagent) and [@Codename_One](https://twitter.com/Codename_One)
 
-- I wrote a [couple of books](https://www.goodreads.com/author/list/15647322.Shai_Almog) and created a few [online courses](https://codenameone.teachable.com/)
+- I wrote a [couple of books](https://www.goodreads.com/author/list/15647322.Shai_Almog) and am busy writing another one. I created a few [online courses](https://debugagent.com/series/cn1). I like creating coding videos like the ones [here](https://twitter.com/debugagent/status/1491075324805001219?s=20&t=Ea8IbuSaYngwZ7CbFfg14w)
 
 <a href="https://stackoverflow.com/users/756809/shai-almog"><img src="https://stackoverflow.com/users/flair/756809.png" width="208" height="58" alt="profile for Shai Almog at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Shai Almog at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
