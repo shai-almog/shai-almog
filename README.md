@@ -19,6 +19,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Serverless is the New Timeshare](https://debugagent.com/serverless-is-the-new-timeshare)
 - [Build Real World Full Stack Mobile Apps in Java - Free Course](https://debugagent.com/build-real-world-full-stack-mobile-apps-in-java-free-course)
 - [Deep Dive into Mobile Development with Codename One - Free Online Course Material](https://debugagent.com/deep-dive-into-mobile-development-with-codename-one-free-online-course-material)
 - [Java for Mobile Devices - Free online course](https://debugagent.com/java-for-mobile-devices-free-online-course)
@@ -38,7 +39,6 @@
 - [Node.js SQLite Tutorial](https://lightrun.com/debugging/node-js-sqlite-tutorial/)
 - [How to Build iOS Apps with Java](https://www.codenameone.com/blog/how-to-build-ios-apps-with-java.html)
 - [Top 8 VScode Python Extensions](https://lightrun.com/debugging/vscode-python-extensions/)
-- [Understand Source Code – Deep into the Codebase, Locally and in Production](https://talktotheduck.dev/understand-source-code-deep-into-the-codebase-locally-and-in-production)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
