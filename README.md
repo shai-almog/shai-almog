@@ -38,7 +38,7 @@
 - [The Cost of Production Blindness](https://lightrun.com/best-practices/the-cost-of-production-blindness/)
 - [Debugging Gson, Moshi and Jackson JSON Frameworks in Production](https://talktotheduck.dev/debugging-gson-moshi-and-jackson-json-frameworks-in-production)
 - [Node.js SQLite Tutorial](https://lightrun.com/debugging/node-js-sqlite-tutorial/)
-- [Top 8 VScode Python Extensions](https://lightrun.com/debugging/vscode-python-extensions/)
+- [How to Build iOS Apps with Java](https://www.codenameone.com/blog/how-to-build-ios-apps-with-java.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
