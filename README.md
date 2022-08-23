@@ -19,6 +19,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Open Source Bait and Switch](https://debugagent.com/open-source-bait-and-switch)
 - [Migrating Monoliths to Microservices in Practice](https://lightrun.com/best-practices/migrating-monoliths-to-microservices-in-practice/)
 - [Serverless is the New Timeshare](https://debugagent.com/serverless-is-the-new-timeshare)
 - [Build Real World Full Stack Mobile Apps in Java - Free Course](https://debugagent.com/build-real-world-full-stack-mobile-apps-in-java-free-course)
@@ -38,7 +39,6 @@
 - [The Cost of Production Blindness](https://lightrun.com/best-practices/the-cost-of-production-blindness/)
 - [Debugging Gson, Moshi and Jackson JSON Frameworks in Production](https://talktotheduck.dev/debugging-gson-moshi-and-jackson-json-frameworks-in-production)
 - [Node.js SQLite Tutorial](https://lightrun.com/debugging/node-js-sqlite-tutorial/)
-- [How to Build iOS Apps with Java](https://www.codenameone.com/blog/how-to-build-ios-apps-with-java.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
