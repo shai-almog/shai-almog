@@ -19,6 +19,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Migrating Monoliths to Microservices in Practice](https://talktotheduck.dev/migrating-monoliths-to-microservices-in-practice)
 - [Open Source Bait and Switch](https://debugagent.com/open-source-bait-and-switch)
 - [Migrating Monoliths to Microservices in Practice](https://lightrun.com/best-practices/migrating-monoliths-to-microservices-in-practice/)
 - [Serverless is the New Timeshare](https://debugagent.com/serverless-is-the-new-timeshare)
@@ -38,7 +39,6 @@
 - [External Debugging Tools 1: dtrace and strace](https://talktotheduck.dev/external-debugging-tools-dtrace-strace)
 - [The Cost of Production Blindness](https://lightrun.com/best-practices/the-cost-of-production-blindness/)
 - [Debugging Gson, Moshi and Jackson JSON Frameworks in Production](https://talktotheduck.dev/debugging-gson-moshi-and-jackson-json-frameworks-in-production)
-- [Node.js SQLite Tutorial](https://lightrun.com/debugging/node-js-sqlite-tutorial/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
