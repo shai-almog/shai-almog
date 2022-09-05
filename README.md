@@ -19,7 +19,6 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Migrating Monoliths to Microservices in Practice](https://talktotheduck.dev/migrating-monoliths-to-microservices-in-practice)
 - [Top 5 debugging tips for Kubernetes DaemonSet](https://lightrun.com/debugging/top-5-debugging-tips-for-kubernetes-daemonset/)
 - [Open Source Bait and Switch](https://debugagent.com/open-source-bait-and-switch)
 - [Migrating Monoliths to Microservices in Practice](https://lightrun.com/best-practices/migrating-monoliths-to-microservices-in-practice/)
@@ -27,18 +26,19 @@
 - [Build Real World Full Stack Mobile Apps in Java - Free Course](https://debugagent.com/build-real-world-full-stack-mobile-apps-in-java-free-course)
 - [Deep Dive into Mobile Development with Codename One - Free Online Course Material](https://debugagent.com/deep-dive-into-mobile-development-with-codename-one-free-online-course-material)
 - [Java for Mobile Devices - Free online course](https://debugagent.com/java-for-mobile-devices-free-online-course)
-- [Debugging a Wordle Bug](https://talktotheduck.dev/debugging-a-wordle-bug)
 - [Debugging a Wordle Bug](https://lightrun.com/blog/debugging-a-wordle-bug/)
-- [External Debugging Tools 4: Debug the JVM Using jhsdb](https://talktotheduck.dev/debug-the-jvm-using-jhsdb)
 - [The Essential List of Spring Boot Annotations and Their Use Cases](https://lightrun.com/debugging/spring-boot-annotations/)
 - [Top 8 Database Version Control Tools](https://lightrun.com/dev-tools/database-version-control-tools/)
-- [External Debugging Tools 3: JMXTerm](https://talktotheduck.dev/external-debugging-tools-3-jmxterm)
 - [Top 12 Site Reliability Engineering &lpar;SRE&rpar; Tools](https://lightrun.com/debugging/site-reliability-engineering-tools/)
-- [Understand the Root Cause of Regressions with Git Bisect](https://talktotheduck.dev/understand-the-root-cause-of-regressions-with-git-bisect)
-- [The Cost of Production Blindness](https://talktotheduck.dev/the-cost-of-production-blindness)
 - [Shift Left Testing: 6 Essentials for Successful Implementation](https://lightrun.com/debugging/shift-left-testing/)
-- [External Debugging Tools 1: dtrace and strace](https://talktotheduck.dev/external-debugging-tools-dtrace-strace)
 - [The Cost of Production Blindness](https://lightrun.com/best-practices/the-cost-of-production-blindness/)
+- [Node.js SQLite Tutorial](https://lightrun.com/debugging/node-js-sqlite-tutorial/)
+- [How to Build iOS Apps with Java](https://www.codenameone.com/blog/how-to-build-ios-apps-with-java.html)
+- [Top 8 VScode Python Extensions](https://lightrun.com/debugging/vscode-python-extensions/)
+- [Debugging Gson, Moshi and Jackson JSON Frameworks in Production](https://lightrun.com/tutorials/debugging-gson-moshi-and-jackson-json-frameworks-in-production/)
+- [Short and Exciting Journey of M1 Build Agent Configuration](https://lightrun.com/dev-tools/short-journey-and-yet-super-exciting-about-configure-m1-build-agent/)
+- [OpenTracing vs. OpenTelemetry](https://lightrun.com/dev-tools/opentracing-vs-opentelemetry/)
+- [Understand Source Code – Deep into the Codebase, Locally and in Production](https://lightrun.com/tutorials/understand-source-code-deep-into-the-codebase-locally-and-in-production/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
