@@ -20,6 +20,7 @@
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Migrating Monoliths to Microservices in Practice](https://talktotheduck.dev/migrating-monoliths-to-microservices-in-practice)
+- [The SRE’s Quick Guide to Kubectl Logs](https://lightrun.com/kubernetes/the-sres-quick-guide-to-kubectl-logs/)
 - [Top 5 debugging tips for Kubernetes DaemonSet](https://lightrun.com/debugging/top-5-debugging-tips-for-kubernetes-daemonset/)
 - [Open Source Bait and Switch](https://debugagent.com/open-source-bait-and-switch)
 - [Migrating Monoliths to Microservices in Practice](https://lightrun.com/best-practices/migrating-monoliths-to-microservices-in-practice/)
@@ -38,7 +39,6 @@
 - [The Cost of Production Blindness](https://talktotheduck.dev/the-cost-of-production-blindness)
 - [Shift Left Testing: 6 Essentials for Successful Implementation](https://lightrun.com/debugging/shift-left-testing/)
 - [External Debugging Tools 1: dtrace and strace](https://talktotheduck.dev/external-debugging-tools-dtrace-strace)
-- [The Cost of Production Blindness](https://lightrun.com/best-practices/the-cost-of-production-blindness/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
