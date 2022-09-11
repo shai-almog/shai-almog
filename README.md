@@ -20,10 +20,11 @@
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Debugging Node.js HTTP Requests](https://lightrun.com/node-js/debugging-node-js-http-requests/)
+- [Top 10 Logging Frameworks Across Various Programming Platforms](https://lightrun.com/logging-frameworks/programming-platforms/)
 - [Great Time at JavaZone 2022](https://debugagent.com/great-time-at-javazone-2022)
 - [Migrating Monoliths to Microservices in Practice](https://talktotheduck.dev/migrating-monoliths-to-microservices-in-practice)
 - [The SRE’s Quick Guide to Kubectl Logs](https://lightrun.com/kubernetes/the-sres-quick-guide-to-kubectl-logs/)
-- [Top 5 debugging tips for Kubernetes DaemonSet](https://lightrun.com/debugging/top-5-debugging-tips-for-kubernetes-daemonset/)
+- [Top 5 Debugging Tips for Kubernetes DaemonSet](https://lightrun.com/debugging/top-5-debugging-tips-for-kubernetes-daemonset/)
 - [Open Source Bait and Switch](https://debugagent.com/open-source-bait-and-switch)
 - [Migrating Monoliths to Microservices in Practice](https://lightrun.com/best-practices/migrating-monoliths-to-microservices-in-practice/)
 - [Serverless is the New Timeshare](https://debugagent.com/serverless-is-the-new-timeshare)
@@ -38,7 +39,6 @@
 - [External Debugging Tools 3: JMXTerm](https://talktotheduck.dev/external-debugging-tools-3-jmxterm)
 - [Top 12 Site Reliability Engineering &lpar;SRE&rpar; Tools](https://lightrun.com/debugging/site-reliability-engineering-tools/)
 - [Understand the Root Cause of Regressions with Git Bisect](https://talktotheduck.dev/understand-the-root-cause-of-regressions-with-git-bisect)
-- [The Cost of Production Blindness](https://talktotheduck.dev/the-cost-of-production-blindness)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
