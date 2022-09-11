@@ -19,6 +19,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Debugging Node.js HTTP Requests](https://lightrun.com/node-js/debugging-node-js-http-requests/)
 - [Great Time at JavaZone 2022](https://debugagent.com/great-time-at-javazone-2022)
 - [Migrating Monoliths to Microservices in Practice](https://talktotheduck.dev/migrating-monoliths-to-microservices-in-practice)
 - [The SRE’s Quick Guide to Kubectl Logs](https://lightrun.com/kubernetes/the-sres-quick-guide-to-kubectl-logs/)
@@ -38,7 +39,6 @@
 - [Top 12 Site Reliability Engineering &lpar;SRE&rpar; Tools](https://lightrun.com/debugging/site-reliability-engineering-tools/)
 - [Understand the Root Cause of Regressions with Git Bisect](https://talktotheduck.dev/understand-the-root-cause-of-regressions-with-git-bisect)
 - [The Cost of Production Blindness](https://talktotheduck.dev/the-cost-of-production-blindness)
-- [Shift Left Testing: 6 Essentials for Successful Implementation](https://lightrun.com/debugging/shift-left-testing/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
