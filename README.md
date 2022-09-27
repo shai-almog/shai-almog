@@ -19,6 +19,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Observability is Cultural](https://debugagent.com/observability-is-cultural)
 - [The Reason Java is Still Popular](https://debugagent.com/the-reason-java-is-still-popular)
 - [Quiet Quitting is About Loyalty](https://debugagent.com/quiet-quitting-is-about-loyalty)
 - [Great Time at JavaZone 2022](https://debugagent.com/great-time-at-javazone-2022)
@@ -38,7 +39,6 @@
 - [How to Build iOS Apps with Java](https://www.codenameone.com/blog/how-to-build-ios-apps-with-java.html)
 - [Understand Source Code – Deep into the Codebase, Locally and in Production](https://talktotheduck.dev/understand-source-code-deep-into-the-codebase-locally-and-in-production)
 - [We Are Developers Trip Report: Largest Conference you Might not Know](https://talktotheduck.dev/we-are-developers-trip-report-largest-conference-you-might-not-know)
-- [Spring Boot Performance Workshop with Vlad Mihalcea](https://talktotheduck.dev/spring-boot-performance-workshop-with-vlad-mihalcea)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
