@@ -19,6 +19,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Internal Security](https://debugagent.com/internal-security)
 - [When Breakpoints don&#39;t Break](https://debugagent.com/when-breakpoints-dont-break)
 - [Observability is Cultural](https://debugagent.com/observability-is-cultural)
 - [The Reason Java is Still Popular](https://debugagent.com/the-reason-java-is-still-popular)
@@ -38,7 +39,6 @@
 - [External Debugging Tools 1: dtrace and strace](https://talktotheduck.dev/external-debugging-tools-dtrace-strace)
 - [Debugging Gson, Moshi and Jackson JSON Frameworks in Production](https://talktotheduck.dev/debugging-gson-moshi-and-jackson-json-frameworks-in-production)
 - [Understand Source Code – Deep into the Codebase, Locally and in Production](https://talktotheduck.dev/understand-source-code-deep-into-the-codebase-locally-and-in-production)
-- [We Are Developers Trip Report: Largest Conference you Might not Know](https://talktotheduck.dev/we-are-developers-trip-report-largest-conference-you-might-not-know)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
