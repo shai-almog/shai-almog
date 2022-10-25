@@ -19,6 +19,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [API Mocking: Essential and Redundant](https://debugagent.com/api-mocking-essential-and-redundant)
 - [Are we There Yet? When do we Move to GraalVM?](https://debugagent.com/are-we-there-yet-when-do-we-move-to-graalvm)
 - [Internal Security](https://debugagent.com/internal-security)
 - [When Breakpoints don&#39;t Break](https://debugagent.com/when-breakpoints-dont-break)
@@ -38,7 +39,6 @@
 - [Understand the Root Cause of Regressions with Git Bisect](https://talktotheduck.dev/understand-the-root-cause-of-regressions-with-git-bisect)
 - [The Cost of Production Blindness](https://talktotheduck.dev/the-cost-of-production-blindness)
 - [External Debugging Tools 1: dtrace and strace](https://talktotheduck.dev/external-debugging-tools-dtrace-strace)
-- [Debugging Gson, Moshi and Jackson JSON Frameworks in Production](https://talktotheduck.dev/debugging-gson-moshi-and-jackson-json-frameworks-in-production)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
