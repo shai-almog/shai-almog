@@ -19,6 +19,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [My New MacBook Air Beats M1 Max](https://debugagent.com/my-new-macbook-air-beats-m1-max)
 - [Doubt in Debugging](https://debugagent.com/doubt-in-debugging)
 - [API Mocking: Essential and Redundant](https://debugagent.com/api-mocking-essential-and-redundant)
 - [Are we There Yet? When do we Move to GraalVM?](https://debugagent.com/are-we-there-yet-when-do-we-move-to-graalvm)
@@ -38,7 +39,6 @@
 - [External Debugging Tools 4: Debug the JVM Using jhsdb](https://talktotheduck.dev/debug-the-jvm-using-jhsdb)
 - [External Debugging Tools 3: JMXTerm](https://talktotheduck.dev/external-debugging-tools-3-jmxterm)
 - [Understand the Root Cause of Regressions with Git Bisect](https://talktotheduck.dev/understand-the-root-cause-of-regressions-with-git-bisect)
-- [The Cost of Production Blindness](https://talktotheduck.dev/the-cost-of-production-blindness)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
