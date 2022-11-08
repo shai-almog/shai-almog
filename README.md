@@ -19,8 +19,26 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Debugging in Production-How to move fast without breaking things](https://dev.to/codename_one/debugging-in-production-how-to-move-fast-without-breaking-things-3hnl)
-- [Build Cross-Platform Native Mobile Apps using Java/Kotlin for iOS, Android, Desktop &amp; Web](https://dev.to/codename_one/build-cross-platform-native-mobile-apps-using-java-kotlin-for-ios-android-desktop-web-5g3j)
+- [My New MacBook Air Beats M1 Max](https://debugagent.com/my-new-macbook-air-beats-m1-max)
+- [Doubt in Debugging](https://debugagent.com/doubt-in-debugging)
+- [API Mocking: Essential and Redundant](https://debugagent.com/api-mocking-essential-and-redundant)
+- [Are we There Yet? When do we Move to GraalVM?](https://debugagent.com/are-we-there-yet-when-do-we-move-to-graalvm)
+- [Internal Security](https://debugagent.com/internal-security)
+- [When Breakpoints don&#39;t Break](https://debugagent.com/when-breakpoints-dont-break)
+- [Observability is Cultural](https://debugagent.com/observability-is-cultural)
+- [The Reason Java is Still Popular](https://debugagent.com/the-reason-java-is-still-popular)
+- [Quiet Quitting is About Loyalty](https://debugagent.com/quiet-quitting-is-about-loyalty)
+- [Great Time at JavaZone 2022](https://debugagent.com/great-time-at-javazone-2022)
+- [Migrating Monoliths to Microservices in Practice](https://talktotheduck.dev/migrating-monoliths-to-microservices-in-practice)
+- [Open Source Bait and Switch](https://debugagent.com/open-source-bait-and-switch)
+- [Serverless is the New Timeshare](https://debugagent.com/serverless-is-the-new-timeshare)
+- [Build Real World Full Stack Mobile Apps in Java - Free Course](https://debugagent.com/build-real-world-full-stack-mobile-apps-in-java-free-course)
+- [Deep Dive into Mobile Development with Codename One - Free Online Course Material](https://debugagent.com/deep-dive-into-mobile-development-with-codename-one-free-online-course-material)
+- [Java for Mobile Devices - Free online course](https://debugagent.com/java-for-mobile-devices-free-online-course)
+- [Debugging a Wordle Bug](https://talktotheduck.dev/debugging-a-wordle-bug)
+- [External Debugging Tools 4: Debug the JVM Using jhsdb](https://talktotheduck.dev/debug-the-jvm-using-jhsdb)
+- [External Debugging Tools 3: JMXTerm](https://talktotheduck.dev/external-debugging-tools-3-jmxterm)
+- [Understand the Root Cause of Regressions with Git Bisect](https://talktotheduck.dev/understand-the-root-cause-of-regressions-with-git-bisect)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
