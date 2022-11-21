@@ -19,6 +19,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [SpringOne TLV World Tour Trip Report](https://debugagent.com/springone-tlv-world-tour-trip-report)
 - [Why I Don&#39;t do TDD](https://debugagent.com/why-i-dont-do-tdd)
 - [My New MacBook Air Beats M1 Max](https://debugagent.com/my-new-macbook-air-beats-m1-max)
 - [Doubt in Debugging](https://debugagent.com/doubt-in-debugging)
@@ -38,7 +39,6 @@
 - [Java for Mobile Devices - Free online course](https://debugagent.com/java-for-mobile-devices-free-online-course)
 - [Debugging a Wordle Bug](https://talktotheduck.dev/debugging-a-wordle-bug)
 - [External Debugging Tools 4: Debug the JVM Using jhsdb](https://talktotheduck.dev/debug-the-jvm-using-jhsdb)
-- [External Debugging Tools 3: JMXTerm](https://talktotheduck.dev/external-debugging-tools-3-jmxterm)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
