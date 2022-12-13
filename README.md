@@ -19,6 +19,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Watch And Evaluate](https://debugagent.com/watch-and-evaluate)
 - [Debugging Program Control Flow](https://debugagent.com/debugging-program-control-flow)
 - [Debug Like a Senior Developer](https://debugagent.com/debug-like-a-senior-developer)
 - [SpringOne TLV World Tour Trip Report](https://debugagent.com/springone-tlv-world-tour-trip-report)
@@ -38,7 +39,6 @@
 - [Serverless is the New Timeshare](https://debugagent.com/serverless-is-the-new-timeshare)
 - [Build Real World Full Stack Mobile Apps in Java - Free Course](https://debugagent.com/build-real-world-full-stack-mobile-apps-in-java-free-course)
 - [Deep Dive into Mobile Development with Codename One - Free Online Course Material](https://debugagent.com/deep-dive-into-mobile-development-with-codename-one-free-online-course-material)
-- [Java for Mobile Devices - Free online course](https://debugagent.com/java-for-mobile-devices-free-online-course)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
