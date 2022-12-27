@@ -19,6 +19,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Debugging Streams and Collections](https://debugagent.com/debugging-streams-and-collections)
 - [The Massive Hidden Power of Breakpoints](https://debugagent.com/the-massive-hidden-power-of-breakpoints)
 - [Watch And Evaluate](https://debugagent.com/watch-and-evaluate)
 - [Debugging Program Control Flow](https://debugagent.com/debugging-program-control-flow)
@@ -38,7 +39,6 @@
 - [Migrating Monoliths to Microservices in Practice](https://talktotheduck.dev/migrating-monoliths-to-microservices-in-practice)
 - [Open Source Bait and Switch](https://debugagent.com/open-source-bait-and-switch)
 - [Serverless is the New Timeshare](https://debugagent.com/serverless-is-the-new-timeshare)
-- [Build Real World Full Stack Mobile Apps in Java - Free Course](https://debugagent.com/build-real-world-full-stack-mobile-apps-in-java-free-course)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
