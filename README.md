@@ -19,6 +19,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Watch Area and Renderers](https://debugagent.com/watch-area-and-renderers)
 - [Debugging Streams and Collections](https://debugagent.com/debugging-streams-and-collections)
 - [The Massive Hidden Power of Breakpoints](https://debugagent.com/the-massive-hidden-power-of-breakpoints)
 - [Watch And Evaluate](https://debugagent.com/watch-and-evaluate)
@@ -38,7 +39,6 @@
 - [Great Time at JavaZone 2022](https://debugagent.com/great-time-at-javazone-2022)
 - [Migrating Monoliths to Microservices in Practice](https://talktotheduck.dev/migrating-monoliths-to-microservices-in-practice)
 - [Open Source Bait and Switch](https://debugagent.com/open-source-bait-and-switch)
-- [Serverless is the New Timeshare](https://debugagent.com/serverless-is-the-new-timeshare)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
