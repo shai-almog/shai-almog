@@ -19,6 +19,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Memory Debugging - a Deep Level of Insight](https://debugagent.com/memory-debugging-a-deep-level-of-insight)
 - [Debugging Threads and Asynchronous Code](https://debugagent.com/debugging-threads-and-asynchronous-code)
 - [Watch Area and Renderers](https://debugagent.com/watch-area-and-renderers)
 - [Debugging Streams and Collections](https://debugagent.com/debugging-streams-and-collections)
@@ -38,7 +39,6 @@
 - [The Reason Java is Still Popular](https://debugagent.com/the-reason-java-is-still-popular)
 - [Quiet Quitting is About Loyalty](https://debugagent.com/quiet-quitting-is-about-loyalty)
 - [Great Time at JavaZone 2022](https://debugagent.com/great-time-at-javazone-2022)
-- [Migrating Monoliths to Microservices in Practice](https://talktotheduck.dev/migrating-monoliths-to-microservices-in-practice)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
