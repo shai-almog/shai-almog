@@ -19,6 +19,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Remote Debugging Dangers and Pitfalls](https://debugagent.com/remote-debugging-dangers-and-pitfalls)
 - [Memory Debugging - a Deep Level of Insight](https://debugagent.com/memory-debugging-a-deep-level-of-insight)
 - [Debugging Threads and Asynchronous Code](https://debugagent.com/debugging-threads-and-asynchronous-code)
 - [Watch Area and Renderers](https://debugagent.com/watch-area-and-renderers)
@@ -38,7 +39,6 @@
 - [Observability is Cultural](https://debugagent.com/observability-is-cultural)
 - [The Reason Java is Still Popular](https://debugagent.com/the-reason-java-is-still-popular)
 - [Quiet Quitting is About Loyalty](https://debugagent.com/quiet-quitting-is-about-loyalty)
-- [Great Time at JavaZone 2022](https://debugagent.com/great-time-at-javazone-2022)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
