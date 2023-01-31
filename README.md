@@ -19,6 +19,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [What are you Missing by Debugging in VS Code?](https://debugagent.com/what-are-you-missing-by-debugging-in-vs-code)
 - [Remote Debugging Dangers and Pitfalls](https://debugagent.com/remote-debugging-dangers-and-pitfalls)
 - [Memory Debugging - a Deep Level of Insight](https://debugagent.com/memory-debugging-a-deep-level-of-insight)
 - [Debugging Threads and Asynchronous Code](https://debugagent.com/debugging-threads-and-asynchronous-code)
@@ -38,7 +39,6 @@
 - [When Breakpoints don&#39;t Break](https://debugagent.com/when-breakpoints-dont-break)
 - [Observability is Cultural](https://debugagent.com/observability-is-cultural)
 - [The Reason Java is Still Popular](https://debugagent.com/the-reason-java-is-still-popular)
-- [Quiet Quitting is About Loyalty](https://debugagent.com/quiet-quitting-is-about-loyalty)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
