@@ -19,6 +19,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Is it Time to go Back to the Monolith?](https://debugagent.com/is-it-time-to-go-back-to-the-monolith)
 - [What are you Missing by Debugging in VS Code?](https://debugagent.com/what-are-you-missing-by-debugging-in-vs-code)
 - [Remote Debugging Dangers and Pitfalls](https://debugagent.com/remote-debugging-dangers-and-pitfalls)
 - [Memory Debugging - a Deep Level of Insight](https://debugagent.com/memory-debugging-a-deep-level-of-insight)
@@ -38,7 +39,6 @@
 - [Internal Security](https://debugagent.com/internal-security)
 - [When Breakpoints don&#39;t Break](https://debugagent.com/when-breakpoints-dont-break)
 - [Observability is Cultural](https://debugagent.com/observability-is-cultural)
-- [The Reason Java is Still Popular](https://debugagent.com/the-reason-java-is-still-popular)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
