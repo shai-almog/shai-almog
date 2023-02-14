@@ -19,6 +19,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Java Serialization Filtering - Prevent 0-day Security Vulnerabilities](https://debugagent.com/java-serialization-filtering-prevent-0-day-security-vulnerabilities)
 - [Is it Time to go Back to the Monolith?](https://debugagent.com/is-it-time-to-go-back-to-the-monolith)
 - [What are you Missing by Debugging in VS Code?](https://debugagent.com/what-are-you-missing-by-debugging-in-vs-code)
 - [Remote Debugging Dangers and Pitfalls](https://debugagent.com/remote-debugging-dangers-and-pitfalls)
@@ -38,7 +39,6 @@
 - [Are we There Yet? When do we Move to GraalVM?](https://debugagent.com/are-we-there-yet-when-do-we-move-to-graalvm)
 - [Internal Security](https://debugagent.com/internal-security)
 - [When Breakpoints don&#39;t Break](https://debugagent.com/when-breakpoints-dont-break)
-- [Observability is Cultural](https://debugagent.com/observability-is-cultural)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
