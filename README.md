@@ -19,6 +19,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Open Source Maintenance is Community Organizing](https://debugagent.com/open-source-maintenance-is-community-organizing)
 - [DevOps for Developers - Introduction and Version Control](https://debugagent.com/devops-for-developers-introduction-and-version-control)
 - [Java Serialization Filtering - Prevent 0-day Security Vulnerabilities](https://debugagent.com/java-serialization-filtering-prevent-0-day-security-vulnerabilities)
 - [Is it Time to go Back to the Monolith?](https://debugagent.com/is-it-time-to-go-back-to-the-monolith)
@@ -38,7 +39,6 @@
 - [Doubt in Debugging](https://debugagent.com/doubt-in-debugging)
 - [API Mocking: Essential and Redundant](https://debugagent.com/api-mocking-essential-and-redundant)
 - [Are we There Yet? When do we Move to GraalVM?](https://debugagent.com/are-we-there-yet-when-do-we-move-to-graalvm)
-- [Internal Security](https://debugagent.com/internal-security)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
