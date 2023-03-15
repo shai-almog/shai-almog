@@ -19,26 +19,8 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [DevOps For Developers: Continuous Integration, GitHub Actions &amp; Sonar Cloud](https://debugagent.com/continuous-integration-github-actions-sonar-cloud)
-- [Open Source Maintenance is Community Organizing](https://debugagent.com/open-source-maintenance-is-community-organizing)
-- [DevOps for Developers - Introduction and Version Control](https://debugagent.com/devops-for-developers-introduction-and-version-control)
-- [Java Serialization Filtering - Prevent 0-day Security Vulnerabilities](https://debugagent.com/java-serialization-filtering-prevent-0-day-security-vulnerabilities)
-- [Is it Time to go Back to the Monolith?](https://debugagent.com/is-it-time-to-go-back-to-the-monolith)
-- [What are you Missing by Debugging in VS Code?](https://debugagent.com/what-are-you-missing-by-debugging-in-vs-code)
-- [Remote Debugging Dangers and Pitfalls](https://debugagent.com/remote-debugging-dangers-and-pitfalls)
-- [Memory Debugging - a Deep Level of Insight](https://debugagent.com/memory-debugging-a-deep-level-of-insight)
-- [Debugging Threads and Asynchronous Code](https://debugagent.com/debugging-threads-and-asynchronous-code)
-- [Watch Area and Renderers](https://debugagent.com/watch-area-and-renderers)
-- [Debugging Streams and Collections](https://debugagent.com/debugging-streams-and-collections)
-- [The Massive Hidden Power of Breakpoints](https://debugagent.com/the-massive-hidden-power-of-breakpoints)
-- [Watch And Evaluate](https://debugagent.com/watch-and-evaluate)
-- [Debugging Program Control Flow](https://debugagent.com/debugging-program-control-flow)
-- [Debug Like a Senior Developer](https://debugagent.com/debug-like-a-senior-developer)
-- [SpringOne TLV World Tour Trip Report](https://debugagent.com/springone-tlv-world-tour-trip-report)
-- [Why I Don&#39;t do TDD](https://debugagent.com/why-i-dont-do-tdd)
-- [My New MacBook Air Beats M1 Max](https://debugagent.com/my-new-macbook-air-beats-m1-max)
-- [Doubt in Debugging](https://debugagent.com/doubt-in-debugging)
-- [API Mocking: Essential and Redundant](https://debugagent.com/api-mocking-essential-and-redundant)
+- [Debugging in Production-How to move fast without breaking things](https://dev.to/codename_one/debugging-in-production-how-to-move-fast-without-breaking-things-3hnl)
+- [Build Cross-Platform Native Mobile Apps using Java/Kotlin for iOS, Android, Desktop &amp; Web](https://dev.to/codename_one/build-cross-platform-native-mobile-apps-using-java-kotlin-for-ios-android-desktop-web-5g3j)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
