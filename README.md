@@ -19,6 +19,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Modern Java Course- Threading Part 1 | java threads,java core concepts](https://www.youtube.com/watch?v=pUnX8r-6IIo)
 - [Java Basics - Spring MVC, Web UI with Thymeleaf | Learn to code](https://www.youtube.com/watch?v=4sob3PDrYlk)
 - [DevOps For Developers: Continuous Integration, GitHub Actions &amp; Sonar Cloud](https://debugagent.com/continuous-integration-github-actions-sonar-cloud)
 - [DevOps 4 Devs - Continuous Integration, GitHub Actions &amp; Sonar Cloud](https://www.youtube.com/watch?v=NaL5il6cLGQ)
@@ -38,7 +39,6 @@
 - [Java Basics - Saving and Loading State | Learn to code, Java Course](https://www.youtube.com/watch?v=MDhwWHcyEx8)
 - [Its Time to go Back to the Monoliths. Use Modular Monolith, save costs](https://www.youtube.com/watch?v=NWu7AJJlLM8)
 - [Is it Time to go Back to the Monolith?](https://debugagent.com/is-it-time-to-go-back-to-the-monolith)
-- [Modern Java Course - Pattern Matching in Switch &amp; Sealed Classes](https://www.youtube.com/watch?v=Er-HxIA3CM8)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
