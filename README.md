@@ -19,6 +19,8 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [When Should we Move to Microservices?](https://debugagent.com/when-should-we-move-to-microservices)
+- [When Should we Move to Microservices? | Avoiding the small monolith](https://www.youtube.com/watch?v=PrFZB9NqZ5E)
 - [Modern Java Course- Threading Part 1 | java threads,java core concepts](https://www.youtube.com/watch?v=pUnX8r-6IIo)
 - [Java Basics - Spring MVC, Web UI with Thymeleaf | Learn to code](https://www.youtube.com/watch?v=4sob3PDrYlk)
 - [DevOps For Developers: Continuous Integration, GitHub Actions &amp; Sonar Cloud](https://debugagent.com/continuous-integration-github-actions-sonar-cloud)
@@ -37,8 +39,6 @@
 - [Java Serialization Filtering - Prevent 0-day Security Vulnerabilities](https://debugagent.com/java-serialization-filtering-prevent-0-day-security-vulnerabilities)
 - [Modern Java Course - New instanceof, TextBlocks and var | learn java](https://www.youtube.com/watch?v=VlcQX-9xUGM)
 - [Java Basics - Saving and Loading State | Learn to code, Java Course](https://www.youtube.com/watch?v=MDhwWHcyEx8)
-- [Its Time to go Back to the Monoliths. Use Modular Monolith, save costs](https://www.youtube.com/watch?v=NWu7AJJlLM8)
-- [Is it Time to go Back to the Monolith?](https://debugagent.com/is-it-time-to-go-back-to-the-monolith)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
