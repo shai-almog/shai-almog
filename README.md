@@ -19,26 +19,26 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [When Should we Move to Microservices?](https://debugagent.com/when-should-we-move-to-microservices)
 - [When Should we Move to Microservices? | Avoiding the small monolith](https://www.youtube.com/watch?v=PrFZB9NqZ5E)
 - [Modern Java Course- Threading Part 1 | java threads,java core concepts](https://www.youtube.com/watch?v=pUnX8r-6IIo)
 - [Java Basics - Spring MVC, Web UI with Thymeleaf | Learn to code](https://www.youtube.com/watch?v=4sob3PDrYlk)
-- [DevOps For Developers: Continuous Integration, GitHub Actions &amp; Sonar Cloud](https://debugagent.com/continuous-integration-github-actions-sonar-cloud)
 - [DevOps 4 Devs - Continuous Integration, GitHub Actions &amp; Sonar Cloud](https://www.youtube.com/watch?v=NaL5il6cLGQ)
 - [Modern Java Course - Spring Native | learn java](https://www.youtube.com/watch?v=delrnaidO4I)
 - [Java Basics - Spring Boot Wordle REST Service | Learn to code](https://www.youtube.com/watch?v=modArOd-uD0)
 - [Modern Java Course - GraalVM and Native Image | learn java](https://www.youtube.com/watch?v=n3M8DF-YLzc)
 - [Java Basics - Hello Spring Boot | Learn to code,java tutorial,rest API](https://www.youtube.com/watch?v=nenJq_ARWsc)
-- [Open Source Maintenance is Community Organizing](https://debugagent.com/open-source-maintenance-is-community-organizing)
 - [Modern Java Course - HttpClient, REST &amp; WebSocket | learn java](https://www.youtube.com/watch?v=q3i7lyuERF4)
 - [Java Basics - Parsing and Saving JSON with Moshi | Learn to code](https://www.youtube.com/watch?v=LKz00y6H7ww)
-- [DevOps for Developers - Introduction and Version Control](https://debugagent.com/devops-for-developers-introduction-and-version-control)
 - [DevOps 4 Devs-Introduction: Basic DevOps Tools &amp; Version Control | git](https://www.youtube.com/watch?v=2HatFLh4xoA)
 - [Modern Java Course - Records and Record Pattern Matching | learn java](https://www.youtube.com/watch?v=tSBWPMiJ9zM)
 - [Java Basics - Maven, Objects, Encapsulation &amp; Records | Learn to code](https://www.youtube.com/watch?v=TDCBIfHiS5o)
-- [Java Serialization Filtering - Prevent 0-day Security Vulnerabilities](https://debugagent.com/java-serialization-filtering-prevent-0-day-security-vulnerabilities)
 - [Modern Java Course - New instanceof, TextBlocks and var | learn java](https://www.youtube.com/watch?v=VlcQX-9xUGM)
 - [Java Basics - Saving and Loading State | Learn to code, Java Course](https://www.youtube.com/watch?v=MDhwWHcyEx8)
+- [Migrating Monoliths to Microservices in Practice](https://talktotheduck.dev/migrating-monoliths-to-microservices-in-practice)
+- [Debugging a Wordle Bug](https://talktotheduck.dev/debugging-a-wordle-bug)
+- [External Debugging Tools 4: Debug the JVM Using jhsdb](https://talktotheduck.dev/debug-the-jvm-using-jhsdb)
+- [External Debugging Tools 3: JMXTerm](https://talktotheduck.dev/external-debugging-tools-3-jmxterm)
+- [Understand the Root Cause of Regressions with Git Bisect](https://talktotheduck.dev/understand-the-root-cause-of-regressions-with-git-bisect)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
