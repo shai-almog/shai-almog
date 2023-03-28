@@ -19,6 +19,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Boldness in Refactoring](https://debugagent.com/boldness-in-refactoring)
 - [Modern Java Threading Part 2 | StampedLock, ReentrantReadWriteLock](https://www.youtube.com/watch?v=pOrhJ8o9TT0)
 - [Java Basics - Refactoring, IoC, DRY, Layered Arch &amp; Spring Stereotypes](https://www.youtube.com/watch?v=sOOKQrQyaA8)
 - [When Should we Move to Microservices?](https://debugagent.com/when-should-we-move-to-microservices)
@@ -38,7 +39,6 @@
 - [DevOps 4 Devs-Introduction: Basic DevOps Tools &amp; Version Control | git](https://www.youtube.com/watch?v=2HatFLh4xoA)
 - [Modern Java Course - Records and Record Pattern Matching | learn java](https://www.youtube.com/watch?v=tSBWPMiJ9zM)
 - [Java Basics - Maven, Objects, Encapsulation &amp; Records | Learn to code](https://www.youtube.com/watch?v=TDCBIfHiS5o)
-- [Java Serialization Filtering - Prevent 0-day Security Vulnerabilities](https://debugagent.com/java-serialization-filtering-prevent-0-day-security-vulnerabilities)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
