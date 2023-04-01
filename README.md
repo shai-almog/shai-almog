@@ -20,25 +20,22 @@
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Java Basics - Wordle Web App with Thymeleaf &amp; Spring MVC | Spring Boot](https://www.youtube.com/watch?v=NYX7EpxHhk0)
-- [Boldness in Refactoring](https://debugagent.com/boldness-in-refactoring)
 - [Modern Java Threading Part 2 | StampedLock, ReentrantReadWriteLock](https://www.youtube.com/watch?v=pOrhJ8o9TT0)
 - [Java Basics - Refactoring, IoC, DRY, Layered Arch &amp; Spring Stereotypes](https://www.youtube.com/watch?v=sOOKQrQyaA8)
-- [When Should we Move to Microservices?](https://debugagent.com/when-should-we-move-to-microservices)
 - [When Should we Move to Microservices? | Avoiding the small monolith](https://www.youtube.com/watch?v=PrFZB9NqZ5E)
 - [Modern Java Course- Threading Part 1 | java threads,java core concepts](https://www.youtube.com/watch?v=pUnX8r-6IIo)
 - [Java Basics - Spring MVC, Web UI with Thymeleaf | Learn to code](https://www.youtube.com/watch?v=4sob3PDrYlk)
-- [DevOps For Developers: Continuous Integration, GitHub Actions &amp; Sonar Cloud](https://debugagent.com/continuous-integration-github-actions-sonar-cloud)
 - [DevOps 4 Devs - Continuous Integration, GitHub Actions &amp; Sonar Cloud](https://www.youtube.com/watch?v=NaL5il6cLGQ)
 - [Modern Java Course - Spring Native | learn java](https://www.youtube.com/watch?v=delrnaidO4I)
 - [Java Basics - Spring Boot Wordle REST Service | Learn to code](https://www.youtube.com/watch?v=modArOd-uD0)
 - [Modern Java Course - GraalVM and Native Image | learn java](https://www.youtube.com/watch?v=n3M8DF-YLzc)
 - [Java Basics - Hello Spring Boot | Learn to code,java tutorial,rest API](https://www.youtube.com/watch?v=nenJq_ARWsc)
-- [Open Source Maintenance is Community Organizing](https://debugagent.com/open-source-maintenance-is-community-organizing)
 - [Modern Java Course - HttpClient, REST &amp; WebSocket | learn java](https://www.youtube.com/watch?v=q3i7lyuERF4)
 - [Java Basics - Parsing and Saving JSON with Moshi | Learn to code](https://www.youtube.com/watch?v=LKz00y6H7ww)
-- [DevOps for Developers - Introduction and Version Control](https://debugagent.com/devops-for-developers-introduction-and-version-control)
 - [DevOps 4 Devs-Introduction: Basic DevOps Tools &amp; Version Control | git](https://www.youtube.com/watch?v=2HatFLh4xoA)
 - [Modern Java Course - Records and Record Pattern Matching | learn java](https://www.youtube.com/watch?v=tSBWPMiJ9zM)
+- [Debugging in Production-How to move fast without breaking things](https://dev.to/codename_one/debugging-in-production-how-to-move-fast-without-breaking-things-3hnl)
+- [Build Cross-Platform Native Mobile Apps using Java/Kotlin for iOS, Android, Desktop &amp; Web](https://dev.to/codename_one/build-cross-platform-native-mobile-apps-using-java-kotlin-for-ios-android-desktop-web-5g3j)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
