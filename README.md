@@ -19,6 +19,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Modern Java - Backend Threads | threads spring boot, spring threading](https://www.youtube.com/watch?v=XM9E-FJl3fE)
 - [Java Basics - Wordle Web App with Thymeleaf &amp; Spring MVC | Spring Boot](https://www.youtube.com/watch?v=NYX7EpxHhk0)
 - [Boldness in Refactoring](https://debugagent.com/boldness-in-refactoring)
 - [Modern Java Threading Part 2 | StampedLock, ReentrantReadWriteLock](https://www.youtube.com/watch?v=pOrhJ8o9TT0)
@@ -38,7 +39,6 @@
 - [Java Basics - Parsing and Saving JSON with Moshi | Learn to code](https://www.youtube.com/watch?v=LKz00y6H7ww)
 - [DevOps for Developers - Introduction and Version Control](https://debugagent.com/devops-for-developers-introduction-and-version-control)
 - [DevOps 4 Devs-Introduction: Basic DevOps Tools &amp; Version Control | git](https://www.youtube.com/watch?v=2HatFLh4xoA)
-- [Modern Java Course - Records and Record Pattern Matching | learn java](https://www.youtube.com/watch?v=tSBWPMiJ9zM)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
