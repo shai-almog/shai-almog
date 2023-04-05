@@ -19,6 +19,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Java Basics - Understanding Spring Session Scope | Spring Boot](https://www.youtube.com/watch?v=vV6kjcaZOec)
 - [Relearning Java Thread Primitives](https://debugagent.com/relearning-java-thread-primitives)
 - [Modern Java - Backend Threads | threads spring boot, spring threading](https://www.youtube.com/watch?v=XM9E-FJl3fE)
 - [Java Basics - Wordle Web App with Thymeleaf &amp; Spring MVC | Spring Boot](https://www.youtube.com/watch?v=NYX7EpxHhk0)
@@ -38,7 +39,6 @@
 - [Open Source Maintenance is Community Organizing](https://debugagent.com/open-source-maintenance-is-community-organizing)
 - [Modern Java Course - HttpClient, REST &amp; WebSocket | learn java](https://www.youtube.com/watch?v=q3i7lyuERF4)
 - [Java Basics - Parsing and Saving JSON with Moshi | Learn to code](https://www.youtube.com/watch?v=LKz00y6H7ww)
-- [DevOps for Developers - Introduction and Version Control](https://debugagent.com/devops-for-developers-introduction-and-version-control)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
