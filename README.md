@@ -19,6 +19,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Continuing Hello World](https://debugagent.com/continuing-hello-world)
 - [Modern Java - Lombok Java Creation and Setters | java lombok setters](https://www.youtube.com/watch?v=ouPPle7v-hs)
 - [Java Basics - Understanding Spring Session Scope | Spring Boot](https://www.youtube.com/watch?v=vV6kjcaZOec)
 - [Relearning Java Thread Primitives](https://debugagent.com/relearning-java-thread-primitives)
@@ -38,7 +39,6 @@
 - [Modern Java Course - GraalVM and Native Image | learn java](https://www.youtube.com/watch?v=n3M8DF-YLzc)
 - [Java Basics - Hello Spring Boot | Learn to code,java tutorial,rest API](https://www.youtube.com/watch?v=nenJq_ARWsc)
 - [Open Source Maintenance is Community Organizing](https://debugagent.com/open-source-maintenance-is-community-organizing)
-- [Modern Java Course - HttpClient, REST &amp; WebSocket | learn java](https://www.youtube.com/watch?v=q3i7lyuERF4)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
