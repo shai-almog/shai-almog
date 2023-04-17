@@ -19,6 +19,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Modern Java - Advanced Java Lombok Features and Capabilities](https://www.youtube.com/watch?v=tm19xq-QmJA)
 - [Java Basics - Spring Boot JavaScript Introduction with Thymeleaf](https://www.youtube.com/watch?v=G04jdmvX5Wk)
 - [Continuing Hello World](https://debugagent.com/continuing-hello-world)
 - [Modern Java - Lombok Java Creation and Setters | java lombok setters](https://www.youtube.com/watch?v=ouPPle7v-hs)
@@ -38,7 +39,6 @@
 - [Modern Java Course - Spring Native | learn java](https://www.youtube.com/watch?v=delrnaidO4I)
 - [Java Basics - Spring Boot Wordle REST Service | Learn to code](https://www.youtube.com/watch?v=modArOd-uD0)
 - [Modern Java Course - GraalVM and Native Image | learn java](https://www.youtube.com/watch?v=n3M8DF-YLzc)
-- [Java Basics - Hello Spring Boot | Learn to code,java tutorial,rest API](https://www.youtube.com/watch?v=nenJq_ARWsc)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
