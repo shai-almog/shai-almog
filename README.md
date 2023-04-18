@@ -19,6 +19,8 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Spring Boot Debugging with Aspect-Oriented Programming &lpar;AOP&rpar;](https://www.youtube.com/watch?v=6kxpkcEqssw)
+- [Spring Boot Debugging with Aspect-Oriented Programming &lpar;AOP&rpar;](https://debugagent.com/spring-boot-debugging-with-aspect-oriented-programming-aop)
 - [Modern Java - Advanced Java Lombok Features and Capabilities](https://www.youtube.com/watch?v=tm19xq-QmJA)
 - [Java Basics - Spring Boot JavaScript Introduction with Thymeleaf](https://www.youtube.com/watch?v=G04jdmvX5Wk)
 - [Continuing Hello World](https://debugagent.com/continuing-hello-world)
@@ -37,8 +39,6 @@
 - [DevOps For Developers: Continuous Integration, GitHub Actions &amp; Sonar Cloud](https://debugagent.com/continuous-integration-github-actions-sonar-cloud)
 - [DevOps 4 Devs - Continuous Integration, GitHub Actions &amp; Sonar Cloud](https://www.youtube.com/watch?v=NaL5il6cLGQ)
 - [Modern Java Course - Spring Native | learn java](https://www.youtube.com/watch?v=delrnaidO4I)
-- [Java Basics - Spring Boot Wordle REST Service | Learn to code](https://www.youtube.com/watch?v=modArOd-uD0)
-- [Modern Java Course - GraalVM and Native Image | learn java](https://www.youtube.com/watch?v=n3M8DF-YLzc)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
