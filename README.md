@@ -19,6 +19,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Modern Java - Make Java JSON Native, Manifold P1 | Java JSON Parsing](https://www.youtube.com/watch?v=AoBnGZ7q6rk)
 - [Java Basics - Spring Boot Single Page Application &lpar;SPA&rpar; | Learn Java](https://www.youtube.com/watch?v=sRJTrneM0lQ)
 - [Spring Boot Debugging with Aspect-Oriented Programming &lpar;AOP&rpar;](https://www.youtube.com/watch?v=6kxpkcEqssw)
 - [Spring Boot Debugging with Aspect-Oriented Programming &lpar;AOP&rpar;](https://debugagent.com/spring-boot-debugging-with-aspect-oriented-programming-aop)
@@ -38,7 +39,6 @@
 - [Modern Java Course- Threading Part 1 | java threads,java core concepts](https://www.youtube.com/watch?v=pUnX8r-6IIo)
 - [Java Basics - Spring MVC, Web UI with Thymeleaf | Learn to code](https://www.youtube.com/watch?v=4sob3PDrYlk)
 - [DevOps For Developers: Continuous Integration, GitHub Actions &amp; Sonar Cloud](https://debugagent.com/continuous-integration-github-actions-sonar-cloud)
-- [DevOps 4 Devs - Continuous Integration, GitHub Actions &amp; Sonar Cloud](https://www.youtube.com/watch?v=NaL5il6cLGQ)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
