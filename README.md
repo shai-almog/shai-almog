@@ -19,6 +19,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Java Basics - Databases and Unit Tests | Learn Java, Java course](https://www.youtube.com/watch?v=O4GSTaDTkt4)
 - [Revolutionize JSON Parsing in Java with Manifold](https://debugagent.com/revolutionize-json-parsing-in-java-with-manifold)
 - [Modern Java - Make Java JSON Native, Manifold P1 | Java JSON Parsing](https://www.youtube.com/watch?v=AoBnGZ7q6rk)
 - [Java Basics - Spring Boot Single Page Application &lpar;SPA&rpar; | Learn Java](https://www.youtube.com/watch?v=sRJTrneM0lQ)
@@ -38,7 +39,6 @@
 - [When Should we Move to Microservices?](https://debugagent.com/when-should-we-move-to-microservices)
 - [When Should we Move to Microservices? | Avoiding the small monolith](https://www.youtube.com/watch?v=PrFZB9NqZ5E)
 - [Modern Java Course- Threading Part 1 | java threads,java core concepts](https://www.youtube.com/watch?v=pUnX8r-6IIo)
-- [Java Basics - Spring MVC, Web UI with Thymeleaf | Learn to code](https://www.youtube.com/watch?v=4sob3PDrYlk)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
