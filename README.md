@@ -19,6 +19,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Java Basics - User Id Cookie and Database | Java Spring Tutorial](https://www.youtube.com/watch?v=82IOtdtFEJ4)
 - [Java String Templates Today](https://debugagent.com/java-string-templates-today)
 - [Modern Java - Java String Templates Today, Manifold P2](https://www.youtube.com/watch?v=ite6a5y50yQ)
 - [Java Basics - Databases and Unit Tests | Learn Java, Java course](https://www.youtube.com/watch?v=O4GSTaDTkt4)
@@ -38,7 +39,6 @@
 - [Boldness in Refactoring](https://debugagent.com/boldness-in-refactoring)
 - [Modern Java Threading Part 2 | StampedLock, ReentrantReadWriteLock](https://www.youtube.com/watch?v=pOrhJ8o9TT0)
 - [Java Basics - Refactoring, IoC, DRY, Layered Arch &amp; Spring Stereotypes](https://www.youtube.com/watch?v=sOOKQrQyaA8)
-- [When Should we Move to Microservices?](https://debugagent.com/when-should-we-move-to-microservices)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
