@@ -19,6 +19,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Extending Java APIs - Add Missing Features Without the Hassle](https://debugagent.com/extending-java-apis-add-missing-features-without-the-hassle)
 - [Modern Java - Extending Java Modify JVM Classes &lpar;Manifold Part 3&rpar;](https://www.youtube.com/watch?v=4wv-wtxa9-g)
 - [Java Basics - User Id Cookie and Database | Java Spring Tutorial](https://www.youtube.com/watch?v=82IOtdtFEJ4)
 - [Java String Templates Today](https://debugagent.com/java-string-templates-today)
@@ -38,7 +39,6 @@
 - [Modern Java - Backend Threads | threads spring boot, spring threading](https://www.youtube.com/watch?v=XM9E-FJl3fE)
 - [Java Basics - Wordle Web App with Thymeleaf &amp; Spring MVC | Spring Boot](https://www.youtube.com/watch?v=NYX7EpxHhk0)
 - [Boldness in Refactoring](https://debugagent.com/boldness-in-refactoring)
-- [Modern Java Threading Part 2 | StampedLock, ReentrantReadWriteLock](https://www.youtube.com/watch?v=pOrhJ8o9TT0)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
