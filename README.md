@@ -19,6 +19,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Java Basics - Java Object Oriented Programming &lpar;OOP&rpar; | Java Tutorial](https://www.youtube.com/watch?v=ZsqZ2r2o_g4)
 - [Extending Java APIs - Add Missing Features Without the Hassle](https://debugagent.com/extending-java-apis-add-missing-features-without-the-hassle)
 - [Modern Java - Extending Java Modify JVM Classes &lpar;Manifold Part 3&rpar;](https://www.youtube.com/watch?v=4wv-wtxa9-g)
 - [Java Basics - User Id Cookie and Database | Java Spring Tutorial](https://www.youtube.com/watch?v=82IOtdtFEJ4)
@@ -38,7 +39,6 @@
 - [Relearning Java Thread Primitives](https://debugagent.com/relearning-java-thread-primitives)
 - [Modern Java - Backend Threads | threads spring boot, spring threading](https://www.youtube.com/watch?v=XM9E-FJl3fE)
 - [Java Basics - Wordle Web App with Thymeleaf &amp; Spring MVC | Spring Boot](https://www.youtube.com/watch?v=NYX7EpxHhk0)
-- [Boldness in Refactoring](https://debugagent.com/boldness-in-refactoring)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
