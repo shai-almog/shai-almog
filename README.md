@@ -19,6 +19,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Java Basics - JPA: Java Persistence API | Spring Data Tutorial](https://www.youtube.com/watch?v=oWJnMN-lcFg)
 - [Modern Java - Operator Overloading in Java &lpar;Manifold Part 4&rpar;](https://www.youtube.com/watch?v=pwQs-308OdY)
 - [Logging Best Practices Revisited](https://debugagent.com/logging-best-practices-revisited)
 - [Java Basics - Java Object Oriented Programming &lpar;OOP&rpar; | Java Tutorial](https://www.youtube.com/watch?v=ZsqZ2r2o_g4)
@@ -38,7 +39,6 @@
 - [Continuing Hello World](https://debugagent.com/continuing-hello-world)
 - [Modern Java - Lombok Java Creation and Setters | java lombok setters](https://www.youtube.com/watch?v=ouPPle7v-hs)
 - [Java Basics - Understanding Spring Session Scope | Spring Boot](https://www.youtube.com/watch?v=vV6kjcaZOec)
-- [Relearning Java Thread Primitives](https://debugagent.com/relearning-java-thread-primitives)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
