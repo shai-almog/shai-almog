@@ -19,6 +19,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Modern Java - Java Type Safety, Manifold Part 5 | Unit Expressions](https://www.youtube.com/watch?v=r4iycWnI5fE)
 - [Java Basics - JPA: Java Persistence API | Spring Data Tutorial](https://www.youtube.com/watch?v=oWJnMN-lcFg)
 - [Modern Java - Operator Overloading in Java &lpar;Manifold Part 4&rpar;](https://www.youtube.com/watch?v=pwQs-308OdY)
 - [Logging Best Practices Revisited](https://debugagent.com/logging-best-practices-revisited)
@@ -38,7 +39,6 @@
 - [Java Basics - Spring Boot JavaScript Introduction with Thymeleaf](https://www.youtube.com/watch?v=G04jdmvX5Wk)
 - [Continuing Hello World](https://debugagent.com/continuing-hello-world)
 - [Modern Java - Lombok Java Creation and Setters | java lombok setters](https://www.youtube.com/watch?v=ouPPle7v-hs)
-- [Java Basics - Understanding Spring Session Scope | Spring Boot](https://www.youtube.com/watch?v=vV6kjcaZOec)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
