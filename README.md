@@ -19,6 +19,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Operator Overloading in Java](https://debugagent.com/operator-overloading-in-java)
 - [Modern Java - Java Type Safety, Manifold Part 5 | Unit Expressions](https://www.youtube.com/watch?v=r4iycWnI5fE)
 - [Java Basics - JPA: Java Persistence API | Spring Data Tutorial](https://www.youtube.com/watch?v=oWJnMN-lcFg)
 - [Modern Java - Operator Overloading in Java &lpar;Manifold Part 4&rpar;](https://www.youtube.com/watch?v=pwQs-308OdY)
@@ -38,7 +39,6 @@
 - [Modern Java - Advanced Java Lombok Features and Capabilities](https://www.youtube.com/watch?v=tm19xq-QmJA)
 - [Java Basics - Spring Boot JavaScript Introduction with Thymeleaf](https://www.youtube.com/watch?v=G04jdmvX5Wk)
 - [Continuing Hello World](https://debugagent.com/continuing-hello-world)
-- [Modern Java - Lombok Java Creation and Setters | java lombok setters](https://www.youtube.com/watch?v=ouPPle7v-hs)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
