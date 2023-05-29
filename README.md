@@ -19,6 +19,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Modern Java - Properties vs. Lombok, Manifold P5 | Lombok Java](https://www.youtube.com/watch?v=z-9jSMq_Yk8)
 - [My Top Three Application Performance Tips](https://www.youtube.com/watch?v=4InvCCA2LFA)
 - [Operator Overloading in Java](https://debugagent.com/operator-overloading-in-java)
 - [Modern Java - Java Type Safety, Manifold Part 5 | Unit Expressions](https://www.youtube.com/watch?v=r4iycWnI5fE)
@@ -38,7 +39,6 @@
 - [Spring Boot Debugging with Aspect-Oriented Programming &lpar;AOP&rpar;](https://www.youtube.com/watch?v=6kxpkcEqssw)
 - [Spring Boot Debugging with Aspect-Oriented Programming &lpar;AOP&rpar;](https://debugagent.com/spring-boot-debugging-with-aspect-oriented-programming-aop)
 - [Modern Java - Advanced Java Lombok Features and Capabilities](https://www.youtube.com/watch?v=tm19xq-QmJA)
-- [Java Basics - Spring Boot JavaScript Introduction with Thymeleaf](https://www.youtube.com/watch?v=G04jdmvX5Wk)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
