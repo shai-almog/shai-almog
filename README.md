@@ -19,6 +19,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Everything Bad in Java is Good for You| NullPointerException is good](https://www.youtube.com/watch?v=cWdkMfmpsps)
 - [Manifold vs. Lombok: Enhancing Java with Property Support](https://debugagent.com/manifold-vs-lombok-enhancing-java-with-property-support)
 - [Modern Java - Properties vs. Lombok, Manifold P5 | Lombok Java](https://www.youtube.com/watch?v=z-9jSMq_Yk8)
 - [My Top Three Application Performance Tips](https://www.youtube.com/watch?v=4InvCCA2LFA)
@@ -38,7 +39,6 @@
 - [Modern Java - Make Java JSON Native, Manifold P1 | Java JSON Parsing](https://www.youtube.com/watch?v=AoBnGZ7q6rk)
 - [Java Basics - Spring Boot Single Page Application &lpar;SPA&rpar; | Learn Java](https://www.youtube.com/watch?v=sRJTrneM0lQ)
 - [Spring Boot Debugging with Aspect-Oriented Programming &lpar;AOP&rpar;](https://www.youtube.com/watch?v=6kxpkcEqssw)
-- [Spring Boot Debugging with Aspect-Oriented Programming &lpar;AOP&rpar;](https://debugagent.com/spring-boot-debugging-with-aspect-oriented-programming-aop)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
