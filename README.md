@@ -19,6 +19,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Everything Bad in Java is Good for You](https://debugagent.com/everything-bad-in-java-is-good-for-you)
 - [Modern Java - GraphQL, JavaScript &amp; Preprocessor | Lombok Java](https://www.youtube.com/watch?v=7PzaVwZ68II)
 - [Everything Bad in Java is Good for You| NullPointerException is good](https://www.youtube.com/watch?v=cWdkMfmpsps)
 - [Manifold vs. Lombok: Enhancing Java with Property Support](https://debugagent.com/manifold-vs-lombok-enhancing-java-with-property-support)
@@ -38,7 +39,6 @@
 - [Java Basics - Databases and Unit Tests | Learn Java, Java course](https://www.youtube.com/watch?v=O4GSTaDTkt4)
 - [Revolutionize JSON Parsing in Java with Manifold](https://debugagent.com/revolutionize-json-parsing-in-java-with-manifold)
 - [Modern Java - Make Java JSON Native, Manifold P1 | Java JSON Parsing](https://www.youtube.com/watch?v=AoBnGZ7q6rk)
-- [Java Basics - Spring Boot Single Page Application &lpar;SPA&rpar; | Learn Java](https://www.youtube.com/watch?v=sRJTrneM0lQ)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
