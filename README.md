@@ -19,6 +19,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Practical Debugging at Scale Part 10: Debugging Theory - The Checklist](https://www.youtube.com/watch?v=sJkPV7njpVY)
 - [Java Basics - Java Security Vulnerability, Exploits and Mitigation](https://www.youtube.com/watch?v=HTp3cW1Sfq8)
 - [Everything Bad in Java is Good for You](https://debugagent.com/everything-bad-in-java-is-good-for-you)
 - [Modern Java - GraphQL, JavaScript &amp; Preprocessor | Lombok Java](https://www.youtube.com/watch?v=7PzaVwZ68II)
@@ -38,7 +39,6 @@
 - [Java String Templates Today](https://debugagent.com/java-string-templates-today)
 - [Modern Java - Java String Templates Today, Manifold P2](https://www.youtube.com/watch?v=ite6a5y50yQ)
 - [Java Basics - Databases and Unit Tests | Learn Java, Java course](https://www.youtube.com/watch?v=O4GSTaDTkt4)
-- [Revolutionize JSON Parsing in Java with Manifold](https://debugagent.com/revolutionize-json-parsing-in-java-with-manifold)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
