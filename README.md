@@ -19,6 +19,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Security Vulnerabilities: A First Step in Preventing Attacks](https://debugagent.com/understanding-security-vulnerabilities-a-first-step-in-preventing-attacks)
 - [Practical Debugging at Scale Part 10: Debugging Theory - The Checklist](https://www.youtube.com/watch?v=sJkPV7njpVY)
 - [Java Basics - Java Security Vulnerability, Exploits and Mitigation](https://www.youtube.com/watch?v=HTp3cW1Sfq8)
 - [Everything Bad in Java is Good for You](https://debugagent.com/everything-bad-in-java-is-good-for-you)
@@ -38,7 +39,6 @@
 - [Java Basics - User Id Cookie and Database | Java Spring Tutorial](https://www.youtube.com/watch?v=82IOtdtFEJ4)
 - [Java String Templates Today](https://debugagent.com/java-string-templates-today)
 - [Modern Java - Java String Templates Today, Manifold P2](https://www.youtube.com/watch?v=ite6a5y50yQ)
-- [Java Basics - Databases and Unit Tests | Learn Java, Java course](https://www.youtube.com/watch?v=O4GSTaDTkt4)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
