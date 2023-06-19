@@ -19,6 +19,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Conduct a Software Engineer Technical Interview Correctly?](https://www.youtube.com/watch?v=KMQUeV3qnX4)
 - [Understanding Security Vulnerabilities: A First Step in Preventing Attacks](https://debugagent.com/understanding-security-vulnerabilities-a-first-step-in-preventing-attacks)
 - [Practical Debugging at Scale Part 10: Debugging Theory - The Checklist](https://www.youtube.com/watch?v=sJkPV7njpVY)
 - [Java Basics - Java Security Vulnerability, Exploits and Mitigation](https://www.youtube.com/watch?v=HTp3cW1Sfq8)
@@ -38,7 +39,6 @@
 - [Modern Java - Extending Java Modify JVM Classes &lpar;Manifold Part 3&rpar;](https://www.youtube.com/watch?v=4wv-wtxa9-g)
 - [Java Basics - User Id Cookie and Database | Java Spring Tutorial](https://www.youtube.com/watch?v=82IOtdtFEJ4)
 - [Java String Templates Today](https://debugagent.com/java-string-templates-today)
-- [Modern Java - Java String Templates Today, Manifold P2](https://www.youtube.com/watch?v=ite6a5y50yQ)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
