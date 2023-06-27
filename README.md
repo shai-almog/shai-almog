@@ -19,6 +19,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [GraphQL, JavaScript, Preprocessor, SQL and more in Manifold](https://debugagent.com/graphql-javascript-preprocessor-sql-and-more-in-manifold)
 - [Building for Failure - Best Practices for Easy Production Debugging](https://www.youtube.com/watch?v=uz06__w2mjI)
 - [How to Conduct a Software Engineer Technical Interview Correctly?](https://www.youtube.com/watch?v=KMQUeV3qnX4)
 - [Understanding Security Vulnerabilities: A First Step in Preventing Attacks](https://debugagent.com/understanding-security-vulnerabilities-a-first-step-in-preventing-attacks)
@@ -38,7 +39,6 @@
 - [Java Basics - Java Object Oriented Programming &lpar;OOP&rpar; | Java Tutorial](https://www.youtube.com/watch?v=ZsqZ2r2o_g4)
 - [Extending Java APIs - Add Missing Features Without the Hassle](https://debugagent.com/extending-java-apis-add-missing-features-without-the-hassle)
 - [Modern Java - Extending Java Modify JVM Classes &lpar;Manifold Part 3&rpar;](https://www.youtube.com/watch?v=4wv-wtxa9-g)
-- [Java Basics - User Id Cookie and Database | Java Spring Tutorial](https://www.youtube.com/watch?v=82IOtdtFEJ4)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
