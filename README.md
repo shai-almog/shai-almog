@@ -19,6 +19,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Building for Failure - Best Practices for Easy Production Debugging](https://debugagent.com/building-for-failure-best-practices-for-easy-production-debugging)
 - [Practical Debugging at Scale Part 11: can&#39;t reproduce bug?](https://www.youtube.com/watch?v=qGasKz-YsiU)
 - [GraphQL, JavaScript, Preprocessor, SQL and more in Manifold](https://debugagent.com/graphql-javascript-preprocessor-sql-and-more-in-manifold)
 - [Building for Failure - Best Practices for Easy Production Debugging](https://www.youtube.com/watch?v=uz06__w2mjI)
@@ -38,7 +39,6 @@
 - [Modern Java - Operator Overloading in Java &lpar;Manifold Part 4&rpar;](https://www.youtube.com/watch?v=pwQs-308OdY)
 - [Logging Best Practices Revisited](https://debugagent.com/logging-best-practices-revisited)
 - [Java Basics - Java Object Oriented Programming &lpar;OOP&rpar; | Java Tutorial](https://www.youtube.com/watch?v=ZsqZ2r2o_g4)
-- [Extending Java APIs - Add Missing Features Without the Hassle](https://debugagent.com/extending-java-apis-add-missing-features-without-the-hassle)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
