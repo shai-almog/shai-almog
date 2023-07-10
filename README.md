@@ -19,6 +19,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Practical Debugging at Scale Part 12: Isolating Assumptions](https://www.youtube.com/watch?v=Qw6coM798AE)
 - [Building for Failure - Best Practices for Easy Production Debugging](https://debugagent.com/building-for-failure-best-practices-for-easy-production-debugging)
 - [Practical Debugging at Scale Part 11: can&#39;t reproduce bug?](https://www.youtube.com/watch?v=qGasKz-YsiU)
 - [GraphQL, JavaScript, Preprocessor, SQL and more in Manifold](https://debugagent.com/graphql-javascript-preprocessor-sql-and-more-in-manifold)
@@ -38,7 +39,6 @@
 - [Java Basics - JPA: Java Persistence API | Spring Data Tutorial](https://www.youtube.com/watch?v=oWJnMN-lcFg)
 - [Modern Java - Operator Overloading in Java &lpar;Manifold Part 4&rpar;](https://www.youtube.com/watch?v=pwQs-308OdY)
 - [Logging Best Practices Revisited](https://debugagent.com/logging-best-practices-revisited)
-- [Java Basics - Java Object Oriented Programming &lpar;OOP&rpar; | Java Tutorial](https://www.youtube.com/watch?v=ZsqZ2r2o_g4)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
