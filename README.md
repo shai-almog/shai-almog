@@ -19,6 +19,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Theory of Debugging](https://debugagent.com/the-theory-of-debugging)
 - [Practical Debugging at Scale Part 12: Isolating Assumptions](https://www.youtube.com/watch?v=Qw6coM798AE)
 - [Building for Failure - Best Practices for Easy Production Debugging](https://debugagent.com/building-for-failure-best-practices-for-easy-production-debugging)
 - [Practical Debugging at Scale Part 11: can&#39;t reproduce bug?](https://www.youtube.com/watch?v=qGasKz-YsiU)
@@ -38,7 +39,6 @@
 - [Modern Java - Java Type Safety, Manifold Part 5 | Unit Expressions](https://www.youtube.com/watch?v=r4iycWnI5fE)
 - [Java Basics - JPA: Java Persistence API | Spring Data Tutorial](https://www.youtube.com/watch?v=oWJnMN-lcFg)
 - [Modern Java - Operator Overloading in Java &lpar;Manifold Part 4&rpar;](https://www.youtube.com/watch?v=pwQs-308OdY)
-- [Logging Best Practices Revisited](https://debugagent.com/logging-best-practices-revisited)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
