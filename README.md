@@ -19,6 +19,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Can&#39;t Reproduce a Bug?](https://debugagent.com/cant-reproduce-a-bug)
 - [Practical Debugging at Scale Part 13: Common Problems and Solutions](https://www.youtube.com/watch?v=KTtpr0JNn_o)
 - [The Theory of Debugging](https://debugagent.com/the-theory-of-debugging)
 - [Practical Debugging at Scale Part 12: Isolating Assumptions](https://www.youtube.com/watch?v=Qw6coM798AE)
@@ -38,7 +39,6 @@
 - [My Top Three Application Performance Tips](https://www.youtube.com/watch?v=4InvCCA2LFA)
 - [Operator Overloading in Java](https://debugagent.com/operator-overloading-in-java)
 - [Modern Java - Java Type Safety, Manifold Part 5 | Unit Expressions](https://www.youtube.com/watch?v=r4iycWnI5fE)
-- [Java Basics - JPA: Java Persistence API | Spring Data Tutorial](https://www.youtube.com/watch?v=oWJnMN-lcFg)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
