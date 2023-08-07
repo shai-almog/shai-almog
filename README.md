@@ -19,6 +19,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Practical Debugging at Scale Part 15: Process](https://www.youtube.com/watch?v=JaYaDOHtbyA)
 - [Debugging as a Process of Isolating Assumptions](https://debugagent.com/debugging-as-a-process-of-isolating-assumptions)
 - [Practical Debugging at Scale Part 14: Eliminating Bugs Using Tong Motion](https://www.youtube.com/watch?v=K4FRRG4pnEM)
 - [Can&#39;t Reproduce a Bug?](https://debugagent.com/cant-reproduce-a-bug)
@@ -38,7 +39,6 @@
 - [Everything Bad in Java is Good for You| NullPointerException is good](https://www.youtube.com/watch?v=cWdkMfmpsps)
 - [Manifold vs. Lombok: Enhancing Java with Property Support](https://debugagent.com/manifold-vs-lombok-enhancing-java-with-property-support)
 - [Modern Java - Properties vs. Lombok, Manifold P5 | Lombok Java](https://www.youtube.com/watch?v=z-9jSMq_Yk8)
-- [My Top Three Application Performance Tips](https://www.youtube.com/watch?v=4InvCCA2LFA)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
