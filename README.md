@@ -19,6 +19,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Practical Debugging at Scale Part 16: Tips and Tricks](https://www.youtube.com/watch?v=vcT6QVdPN0g)
 - [Is OpenJDK Just a Drop-In Replacement?](https://debugagent.com/is-openjdk-just-a-drop-in-replacement)
 - [Practical Debugging at Scale Part 15: Process](https://www.youtube.com/watch?v=JaYaDOHtbyA)
 - [Debugging as a Process of Isolating Assumptions](https://debugagent.com/debugging-as-a-process-of-isolating-assumptions)
@@ -38,7 +39,6 @@
 - [Everything Bad in Java is Good for You](https://debugagent.com/everything-bad-in-java-is-good-for-you)
 - [Modern Java - GraphQL, JavaScript &amp; Preprocessor | Lombok Java](https://www.youtube.com/watch?v=7PzaVwZ68II)
 - [Everything Bad in Java is Good for You| NullPointerException is good](https://www.youtube.com/watch?v=cWdkMfmpsps)
-- [Manifold vs. Lombok: Enhancing Java with Property Support](https://debugagent.com/manifold-vs-lombok-enhancing-java-with-property-support)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
