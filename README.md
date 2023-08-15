@@ -19,6 +19,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Evolution of Bugs](https://debugagent.com/the-evolution-of-bugs)
 - [Practical Debugging at Scale Part 16: Tips and Tricks](https://www.youtube.com/watch?v=vcT6QVdPN0g)
 - [Is OpenJDK Just a Drop-In Replacement?](https://debugagent.com/is-openjdk-just-a-drop-in-replacement)
 - [Practical Debugging at Scale Part 15: Process](https://www.youtube.com/watch?v=JaYaDOHtbyA)
@@ -38,7 +39,6 @@
 - [Java Basics - Java Security Vulnerability, Exploits and Mitigation](https://www.youtube.com/watch?v=HTp3cW1Sfq8)
 - [Everything Bad in Java is Good for You](https://debugagent.com/everything-bad-in-java-is-good-for-you)
 - [Modern Java - GraphQL, JavaScript &amp; Preprocessor | Lombok Java](https://www.youtube.com/watch?v=7PzaVwZ68II)
-- [Everything Bad in Java is Good for You| NullPointerException is good](https://www.youtube.com/watch?v=cWdkMfmpsps)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
