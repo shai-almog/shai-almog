@@ -19,6 +19,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [It&#39;s 2AM Do you Know What Your Code is Doing?](https://debugagent.com/its-2am-do-you-know-what-your-code-is-doing)
 - [Practical Debugging at Scale Part 17: dtrace](https://www.youtube.com/watch?v=3M0AhZnVoUk)
 - [The Evolution of Bugs](https://debugagent.com/the-evolution-of-bugs)
 - [Practical Debugging at Scale Part 16: Tips and Tricks](https://www.youtube.com/watch?v=vcT6QVdPN0g)
@@ -38,7 +39,6 @@
 - [Understanding Security Vulnerabilities: A First Step in Preventing Attacks](https://debugagent.com/understanding-security-vulnerabilities-a-first-step-in-preventing-attacks)
 - [Practical Debugging at Scale Part 10: Debugging Theory - The Checklist](https://www.youtube.com/watch?v=sJkPV7njpVY)
 - [Java Basics - Java Security Vulnerability, Exploits and Mitigation](https://www.youtube.com/watch?v=HTp3cW1Sfq8)
-- [Everything Bad in Java is Good for You](https://debugagent.com/everything-bad-in-java-is-good-for-you)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
