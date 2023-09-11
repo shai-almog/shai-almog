@@ -19,6 +19,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Practical Debugging at Scale Part 19: git bisect](https://www.youtube.com/watch?v=yZuPHEBbjYI)
 - [Eliminating Bugs Using the Tong Motion Approach](https://debugagent.com/eliminating-bugs-using-the-tong-motion-approach)
 - [Practical Debugging at Scale Part 18: strace](https://www.youtube.com/watch?v=bgi7PJXtEzc)
 - [It&#39;s 2AM Do you Know What Your Code is Doing?](https://debugagent.com/its-2am-do-you-know-what-your-code-is-doing)
@@ -38,7 +39,6 @@
 - [GraphQL, JavaScript, Preprocessor, SQL and more in Manifold](https://debugagent.com/graphql-javascript-preprocessor-sql-and-more-in-manifold)
 - [Building for Failure - Best Practices for Easy Production Debugging](https://www.youtube.com/watch?v=uz06__w2mjI)
 - [How to Conduct a Software Engineer Technical Interview Correctly?](https://www.youtube.com/watch?v=KMQUeV3qnX4)
-- [Understanding Security Vulnerabilities: A First Step in Preventing Attacks](https://debugagent.com/understanding-security-vulnerabilities-a-first-step-in-preventing-attacks)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
