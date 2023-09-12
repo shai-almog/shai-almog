@@ -19,6 +19,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Systemic Process of Debugging](https://debugagent.com/the-systemic-process-of-debugging)
 - [Practical Debugging at Scale Part 19: git bisect](https://www.youtube.com/watch?v=yZuPHEBbjYI)
 - [Eliminating Bugs Using the Tong Motion Approach](https://debugagent.com/eliminating-bugs-using-the-tong-motion-approach)
 - [Practical Debugging at Scale Part 18: strace](https://www.youtube.com/watch?v=bgi7PJXtEzc)
@@ -38,7 +39,6 @@
 - [Practical Debugging at Scale Part 11: can&#39;t reproduce bug?](https://www.youtube.com/watch?v=qGasKz-YsiU)
 - [GraphQL, JavaScript, Preprocessor, SQL and more in Manifold](https://debugagent.com/graphql-javascript-preprocessor-sql-and-more-in-manifold)
 - [Building for Failure - Best Practices for Easy Production Debugging](https://www.youtube.com/watch?v=uz06__w2mjI)
-- [How to Conduct a Software Engineer Technical Interview Correctly?](https://www.youtube.com/watch?v=KMQUeV3qnX4)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
