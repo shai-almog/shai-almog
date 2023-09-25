@@ -19,6 +19,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Practical Debugging at Scale: jhsdb  - P. 21 | DebugAgent.com](https://www.youtube.com/watch?v=UelhmnOR0lI)
 - [Debugging Tips and Tricks: A Comprehensive Guide](https://debugagent.com/debugging-tips-and-tricks-a-comprehensive-guide)
 - [Practical Debugging at Scale: jmxterm - P. 20 | DebugAgent.com](https://www.youtube.com/watch?v=rQjHAMM3XfY)
 - [The Systemic Process of Debugging](https://debugagent.com/the-systemic-process-of-debugging)
@@ -38,7 +39,6 @@
 - [The Theory of Debugging](https://debugagent.com/the-theory-of-debugging)
 - [Practical Debugging at Scale Part 12: Isolating Assumptions](https://www.youtube.com/watch?v=Qw6coM798AE)
 - [Building for Failure - Best Practices for Easy Production Debugging](https://debugagent.com/building-for-failure-best-practices-for-easy-production-debugging)
-- [Practical Debugging at Scale Part 11: can&#39;t reproduce bug?](https://www.youtube.com/watch?v=qGasKz-YsiU)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
