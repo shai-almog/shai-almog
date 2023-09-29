@@ -9,7 +9,7 @@
 
 - 👨‍💻 Most of my projects are available at [https://github.com/codenameone/](https://github.com/codenameone/) -- it was a personal account convetered to an organizational account so this github account is relatively new.
 
-- 📝 I regularly write articles on [Debug Agent](https://debugagent.com/), [Codename One](https://www.codenameone.com/blog), [Lightrun](https://lightrun.com/blog/), [Dev.to](https://dev.to/codename_one/), [Medium](https://medium.com/@Codename_One) and [Hacker Noon](https://hackernoon.com/u/Codename_One). I'm ocassionally featured on [foojay](https://foojay.io/), [dzone](https://dzone.com/users/308/sa74997.html), [JavaCodeGeeks](https://www.javacodegeeks.com/user/shai.almog?profiletab=posts) and others. I also used to blog at [Talk to the Duck](https://talktotheduck.dev/).
+- 📝 I regularly write articles on [Debug Agent](https://debugagent.com/), [Codename One](https://www.codenameone.com/blog), [Dev.to](https://dev.to/codename_one/), [Medium](https://medium.com/@Codename_One) and [Hacker Noon](https://hackernoon.com/u/Codename_One). I'm ocassionally featured on [foojay](https://foojay.io/), [dzone](https://dzone.com/users/308/sa74997.html), [JavaCodeGeeks](https://www.javacodegeeks.com/user/shai.almog?profiletab=posts) and others. I also used to blog at [Talk to the Duck](https://talktotheduck.dev/).
 
 - 💬 Ask me about **Java, Debugging, Production, VM internals and pretty much anything**
 
