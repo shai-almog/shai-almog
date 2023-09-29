@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shai Almog</h1>
-<h3 align="center">Entrepreneur, Author, Blogger, Open Source Hacker, DevRel, Java Rockstar, Conference Speaker and Instructor</h3>
+<h3 align="center">Entrepreneur, Author, Blogger, Open Source Hacker, DevRel, Java Rockstar and Conference Speaker</h3>
 
 - 🔭 I’m currently working at [Codename One](https://www.codenameone.com/), [Debug Agent](https://debugagent.com/), I'm also creating a new startup with a novel approach to Java compilation.
 
