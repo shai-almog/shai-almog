@@ -1,19 +1,21 @@
 <h1 align="center">Hi 👋, I'm Shai Almog</h1>
 <h3 align="center">Entrepreneur, Author, Blogger, Open Source Hacker, DevRel, Java Rockstar, Conference Speaker and Instructor</h3>
 
-- 🔭 I’m currently working at [Codename One](https://www.codenameone.com/) and [Lightrun](https://lightrun.com/)
+- 🔭 I’m currently working at [Codename One](https://www.codenameone.com/), [Debug Agent](https://debugagent.com/), I'm also creating a new startup with a novel approach to Java compilation.
 
-- 👨‍💻 Most of my projects are available at [https://github.com/codenameone/](https://github.com/codenameone/) -- it was a personal account convetered to an organizational account so this github account is relatively new
+- I've written five programming books: [Java Basics](https://www.amazon.com/Java-Basics-Practical-Introduction-Full-Stack/dp/B0CCCJ38WH/), [Practical Debugging at Scale](https://www.amazon.com/Practical-Debugging-Scale-Kubernetes-Production/dp/1484290410/), [Create an Uber Clone in 7 Days](https://www.amazon.com/Create-Uber-Clone-Days-mobile-ebook/dp/B07FRXZRRV/), [Java 8 to 21](https://www.amazon.com/dp/B0C9WW8PFL/) and [Codename One Developer Guide](https://www.amazon.com/dp/B01JG0O3CK/).
 
-- I have another developer account at [https://github.com/shai-athena/](https://github.com/shai-athena/), it's used for propriatery work.
+- I have many video tutorials on my [youtube channel](https://www.youtube.com/@debugagent/).
 
-- 📝 I regularly write articles on [Debug Agent](https://debugagent.com/), [Talk to the Duck](https://talktotheduck.dev/), [Codename One](https://www.codenameone.com/blog), [Lightrun](https://lightrun.com/blog/), [Dev.to](https://dev.to/codename_one/), [Medium](https://medium.com/@Codename_One) and [Hacker Noon](https://hackernoon.com/u/Codename_One). I'm ocassionally featured on [foojay](https://foojay.io/), [dzone](https://dzone.com/users/308/sa74997.html), [JavaCodeGeeks](https://www.javacodegeeks.com/user/shai.almog?profiletab=posts) and others
+- 👨‍💻 Most of my projects are available at [https://github.com/codenameone/](https://github.com/codenameone/) -- it was a personal account convetered to an organizational account so this github account is relatively new.
+
+- 📝 I regularly write articles on [Debug Agent](https://debugagent.com/), [Codename One](https://www.codenameone.com/blog), [Lightrun](https://lightrun.com/blog/), [Dev.to](https://dev.to/codename_one/), [Medium](https://medium.com/@Codename_One) and [Hacker Noon](https://hackernoon.com/u/Codename_One). I'm ocassionally featured on [foojay](https://foojay.io/), [dzone](https://dzone.com/users/308/sa74997.html), [JavaCodeGeeks](https://www.javacodegeeks.com/user/shai.almog?profiletab=posts) and others. I also used to blog at [Talk to the Duck](https://talktotheduck.dev/).
 
 - 💬 Ask me about **Java, Debugging, Production, VM internals and pretty much anything**
 
-- I tweet as [@debugagent](https://twitter.com/debugagent) and [@Codename_One](https://twitter.com/Codename_One)
+- I mostly use [mastodon](https://mastodon.social/@debugagent) but I still tweet a bit as [@debugagent](https://twitter.com/debugagent) and [@Codename_One](https://twitter.com/Codename_One)
 
-- I wrote a [couple of books](https://www.goodreads.com/author/list/15647322.Shai_Almog) and am busy writing another one. I created a few [online courses](https://debugagent.com/series/cn1). I like creating coding videos like the ones [here](https://twitter.com/debugagent/status/1491075324805001219?s=20&t=Ea8IbuSaYngwZ7CbFfg14w)
+- I created a few [online courses](https://debugagent.com/series/cn1) many of which are free now. 
 
 <a href="https://stackoverflow.com/users/756809/shai-almog"><img src="https://stackoverflow.com/users/flair/756809.png" width="208" height="58" alt="profile for Shai Almog at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Shai Almog at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
