@@ -23,7 +23,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Practical Debugging at Scale: jhsdb  - P. 21 | DebugAgent.com](https://www.youtube.com/watch?v=UelhmnOR0lI)
 - [Debugging Tips and Tricks: A Comprehensive Guide](https://debugagent.com/debugging-tips-and-tricks-a-comprehensive-guide)
-- [Practical Debugging at Scale: jmxterm - P. 20 | DebugAgent.com](https://www.youtube.com/watch?v=rQjHAMM3XfY)
+- [Practical Debugging at Scale: JMX &amp; jmxterm - P. 20 | DebugAgent.com](https://www.youtube.com/watch?v=rQjHAMM3XfY)
 - [The Systemic Process of Debugging](https://debugagent.com/the-systemic-process-of-debugging)
 - [Practical Debugging at Scale Part 19: git bisect](https://www.youtube.com/watch?v=yZuPHEBbjYI)
 - [Eliminating Bugs Using the Tong Motion Approach](https://debugagent.com/eliminating-bugs-using-the-tong-motion-approach)
