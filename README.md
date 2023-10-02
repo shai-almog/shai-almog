@@ -21,6 +21,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Practical Debugging at Scale: WireShark - P. 22 | DebugAgent.com](https://www.youtube.com/watch?v=QVWRomT2Ppo)
 - [Practical Debugging at Scale: jhsdb  - P. 21 | DebugAgent.com](https://www.youtube.com/watch?v=UelhmnOR0lI)
 - [Debugging Tips and Tricks: A Comprehensive Guide](https://debugagent.com/debugging-tips-and-tricks-a-comprehensive-guide)
 - [Practical Debugging at Scale: JMX &amp; jmxterm - P. 20 | DebugAgent.com](https://www.youtube.com/watch?v=rQjHAMM3XfY)
@@ -40,7 +41,6 @@
 - [Practical Debugging at Scale Part 13: Common Problems and Solutions](https://www.youtube.com/watch?v=KTtpr0JNn_o)
 - [The Theory of Debugging](https://debugagent.com/the-theory-of-debugging)
 - [Practical Debugging at Scale Part 12: Isolating Assumptions](https://www.youtube.com/watch?v=Qw6coM798AE)
-- [Building for Failure - Best Practices for Easy Production Debugging](https://debugagent.com/building-for-failure-best-practices-for-easy-production-debugging)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
