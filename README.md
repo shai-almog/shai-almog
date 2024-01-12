@@ -21,6 +21,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing gdocweb: Convert Google Docs to Website hosted by GitHub](https://www.youtube.com/watch?v=aaDBFVx6qC8)
 - [Introducing gdocweb](https://debugagent.com/introducing-gdocweb)
 - [Not a Single Trace](https://debugagent.com/not-a-single-trace)
 - [Practical Debugging at Scale: WireShark - P. 22 | DebugAgent.com](https://www.youtube.com/watch?v=QVWRomT2Ppo)
@@ -40,7 +41,6 @@
 - [Debugging as a Process of Isolating Assumptions](https://debugagent.com/debugging-as-a-process-of-isolating-assumptions)
 - [Practical Debugging at Scale Part 14: Eliminating Bugs Using Tong Motion](https://www.youtube.com/watch?v=K4FRRG4pnEM)
 - [Can&#39;t Reproduce a Bug?](https://debugagent.com/cant-reproduce-a-bug)
-- [Practical Debugging at Scale Part 13: Common Problems and Solutions](https://www.youtube.com/watch?v=KTtpr0JNn_o)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
