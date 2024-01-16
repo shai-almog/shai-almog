@@ -21,26 +21,26 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Building gdocweb with Java 21, Spring Boot 3.x and Beyond](https://debugagent.com/building-gdocweb-with-java-21-spring-boot-3x-and-beyond)
 - [Introducing gdocweb: Convert Google Docs to Website hosted by GitHub](https://www.youtube.com/watch?v=aaDBFVx6qC8)
-- [Introducing gdocweb](https://debugagent.com/introducing-gdocweb)
-- [Not a Single Trace](https://debugagent.com/not-a-single-trace)
 - [Practical Debugging at Scale: WireShark - P. 22 | DebugAgent.com](https://www.youtube.com/watch?v=QVWRomT2Ppo)
 - [Practical Debugging at Scale: jhsdb  - P. 21 | DebugAgent.com](https://www.youtube.com/watch?v=UelhmnOR0lI)
-- [Debugging Tips and Tricks: A Comprehensive Guide](https://debugagent.com/debugging-tips-and-tricks-a-comprehensive-guide)
 - [Practical Debugging at Scale: JMX &amp; jmxterm - P. 20 | DebugAgent.com](https://www.youtube.com/watch?v=rQjHAMM3XfY)
-- [The Systemic Process of Debugging](https://debugagent.com/the-systemic-process-of-debugging)
 - [Practical Debugging at Scale Part 19: git bisect](https://www.youtube.com/watch?v=yZuPHEBbjYI)
-- [Eliminating Bugs Using the Tong Motion Approach](https://debugagent.com/eliminating-bugs-using-the-tong-motion-approach)
 - [Practical Debugging at Scale Part 18: strace](https://www.youtube.com/watch?v=bgi7PJXtEzc)
-- [It&#39;s 2AM Do you Know What Your Code is Doing?](https://debugagent.com/its-2am-do-you-know-what-your-code-is-doing)
 - [Practical Debugging at Scale Part 17: dtrace](https://www.youtube.com/watch?v=3M0AhZnVoUk)
-- [The Evolution of Bugs](https://debugagent.com/the-evolution-of-bugs)
 - [Practical Debugging at Scale Part 16: Tips and Tricks](https://www.youtube.com/watch?v=vcT6QVdPN0g)
-- [Is OpenJDK Just a Drop-In Replacement?](https://debugagent.com/is-openjdk-just-a-drop-in-replacement)
 - [Practical Debugging at Scale Part 15: Process](https://www.youtube.com/watch?v=JaYaDOHtbyA)
-- [Debugging as a Process of Isolating Assumptions](https://debugagent.com/debugging-as-a-process-of-isolating-assumptions)
 - [Practical Debugging at Scale Part 14: Eliminating Bugs Using Tong Motion](https://www.youtube.com/watch?v=K4FRRG4pnEM)
+- [Practical Debugging at Scale Part 13: Common Problems and Solutions](https://www.youtube.com/watch?v=KTtpr0JNn_o)
+- [Practical Debugging at Scale Part 12: Isolating Assumptions](https://www.youtube.com/watch?v=Qw6coM798AE)
+- [Practical Debugging at Scale Part 11: can&#39;t reproduce bug?](https://www.youtube.com/watch?v=qGasKz-YsiU)
+- [Building for Failure - Best Practices for Easy Production Debugging](https://www.youtube.com/watch?v=uz06__w2mjI)
+- [How to Conduct a Software Engineer Technical Interview Correctly?](https://www.youtube.com/watch?v=KMQUeV3qnX4)
+- [Migrating Monoliths to Microservices in Practice](https://talktotheduck.dev/migrating-monoliths-to-microservices-in-practice)
+- [Debugging a Wordle Bug](https://talktotheduck.dev/debugging-a-wordle-bug)
+- [External Debugging Tools 4: Debug the JVM Using jhsdb](https://talktotheduck.dev/debug-the-jvm-using-jhsdb)
+- [External Debugging Tools 3: JMXTerm](https://talktotheduck.dev/external-debugging-tools-3-jmxterm)
+- [Understand the Root Cause of Regressions with Git Bisect](https://talktotheduck.dev/understand-the-root-cause-of-regressions-with-git-bisect)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
