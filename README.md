@@ -21,6 +21,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [DTrace Revisited: Advanced Debugging Techniques](https://debugagent.com/dtrace-revisited-advanced-debugging-techniques)
 - [Hackers Guide to gdocweb - GitHub Pages Websites From Google Docs](https://www.youtube.com/watch?v=UNjWg53q6J8)
 - [Blog Comments](https://debugagent.com/blog-comments)
 - [Building gdocweb with Java 21, Spring Boot 3.x and Beyond](https://debugagent.com/building-gdocweb-with-java-21-spring-boot-3x-and-beyond)
@@ -40,7 +41,6 @@
 - [The Evolution of Bugs](https://debugagent.com/the-evolution-of-bugs)
 - [Practical Debugging at Scale Part 16: Tips and Tricks](https://www.youtube.com/watch?v=vcT6QVdPN0g)
 - [Is OpenJDK Just a Drop-In Replacement?](https://debugagent.com/is-openjdk-just-a-drop-in-replacement)
-- [Practical Debugging at Scale Part 15: Process](https://www.youtube.com/watch?v=JaYaDOHtbyA)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
