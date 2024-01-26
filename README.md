@@ -21,6 +21,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Styling and Dark Mode](https://debugagent.com/styling-and-dark-mode)
 - [DTrace Revisited: Advanced Debugging Techniques](https://debugagent.com/dtrace-revisited-advanced-debugging-techniques)
 - [Hackers Guide to gdocweb - GitHub Pages Websites From Google Docs](https://www.youtube.com/watch?v=UNjWg53q6J8)
 - [Blog Comments](https://debugagent.com/blog-comments)
@@ -40,7 +41,6 @@
 - [Practical Debugging at Scale Part 17: dtrace](https://www.youtube.com/watch?v=3M0AhZnVoUk)
 - [The Evolution of Bugs](https://debugagent.com/the-evolution-of-bugs)
 - [Practical Debugging at Scale Part 16: Tips and Tricks](https://www.youtube.com/watch?v=vcT6QVdPN0g)
-- [Is OpenJDK Just a Drop-In Replacement?](https://debugagent.com/is-openjdk-just-a-drop-in-replacement)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
