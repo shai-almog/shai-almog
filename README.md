@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [gdocweb Templates: Documentation from Google Docs to GitHub Pages](https://www.youtube.com/watch?v=FiRMtkdwp8Y)
 - [Styling and Dark Mode](https://debugagent.com/styling-and-dark-mode)
 - [DTrace Revisited: Advanced Debugging Techniques](https://debugagent.com/dtrace-revisited-advanced-debugging-techniques)
 - [Hackers Guide to gdocweb - GitHub Pages Websites From Google Docs](https://www.youtube.com/watch?v=UNjWg53q6J8)
@@ -40,7 +41,6 @@
 - [It&#39;s 2AM Do you Know What Your Code is Doing?](https://debugagent.com/its-2am-do-you-know-what-your-code-is-doing)
 - [Practical Debugging at Scale Part 17: dtrace](https://www.youtube.com/watch?v=3M0AhZnVoUk)
 - [The Evolution of Bugs](https://debugagent.com/the-evolution-of-bugs)
-- [Practical Debugging at Scale Part 16: Tips and Tricks](https://www.youtube.com/watch?v=vcT6QVdPN0g)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
