@@ -21,26 +21,26 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [gdocweb Templates: Documentation from Google Docs to GitHub Pages](https://www.youtube.com/watch?v=FiRMtkdwp8Y)
 - [Styling and Dark Mode](https://debugagent.com/styling-and-dark-mode)
 - [DTrace Revisited: Advanced Debugging Techniques](https://debugagent.com/dtrace-revisited-advanced-debugging-techniques)
-- [Hackers Guide to gdocweb - GitHub Pages Websites From Google Docs](https://www.youtube.com/watch?v=UNjWg53q6J8)
 - [Blog Comments](https://debugagent.com/blog-comments)
 - [Building gdocweb with Java 21, Spring Boot 3.x and Beyond](https://debugagent.com/building-gdocweb-with-java-21-spring-boot-3x-and-beyond)
-- [Introducing gdocweb: Convert Google Docs to Website hosted by GitHub](https://www.youtube.com/watch?v=aaDBFVx6qC8)
 - [Introducing gdocweb](https://debugagent.com/introducing-gdocweb)
 - [Not a Single Trace](https://debugagent.com/not-a-single-trace)
-- [Practical Debugging at Scale: WireShark - P. 22 | DebugAgent.com](https://www.youtube.com/watch?v=QVWRomT2Ppo)
-- [Practical Debugging at Scale: jhsdb  - P. 21 | DebugAgent.com](https://www.youtube.com/watch?v=UelhmnOR0lI)
 - [Debugging Tips and Tricks: A Comprehensive Guide](https://debugagent.com/debugging-tips-and-tricks-a-comprehensive-guide)
-- [Practical Debugging at Scale: JMX &amp; jmxterm - P. 20 | DebugAgent.com](https://www.youtube.com/watch?v=rQjHAMM3XfY)
 - [The Systemic Process of Debugging](https://debugagent.com/the-systemic-process-of-debugging)
-- [Practical Debugging at Scale Part 19: git bisect](https://www.youtube.com/watch?v=yZuPHEBbjYI)
 - [Eliminating Bugs Using the Tong Motion Approach](https://debugagent.com/eliminating-bugs-using-the-tong-motion-approach)
-- [Practical Debugging at Scale Part 18: strace](https://www.youtube.com/watch?v=bgi7PJXtEzc)
 - [It&#39;s 2AM Do you Know What Your Code is Doing?](https://debugagent.com/its-2am-do-you-know-what-your-code-is-doing)
-- [Practical Debugging at Scale Part 17: dtrace](https://www.youtube.com/watch?v=3M0AhZnVoUk)
 - [The Evolution of Bugs](https://debugagent.com/the-evolution-of-bugs)
+- [Is OpenJDK Just a Drop-In Replacement?](https://debugagent.com/is-openjdk-just-a-drop-in-replacement)
+- [Debugging as a Process of Isolating Assumptions](https://debugagent.com/debugging-as-a-process-of-isolating-assumptions)
+- [Can&#39;t Reproduce a Bug?](https://debugagent.com/cant-reproduce-a-bug)
+- [The Theory of Debugging](https://debugagent.com/the-theory-of-debugging)
+- [Building for Failure - Best Practices for Easy Production Debugging](https://debugagent.com/building-for-failure-best-practices-for-easy-production-debugging)
+- [GraphQL, JavaScript, Preprocessor, SQL and more in Manifold](https://debugagent.com/graphql-javascript-preprocessor-sql-and-more-in-manifold)
+- [Understanding Security Vulnerabilities: A First Step in Preventing Attacks](https://debugagent.com/understanding-security-vulnerabilities-a-first-step-in-preventing-attacks)
+- [Everything Bad in Java is Good for You](https://debugagent.com/everything-bad-in-java-is-good-for-you)
+- [Manifold vs. Lombok: Enhancing Java with Property Support](https://debugagent.com/manifold-vs-lombok-enhancing-java-with-property-support)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
