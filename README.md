@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [strace Revisited: Simple is Beautiful](https://debugagent.com/strace-revisited-simple-is-beautiful)
 - [gdocweb Templates: Documentation from Google Docs to GitHub Pages](https://www.youtube.com/watch?v=FiRMtkdwp8Y)
 - [Styling and Dark Mode](https://debugagent.com/styling-and-dark-mode)
 - [DTrace Revisited: Advanced Debugging Techniques](https://debugagent.com/dtrace-revisited-advanced-debugging-techniques)
@@ -40,7 +41,6 @@
 - [Practical Debugging at Scale Part 18: strace](https://www.youtube.com/watch?v=bgi7PJXtEzc)
 - [It&#39;s 2AM Do you Know What Your Code is Doing?](https://debugagent.com/its-2am-do-you-know-what-your-code-is-doing)
 - [Practical Debugging at Scale Part 17: dtrace](https://www.youtube.com/watch?v=3M0AhZnVoUk)
-- [The Evolution of Bugs](https://debugagent.com/the-evolution-of-bugs)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
