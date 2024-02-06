@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Best Way to Diagnose a Patient is to Cut Him Open](https://debugagent.com/the-best-way-to-diagnose-a-patient-is-to-cut-him-open)
 - [Regenerate Immediately and RSS](https://debugagent.com/regenerate-immediately-and-rss)
 - [strace Revisited: Simple is Beautiful](https://debugagent.com/strace-revisited-simple-is-beautiful)
 - [gdocweb Templates: Documentation from Google Docs to GitHub Pages](https://www.youtube.com/watch?v=FiRMtkdwp8Y)
@@ -40,7 +41,6 @@
 - [Practical Debugging at Scale Part 19: git bisect](https://www.youtube.com/watch?v=yZuPHEBbjYI)
 - [Eliminating Bugs Using the Tong Motion Approach](https://debugagent.com/eliminating-bugs-using-the-tong-motion-approach)
 - [Practical Debugging at Scale Part 18: strace](https://www.youtube.com/watch?v=bgi7PJXtEzc)
-- [It&#39;s 2AM Do you Know What Your Code is Doing?](https://debugagent.com/its-2am-do-you-know-what-your-code-is-doing)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
