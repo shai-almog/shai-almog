@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Unleashing the Power of Git Bisect](https://debugagent.com/unleashing-the-power-of-git-bisect)
 - [The Best Way to Diagnose a Patient is to Cut Him Open](https://debugagent.com/the-best-way-to-diagnose-a-patient-is-to-cut-him-open)
 - [Regenerate Immediately and RSS](https://debugagent.com/regenerate-immediately-and-rss)
 - [strace Revisited: Simple is Beautiful](https://debugagent.com/strace-revisited-simple-is-beautiful)
@@ -40,7 +41,6 @@
 - [The Systemic Process of Debugging](https://debugagent.com/the-systemic-process-of-debugging)
 - [Practical Debugging at Scale Part 19: git bisect](https://www.youtube.com/watch?v=yZuPHEBbjYI)
 - [Eliminating Bugs Using the Tong Motion Approach](https://debugagent.com/eliminating-bugs-using-the-tong-motion-approach)
-- [Practical Debugging at Scale Part 18: strace](https://www.youtube.com/watch?v=bgi7PJXtEzc)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
