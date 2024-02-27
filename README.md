@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Debugging Using JMX Revisited](https://debugagent.com/debugging-using-jmx-revisited)
 - [Unleashing the Power of Git Bisect](https://debugagent.com/unleashing-the-power-of-git-bisect)
 - [The Best Way to Diagnose a Patient is to Cut Him Open](https://debugagent.com/the-best-way-to-diagnose-a-patient-is-to-cut-him-open)
 - [Regenerate Immediately and RSS](https://debugagent.com/regenerate-immediately-and-rss)
@@ -40,7 +41,6 @@
 - [Practical Debugging at Scale: JMX &amp; jmxterm - P. 20 | DebugAgent.com](https://www.youtube.com/watch?v=rQjHAMM3XfY)
 - [The Systemic Process of Debugging](https://debugagent.com/the-systemic-process-of-debugging)
 - [Practical Debugging at Scale Part 19: git bisect](https://www.youtube.com/watch?v=yZuPHEBbjYI)
-- [Eliminating Bugs Using the Tong Motion Approach](https://debugagent.com/eliminating-bugs-using-the-tong-motion-approach)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
