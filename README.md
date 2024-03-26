@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering jhsdb: The Hidden Gem for Debugging JVM Issues](https://debugagent.com/mastering-jhsdb-the-hidden-gem-for-debugging-jvm-issues)
 - [Debugging Streams with Peek](https://debugagent.com/debugging-streams-with-peek)
 - [Debugging Using JMX Revisited](https://debugagent.com/debugging-using-jmx-revisited)
 - [Unleashing the Power of Git Bisect](https://debugagent.com/unleashing-the-power-of-git-bisect)
@@ -40,7 +41,6 @@
 - [Practical Debugging at Scale: jhsdb  - P. 21 | DebugAgent.com](https://www.youtube.com/watch?v=UelhmnOR0lI)
 - [Debugging Tips and Tricks: A Comprehensive Guide](https://debugagent.com/debugging-tips-and-tricks-a-comprehensive-guide)
 - [Practical Debugging at Scale: JMX &amp; jmxterm - P. 20 | DebugAgent.com](https://www.youtube.com/watch?v=rQjHAMM3XfY)
-- [The Systemic Process of Debugging](https://debugagent.com/the-systemic-process-of-debugging)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
