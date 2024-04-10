@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Practical Debugging at Scale: Logging Basics - P. 24 | DebugAgent.com](https://www.youtube.com/watch?v=CBfTDhlv_Ow)
 - [Wireshark &amp; tcpdump: A Debugging Power Couple](https://debugagent.com/wireshark-tcpdump-a-debugging-power-couple)
 - [Practical Debugging at Scale: tcpdump - P. 23 | DebugAgent.com](https://www.youtube.com/watch?v=nLXu3_fzHhQ)
 - [Mastering jhsdb: The Hidden Gem for Debugging JVM Issues](https://debugagent.com/mastering-jhsdb-the-hidden-gem-for-debugging-jvm-issues)
@@ -40,7 +41,6 @@
 - [Introducing gdocweb](https://debugagent.com/introducing-gdocweb)
 - [Not a Single Trace](https://debugagent.com/not-a-single-trace)
 - [Practical Debugging at Scale: WireShark - P. 22 | DebugAgent.com](https://www.youtube.com/watch?v=QVWRomT2Ppo)
-- [Practical Debugging at Scale: jhsdb  - P. 21 | DebugAgent.com](https://www.youtube.com/watch?v=UelhmnOR0lI)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
