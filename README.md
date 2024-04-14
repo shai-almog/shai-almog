@@ -21,6 +21,9 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Practical Debugging at Scale: Testing Basics - P. 27 | DebugAgent.com](https://www.youtube.com/watch?v=yap509UZz6M)
+- [Practical Debugging at Scale: Overlogging and Best Practices B - P. 26](https://www.youtube.com/watch?v=mOTsg5qbRy0)
+- [Practical Debugging at Scale: Overlogging and Best Practices A - P. 25](https://www.youtube.com/watch?v=IjqEmz0NAEo)
 - [Practical Debugging at Scale: Logging Basics - P. 24 | DebugAgent.com](https://www.youtube.com/watch?v=CBfTDhlv_Ow)
 - [Wireshark &amp; tcpdump: A Debugging Power Couple](https://debugagent.com/wireshark-tcpdump-a-debugging-power-couple)
 - [Practical Debugging at Scale: tcpdump - P. 23 | DebugAgent.com](https://www.youtube.com/watch?v=nLXu3_fzHhQ)
@@ -38,9 +41,6 @@
 - [Blog Comments](https://debugagent.com/blog-comments)
 - [Building gdocweb with Java 21, Spring Boot 3.x and Beyond](https://debugagent.com/building-gdocweb-with-java-21-spring-boot-3x-and-beyond)
 - [Introducing gdocweb: Convert Google Docs to Website hosted by GitHub](https://www.youtube.com/watch?v=aaDBFVx6qC8)
-- [Introducing gdocweb](https://debugagent.com/introducing-gdocweb)
-- [Not a Single Trace](https://debugagent.com/not-a-single-trace)
-- [Practical Debugging at Scale: WireShark - P. 22 | DebugAgent.com](https://www.youtube.com/watch?v=QVWRomT2Ppo)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
