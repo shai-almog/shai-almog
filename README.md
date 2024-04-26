@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Practical Debugging at Scale: fail-safe and fail-fast - P. 29](https://www.youtube.com/watch?v=9Yv1Jj3yn2c)
 - [Software Testing as a Debugging Tool](https://debugagent.com/software-testing-as-a-debugging-tool)
 - [Practical Debugging at Scale: Test Driven Development &lpar;TDD&rpar; - P. 28](https://www.youtube.com/watch?v=yImkjlm08Cw)
 - [Practical Debugging at Scale: Testing Basics - P. 27 | DebugAgent.com](https://www.youtube.com/watch?v=yap509UZz6M)
@@ -40,7 +41,6 @@
 - [Styling and Dark Mode](https://debugagent.com/styling-and-dark-mode)
 - [DTrace Revisited: Advanced Debugging Techniques](https://debugagent.com/dtrace-revisited-advanced-debugging-techniques)
 - [Hackers Guide to gdocweb - GitHub Pages Websites From Google Docs](https://www.youtube.com/watch?v=UNjWg53q6J8)
-- [Blog Comments](https://debugagent.com/blog-comments)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
