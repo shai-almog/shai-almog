@@ -21,15 +21,8 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Practical Debugging at Scale: fail-safe and fail-fast - P. 29](https://www.youtube.com/watch?v=9Yv1Jj3yn2c)
 - [Software Testing as a Debugging Tool](https://debugagent.com/software-testing-as-a-debugging-tool)
-- [Practical Debugging at Scale: Test Driven Development &lpar;TDD&rpar; - P. 28](https://www.youtube.com/watch?v=yImkjlm08Cw)
-- [Practical Debugging at Scale: Testing Basics - P. 27 | DebugAgent.com](https://www.youtube.com/watch?v=yap509UZz6M)
-- [Practical Debugging at Scale: Overlogging and Best Practices B - P. 26](https://www.youtube.com/watch?v=mOTsg5qbRy0)
-- [Practical Debugging at Scale: Overlogging and Best Practices A - P. 25](https://www.youtube.com/watch?v=IjqEmz0NAEo)
-- [Practical Debugging at Scale: Logging Basics - P. 24 | DebugAgent.com](https://www.youtube.com/watch?v=CBfTDhlv_Ow)
 - [Wireshark &amp; tcpdump: A Debugging Power Couple](https://debugagent.com/wireshark-tcpdump-a-debugging-power-couple)
-- [Practical Debugging at Scale: tcpdump - P. 23 | DebugAgent.com](https://www.youtube.com/watch?v=nLXu3_fzHhQ)
 - [Mastering jhsdb: The Hidden Gem for Debugging JVM Issues](https://debugagent.com/mastering-jhsdb-the-hidden-gem-for-debugging-jvm-issues)
 - [Debugging Streams with Peek](https://debugagent.com/debugging-streams-with-peek)
 - [Debugging Using JMX Revisited](https://debugagent.com/debugging-using-jmx-revisited)
@@ -37,10 +30,17 @@
 - [The Best Way to Diagnose a Patient is to Cut Him Open](https://debugagent.com/the-best-way-to-diagnose-a-patient-is-to-cut-him-open)
 - [Regenerate Immediately and RSS](https://debugagent.com/regenerate-immediately-and-rss)
 - [strace Revisited: Simple is Beautiful](https://debugagent.com/strace-revisited-simple-is-beautiful)
-- [gdocweb Templates: Documentation from Google Docs to GitHub Pages](https://www.youtube.com/watch?v=FiRMtkdwp8Y)
 - [Styling and Dark Mode](https://debugagent.com/styling-and-dark-mode)
 - [DTrace Revisited: Advanced Debugging Techniques](https://debugagent.com/dtrace-revisited-advanced-debugging-techniques)
-- [Hackers Guide to gdocweb - GitHub Pages Websites From Google Docs](https://www.youtube.com/watch?v=UNjWg53q6J8)
+- [Blog Comments](https://debugagent.com/blog-comments)
+- [Building gdocweb with Java 21, Spring Boot 3.x and Beyond](https://debugagent.com/building-gdocweb-with-java-21-spring-boot-3x-and-beyond)
+- [Introducing gdocweb](https://debugagent.com/introducing-gdocweb)
+- [Not a Single Trace](https://debugagent.com/not-a-single-trace)
+- [Debugging Tips and Tricks: A Comprehensive Guide](https://debugagent.com/debugging-tips-and-tricks-a-comprehensive-guide)
+- [The Systemic Process of Debugging](https://debugagent.com/the-systemic-process-of-debugging)
+- [Eliminating Bugs Using the Tong Motion Approach](https://debugagent.com/eliminating-bugs-using-the-tong-motion-approach)
+- [It&#39;s 2AM Do you Know What Your Code is Doing?](https://debugagent.com/its-2am-do-you-know-what-your-code-is-doing)
+- [The Evolution of Bugs](https://debugagent.com/the-evolution-of-bugs)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
