@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Failure is Required: Understanding Fail-Safe and Fail-Fast Strategies](https://debugagent.com/failure-is-required-understanding-fail-safe-and-fail-fast-strategies)
 - [Practical Debugging at Scale: Defining Failure - P. 30 |DebugAgent.com](https://www.youtube.com/watch?v=N4OFIiJV22I)
 - [Practical Debugging at Scale: fail-safe and fail-fast - P. 29](https://www.youtube.com/watch?v=9Yv1Jj3yn2c)
 - [Software Testing as a Debugging Tool](https://debugagent.com/software-testing-as-a-debugging-tool)
@@ -40,7 +41,6 @@
 - [strace Revisited: Simple is Beautiful](https://debugagent.com/strace-revisited-simple-is-beautiful)
 - [gdocweb Templates: Documentation from Google Docs to GitHub Pages](https://www.youtube.com/watch?v=FiRMtkdwp8Y)
 - [Styling and Dark Mode](https://debugagent.com/styling-and-dark-mode)
-- [DTrace Revisited: Advanced Debugging Techniques](https://debugagent.com/dtrace-revisited-advanced-debugging-techniques)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
