@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Practical Debugging at Scale: Kubernetes Introduction B - P. 32](https://www.youtube.com/watch?v=4_uSwwGEK58)
 - [Practical Debugging at Scale: Debugging Kubernetes Intro A - P. 31](https://www.youtube.com/watch?v=sWclLQgbIUQ)
 - [Failure is Required: Understanding Fail-Safe and Fail-Fast Strategies](https://debugagent.com/failure-is-required-understanding-fail-safe-and-fail-fast-strategies)
 - [Practical Debugging at Scale: Defining Failure - P. 30 |DebugAgent.com](https://www.youtube.com/watch?v=N4OFIiJV22I)
@@ -40,7 +41,6 @@
 - [The Best Way to Diagnose a Patient is to Cut Him Open](https://debugagent.com/the-best-way-to-diagnose-a-patient-is-to-cut-him-open)
 - [Regenerate Immediately and RSS](https://debugagent.com/regenerate-immediately-and-rss)
 - [strace Revisited: Simple is Beautiful](https://debugagent.com/strace-revisited-simple-is-beautiful)
-- [gdocweb Templates: Documentation from Google Docs to GitHub Pages](https://www.youtube.com/watch?v=FiRMtkdwp8Y)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
