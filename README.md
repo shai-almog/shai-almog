@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why is Kubernetes Debugging so Problematic?](https://debugagent.com/why-is-kubernetes-debugging-so-problematic)
 - [Practical Debugging at Scale: Source Debugging in Kubernetes - P. 34](https://www.youtube.com/watch?v=bRnOGb7rUV4)
 - [Practical Debugging at Scale: The Problem with Kubernetes Debugging](https://www.youtube.com/watch?v=xkOekt02mNY)
 - [Debugging Kubernetes Part 1: An Introduction](https://debugagent.com/debugging-kubernetes-part-1-an-introduction)
@@ -40,7 +41,6 @@
 - [Mastering jhsdb: The Hidden Gem for Debugging JVM Issues](https://debugagent.com/mastering-jhsdb-the-hidden-gem-for-debugging-jvm-issues)
 - [Debugging Streams with Peek](https://debugagent.com/debugging-streams-with-peek)
 - [Debugging Using JMX Revisited](https://debugagent.com/debugging-using-jmx-revisited)
-- [Unleashing the Power of Git Bisect](https://debugagent.com/unleashing-the-power-of-git-bisect)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
