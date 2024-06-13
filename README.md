@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Practical Debugging at Scale: Serverless Debugging Introduction -P. 36](https://www.youtube.com/watch?v=B6uyutAbEDw)
 - [Debugging Kubernetes - Troubleshooting Guide](https://debugagent.com/debugging-kubernetes-troubleshooting-guide)
 - [Practical Debugging at Scale: Kubernetes Configuration Issues - P. 35](https://www.youtube.com/watch?v=Q3cy8i4tsyQ)
 - [Why is Kubernetes Debugging so Problematic?](https://debugagent.com/why-is-kubernetes-debugging-so-problematic)
@@ -40,7 +41,6 @@
 - [Practical Debugging at Scale: Logging Basics - P. 24 | DebugAgent.com](https://www.youtube.com/watch?v=CBfTDhlv_Ow)
 - [Wireshark &amp; tcpdump: A Debugging Power Couple](https://debugagent.com/wireshark-tcpdump-a-debugging-power-couple)
 - [Practical Debugging at Scale: tcpdump - P. 23 | DebugAgent.com](https://www.youtube.com/watch?v=nLXu3_fzHhQ)
-- [Mastering jhsdb: The Hidden Gem for Debugging JVM Issues](https://debugagent.com/mastering-jhsdb-the-hidden-gem-for-debugging-jvm-issues)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
