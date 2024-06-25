@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Serverless Debugging](https://debugagent.com/mastering-serverless-debugging)
 - [Practical Debugging at Scale: Serverless Local Debugging - P. 37](https://www.youtube.com/watch?v=SlFA-JlTYGM)
 - [Practical Debugging at Scale: Serverless Debugging Introduction -P. 36](https://www.youtube.com/watch?v=B6uyutAbEDw)
 - [Debugging Kubernetes - Troubleshooting Guide](https://debugagent.com/debugging-kubernetes-troubleshooting-guide)
@@ -40,7 +41,6 @@
 - [Practical Debugging at Scale: Overlogging and Best Practices B - P. 26](https://www.youtube.com/watch?v=mOTsg5qbRy0)
 - [Practical Debugging at Scale: Overlogging and Best Practices A - P. 25](https://www.youtube.com/watch?v=IjqEmz0NAEo)
 - [Practical Debugging at Scale: Logging Basics - P. 24 | DebugAgent.com](https://www.youtube.com/watch?v=CBfTDhlv_Ow)
-- [Wireshark &amp; tcpdump: A Debugging Power Couple](https://debugagent.com/wireshark-tcpdump-a-debugging-power-couple)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
