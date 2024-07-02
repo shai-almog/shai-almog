@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Practical Debugging at Scale: Fullstack Debugging - P. 39](https://www.youtube.com/watch?v=mM8p2VrrEaE)
 - [Practical Debugging at Scale: Using Feature Flags - P. 38](https://www.youtube.com/watch?v=fHJhUiPwAyo)
 - [Mastering Serverless Debugging](https://debugagent.com/mastering-serverless-debugging)
 - [Practical Debugging at Scale: Serverless Local Debugging - P. 37](https://www.youtube.com/watch?v=SlFA-JlTYGM)
@@ -40,7 +41,6 @@
 - [Practical Debugging at Scale: Test Driven Development &lpar;TDD&rpar; - P. 28](https://www.youtube.com/watch?v=yImkjlm08Cw)
 - [Practical Debugging at Scale: Testing Basics - P. 27 | DebugAgent.com](https://www.youtube.com/watch?v=yap509UZz6M)
 - [Practical Debugging at Scale: Overlogging and Best Practices B - P. 26](https://www.youtube.com/watch?v=mOTsg5qbRy0)
-- [Practical Debugging at Scale: Overlogging and Best Practices A - P. 25](https://www.youtube.com/watch?v=IjqEmz0NAEo)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
