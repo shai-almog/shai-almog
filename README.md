@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Art of Full Stack Debugging](https://debugagent.com/the-art-of-full-stack-debugging)
 - [Practical Debugging at Scale: Frontend Debugging Introduction - P. 40](https://www.youtube.com/watch?v=1KFlbecOmc0)
 - [Practical Debugging at Scale: Fullstack Debugging - P. 39](https://www.youtube.com/watch?v=mM8p2VrrEaE)
 - [Practical Debugging at Scale: Using Feature Flags - P. 38](https://www.youtube.com/watch?v=fHJhUiPwAyo)
@@ -40,7 +41,6 @@
 - [Practical Debugging at Scale: fail-safe and fail-fast - P. 29](https://www.youtube.com/watch?v=9Yv1Jj3yn2c)
 - [Software Testing as a Debugging Tool](https://debugagent.com/software-testing-as-a-debugging-tool)
 - [Practical Debugging at Scale: Test Driven Development &lpar;TDD&rpar; - P. 28](https://www.youtube.com/watch?v=yImkjlm08Cw)
-- [Practical Debugging at Scale: Testing Basics - P. 27 | DebugAgent.com](https://www.youtube.com/watch?v=yap509UZz6M)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
