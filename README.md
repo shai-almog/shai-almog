@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Practical Debugging at Scale: Frontend Logging - P. 41](https://www.youtube.com/watch?v=Qi7S98HNhYY)
 - [Front End Debugging Part 1: Not just Console Log](https://debugagent.com/front-end-debugging-part-1-not-just-console-log)
 - [The Art of Full Stack Debugging](https://debugagent.com/the-art-of-full-stack-debugging)
 - [Practical Debugging at Scale: Frontend Debugging Introduction - P. 40](https://www.youtube.com/watch?v=1KFlbecOmc0)
@@ -40,7 +41,6 @@
 - [Failure is Required: Understanding Fail-Safe and Fail-Fast Strategies](https://debugagent.com/failure-is-required-understanding-fail-safe-and-fail-fast-strategies)
 - [Practical Debugging at Scale: Defining Failure - P. 30 |DebugAgent.com](https://www.youtube.com/watch?v=N4OFIiJV22I)
 - [Practical Debugging at Scale: fail-safe and fail-fast - P. 29](https://www.youtube.com/watch?v=9Yv1Jj3yn2c)
-- [Software Testing as a Debugging Tool](https://debugagent.com/software-testing-as-a-debugging-tool)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
