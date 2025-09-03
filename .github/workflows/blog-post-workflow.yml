@@ -11,7 +11,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://debugagent.com/rss.xml, https://talktotheduck.dev/rss.xml, https://dev.to/feed/codename_one, https://www.youtube.com/feeds/videos.xml?channel_id=UC58s06zC1P7jlWWmjs1uuPA"
+          feed_list: "https://debugagent.com/rss.xml, https://dev.to/feed/codename_one, https://www.youtube.com/feeds/videos.xml?channel_id=UC58s06zC1P7jlWWmjs1uuPA"
           max_post_count: 20
 
 # https://medium.com/feed/@codename_one removed due to 404s
