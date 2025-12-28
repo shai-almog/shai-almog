@@ -21,26 +21,26 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Practical Debugging at Scale: Frontend Network and Storage - P. 42](https://www.youtube.com/watch?v=_DfNti1q6ec)
 - [Front End Debugging Part 3: Networking](https://debugagent.com/front-end-debugging-part-3-networking)
 - [Front End Debugging Part 2: Console.log&lpar;&rpar; to the Max](https://debugagent.com/front-end-debugging-part-2-consolelog-to-the-max)
-- [Practical Debugging at Scale: Frontend Logging - P. 41](https://www.youtube.com/watch?v=Qi7S98HNhYY)
 - [Front End Debugging Part 1: Not just Console Log](https://debugagent.com/front-end-debugging-part-1-not-just-console-log)
 - [The Art of Full Stack Debugging](https://debugagent.com/the-art-of-full-stack-debugging)
-- [Practical Debugging at Scale: Frontend Debugging Introduction - P. 40](https://www.youtube.com/watch?v=1KFlbecOmc0)
-- [Practical Debugging at Scale: Fullstack Debugging - P. 39](https://www.youtube.com/watch?v=mM8p2VrrEaE)
-- [Practical Debugging at Scale: Using Feature Flags - P. 38](https://www.youtube.com/watch?v=fHJhUiPwAyo)
 - [Mastering Serverless Debugging](https://debugagent.com/mastering-serverless-debugging)
-- [Practical Debugging at Scale: Serverless Local Debugging - P. 37](https://www.youtube.com/watch?v=SlFA-JlTYGM)
-- [Practical Debugging at Scale: Serverless Debugging Introduction -P. 36](https://www.youtube.com/watch?v=B6uyutAbEDw)
 - [Debugging Kubernetes - Troubleshooting Guide](https://debugagent.com/debugging-kubernetes-troubleshooting-guide)
-- [Practical Debugging at Scale: Kubernetes Configuration Issues - P. 35](https://www.youtube.com/watch?v=Q3cy8i4tsyQ)
 - [Why is Kubernetes Debugging so Problematic?](https://debugagent.com/why-is-kubernetes-debugging-so-problematic)
-- [Practical Debugging at Scale: Source Debugging in Kubernetes - P. 34](https://www.youtube.com/watch?v=bRnOGb7rUV4)
-- [Practical Debugging at Scale: The Problem with Kubernetes Debugging](https://www.youtube.com/watch?v=xkOekt02mNY)
 - [Debugging Kubernetes Part 1: An Introduction](https://debugagent.com/debugging-kubernetes-part-1-an-introduction)
-- [Practical Debugging at Scale: Kubernetes Introduction B - P. 32](https://www.youtube.com/watch?v=4_uSwwGEK58)
-- [Practical Debugging at Scale: Debugging Kubernetes Intro A - P. 31](https://www.youtube.com/watch?v=sWclLQgbIUQ)
+- [Failure is Required: Understanding Fail-Safe and Fail-Fast Strategies](https://debugagent.com/failure-is-required-understanding-fail-safe-and-fail-fast-strategies)
+- [Software Testing as a Debugging Tool](https://debugagent.com/software-testing-as-a-debugging-tool)
+- [Wireshark &amp; tcpdump: A Debugging Power Couple](https://debugagent.com/wireshark-tcpdump-a-debugging-power-couple)
+- [Mastering jhsdb: The Hidden Gem for Debugging JVM Issues](https://debugagent.com/mastering-jhsdb-the-hidden-gem-for-debugging-jvm-issues)
+- [Debugging Streams with Peek](https://debugagent.com/debugging-streams-with-peek)
+- [Debugging Using JMX Revisited](https://debugagent.com/debugging-using-jmx-revisited)
+- [Unleashing the Power of Git Bisect](https://debugagent.com/unleashing-the-power-of-git-bisect)
+- [The Best Way to Diagnose a Patient is to Cut Him Open](https://debugagent.com/the-best-way-to-diagnose-a-patient-is-to-cut-him-open)
+- [Regenerate Immediately and RSS](https://debugagent.com/regenerate-immediately-and-rss)
+- [strace Revisited: Simple is Beautiful](https://debugagent.com/strace-revisited-simple-is-beautiful)
+- [Styling and Dark Mode](https://debugagent.com/styling-and-dark-mode)
+- [DTrace Revisited: Advanced Debugging Techniques](https://debugagent.com/dtrace-revisited-advanced-debugging-techniques)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
