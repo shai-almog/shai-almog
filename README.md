@@ -21,8 +21,26 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [New Initializr and Build Server Migration Plan](https://www.codenameone.com/blog/new-initializr-and-build-server-migrations/)
+- [Moving from WordPress to Hugo + Cloudflare Pages](https://www.codenameone.com/blog/moving-from-wordpress-to-hugo-cloudflare-pages/)
+- [Android Push Changes](https://www.codenameone.com/blog/android-push-changes/)
+- [Codename One Shared Files Library](https://www.codenameone.com/blog/codename-one-shared-files-library/)
+- [How to Build iOS Apps with Java](https://www.codenameone.com/blog/how-to-build-ios-apps-with-java/)
+- [Async Debugging with IntelliJ IDEA](https://www.codenameone.com/blog/async-debugging-with-intellij-idea/)
+- [New Property Sheet and JavaDocs](https://www.codenameone.com/blog/new-property-sheet-and-javadocs/)
+- [Creating New Projects with Old Templates](https://www.codenameone.com/blog/creating-new-projects-with-old-templates/)
+- [New Feature: Inspect Component](https://www.codenameone.com/blog/inspect-component/)
+- [Codename One Simulator Facelift](https://www.codenameone.com/blog/codename-one-simulator-facelift/)
+- [Better VSCode Support for Maven Projects](https://www.codenameone.com/blog/better-vscode-support-for-maven-projects/)
+- [Build-Hints Editor](https://www.codenameone.com/blog/build-hints-editor/)
+- [New iOS Certificate Wizard](https://www.codenameone.com/blog/new-ios-certificate-wizard/)
+- [We’re Raising Prices! Here’s how you can keep the old Price](https://www.codenameone.com/blog/we-are-raising-prices/)
+- [Contribute to Codename One during Hacktoberfest](https://www.codenameone.com/blog/contribute-to-codename-one-during-hacktoberfest/)
 - [Debugging in Production-How to move fast without breaking things](https://dev.to/codename_one/debugging-in-production-how-to-move-fast-without-breaking-things-3hnl)
-- [Build Cross-Platform Native Mobile Apps using Java/Kotlin for iOS, Android, Desktop &amp; Web](https://dev.to/codename_one/build-cross-platform-native-mobile-apps-using-java-kotlin-for-ios-android-desktop-web-5g3j)
+- [Moving the Support to Reddit](https://www.codenameone.com/blog/moving-the-support-to-reddit/)
+- [Announcing CodeRAD 2.0 Preview](https://www.codenameone.com/blog/announcing-coderad-2-0-preview/)
+- [Debugging in Production – How to move fast without breaking things](https://www.codenameone.com/blog/debugging-in-production-how-to-move-fast-without-breaking-things/)
+- [New CSS Units in Codename One Apps](https://www.codenameone.com/blog/new-css-units-in-codename-one-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
