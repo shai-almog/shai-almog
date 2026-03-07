@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Xcode 26 Migration, UIScene Rollout, Initializr Localization Bundles, and More](https://www.codenameone.com/blog/xcode-26-migration-and-localization-bundles/)
 - [New Initializr and Build Server Migration Plan](https://www.codenameone.com/blog/new-initializr-and-build-server-migrations/)
 - [Moving from WordPress to Hugo + Cloudflare Pages](https://www.codenameone.com/blog/moving-from-wordpress-to-hugo-cloudflare-pages/)
 - [Android Push Changes](https://www.codenameone.com/blog/android-push-changes/)
@@ -40,7 +41,6 @@
 - [Moving the Support to Reddit](https://www.codenameone.com/blog/moving-the-support-to-reddit/)
 - [Announcing CodeRAD 2.0 Preview](https://www.codenameone.com/blog/announcing-coderad-2-0-preview/)
 - [Debugging in Production – How to move fast without breaking things](https://www.codenameone.com/blog/debugging-in-production-how-to-move-fast-without-breaking-things/)
-- [New CSS Units in Codename One Apps](https://www.codenameone.com/blog/new-css-units-in-codename-one-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
