@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Stream APIs, Swift Package Manager, Tutorial Trail Refresh, and the UWP Transition](https://www.codenameone.com/blog/stream-apis-spm-tutorial-trail-and-uwp/)
 - [Official Experimental Java 17 Support for Codename One Projects](https://www.codenameone.com/blog/official-experimental-java-17-support/)
 - [Xcode 26 Migration, UIScene Rollout, Initializr Localization Bundles, and More](https://www.codenameone.com/blog/xcode-26-migration-and-localization-bundles/)
 - [New Initializr and Build Server Migration Plan](https://www.codenameone.com/blog/new-initializr-and-build-server-migrations/)
@@ -40,7 +41,6 @@
 - [Contribute to Codename One during Hacktoberfest](https://www.codenameone.com/blog/contribute-to-codename-one-during-hacktoberfest/)
 - [Debugging in Production-How to move fast without breaking things](https://dev.to/codename_one/debugging-in-production-how-to-move-fast-without-breaking-things-3hnl)
 - [Moving the Support to Reddit](https://www.codenameone.com/blog/moving-the-support-to-reddit/)
-- [Announcing CodeRAD 2.0 Preview](https://www.codenameone.com/blog/announcing-coderad-2-0-preview/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
