@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Swift and Kotlin Native Interfaces, Faster Base64, and More](https://www.codenameone.com/blog/swift-and-kotlin-native-interfaces-faster-base64/)
 - [Compliance Improvements, Simulator Updates, and More](https://www.codenameone.com/blog/compliance-improvements-simulator-updates-and-more/)
 - [Playground and java.time Support in Codename One](https://www.codenameone.com/blog/playground-and-java-time-support/)
 - [Stream APIs, Swift Package Manager, Tutorial Trail Refresh, and the UWP Transition](https://www.codenameone.com/blog/stream-apis-spm-tutorial-trail-and-uwp/)
@@ -40,7 +41,6 @@
 - [Build-Hints Editor](https://www.codenameone.com/blog/build-hints-editor/)
 - [New iOS Certificate Wizard](https://www.codenameone.com/blog/new-ios-certificate-wizard/)
 - [We’re Raising Prices! Here’s how you can keep the old Price](https://www.codenameone.com/blog/we-are-raising-prices/)
-- [Contribute to Codename One during Hacktoberfest](https://www.codenameone.com/blog/contribute-to-codename-one-during-hacktoberfest/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
