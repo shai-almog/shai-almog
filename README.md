@@ -21,8 +21,26 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Debugging in Production-How to move fast without breaking things](https://dev.to/codename_one/debugging-in-production-how-to-move-fast-without-breaking-things-3hnl)
-- [Build Cross-Platform Native Mobile Apps using Java/Kotlin for iOS, Android, Desktop &amp; Web](https://dev.to/codename_one/build-cross-platform-native-mobile-apps-using-java-kotlin-for-ios-android-desktop-web-5g3j)
+- [UIScene on by Default and iOS Performance](https://www.codenameone.com/blog/uiscene-on-by-default-ios-performance/)
+- [Swift and Kotlin Native Interfaces, Faster Base64, and More](https://www.codenameone.com/blog/swift-and-kotlin-native-interfaces-faster-base64/)
+- [Compliance Improvements, Simulator Updates, and More](https://www.codenameone.com/blog/compliance-improvements-simulator-updates-and-more/)
+- [Playground and java.time Support in Codename One](https://www.codenameone.com/blog/playground-and-java-time-support/)
+- [Stream APIs, Swift Package Manager, Tutorial Trail Refresh, and the UWP Transition](https://www.codenameone.com/blog/stream-apis-spm-tutorial-trail-and-uwp/)
+- [Official Experimental Java 17 Support for Codename One Projects](https://www.codenameone.com/blog/official-experimental-java-17-support/)
+- [Xcode 26 Migration, UIScene Rollout, Initializr Localization Bundles, and More](https://www.codenameone.com/blog/xcode-26-migration-and-localization-bundles/)
+- [New Initializr and Build Server Migration Plan](https://www.codenameone.com/blog/new-initializr-and-build-server-migrations/)
+- [Moving from WordPress to Hugo + Cloudflare Pages](https://www.codenameone.com/blog/moving-from-wordpress-to-hugo-cloudflare-pages/)
+- [Android Push Changes](https://www.codenameone.com/blog/android-push-changes/)
+- [Codename One Shared Files Library](https://www.codenameone.com/blog/codename-one-shared-files-library/)
+- [How to Build iOS Apps with Java](https://www.codenameone.com/blog/how-to-build-ios-apps-with-java/)
+- [Async Debugging with IntelliJ IDEA](https://www.codenameone.com/blog/async-debugging-with-intellij-idea/)
+- [New Property Sheet and JavaDocs](https://www.codenameone.com/blog/new-property-sheet-and-javadocs/)
+- [Creating New Projects with Old Templates](https://www.codenameone.com/blog/creating-new-projects-with-old-templates/)
+- [New Feature: Inspect Component](https://www.codenameone.com/blog/inspect-component/)
+- [Codename One Simulator Facelift](https://www.codenameone.com/blog/codename-one-simulator-facelift/)
+- [Better VSCode Support for Maven Projects](https://www.codenameone.com/blog/better-vscode-support-for-maven-projects/)
+- [Build-Hints Editor](https://www.codenameone.com/blog/build-hints-editor/)
+- [New iOS Certificate Wizard](https://www.codenameone.com/blog/new-ios-certificate-wizard/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
