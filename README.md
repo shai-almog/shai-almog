@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Liquid Glass, Material 3, And A Lot Of Plumbing](https://www.codenameone.com/blog/liquid-glass-material-3-modern-native-themes/)
 - [iOS Density, Scroll Physics, and Accessibility](https://www.codenameone.com/blog/ios-density-scroll-and-accessibility/)
 - [UIScene on by Default and iOS Performance](https://www.codenameone.com/blog/uiscene-on-by-default-ios-performance/)
 - [Swift and Kotlin Native Interfaces, Faster Base64, and More](https://www.codenameone.com/blog/swift-and-kotlin-native-interfaces-faster-base64/)
@@ -40,7 +41,6 @@
 - [New Feature: Inspect Component](https://www.codenameone.com/blog/inspect-component/)
 - [Codename One Simulator Facelift](https://www.codenameone.com/blog/codename-one-simulator-facelift/)
 - [Better VSCode Support for Maven Projects](https://www.codenameone.com/blog/better-vscode-support-for-maven-projects/)
-- [Build-Hints Editor](https://www.codenameone.com/blog/build-hints-editor/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
