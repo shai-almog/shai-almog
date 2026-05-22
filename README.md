@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [NFC, Crypto, Biometrics, And A New Build Cloud](https://www.codenameone.com/blog/nfc-crypto-biometrics-and-build-cloud/)
 - [Skills, Java 17, And Theme Accents](https://www.codenameone.com/blog/skills-java17-and-theme-accents/)
 - [Metal and Skins](https://www.codenameone.com/blog/metal-and-skins/)
 - [Liquid Glass, Material 3, And A Lot Of Plumbing](https://www.codenameone.com/blog/liquid-glass-material-3-modern-native-themes/)
@@ -40,7 +41,6 @@
 - [Async Debugging with IntelliJ IDEA](https://www.codenameone.com/blog/async-debugging-with-intellij-idea/)
 - [New Property Sheet and JavaDocs](https://www.codenameone.com/blog/new-property-sheet-and-javadocs/)
 - [Creating New Projects with Old Templates](https://www.codenameone.com/blog/creating-new-projects-with-old-templates/)
-- [New Feature: Inspect Component](https://www.codenameone.com/blog/inspect-component/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
