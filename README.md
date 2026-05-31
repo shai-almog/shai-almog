@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AI, OAuth, And Other Platform APIs In The Core](https://www.codenameone.com/blog/platform-apis-in-the-core/)
 - [On-Device Debugging And JUnit 5](https://www.codenameone.com/blog/developer-workflow-debug-and-junit/)
 - [Metal Default, A New Build Cloud, And A New Format](https://www.codenameone.com/blog/metal-default-new-build-cloud-and-a-new-format/)
 - [NFC, Crypto, Biometrics, And A New Build Cloud](https://www.codenameone.com/blog/nfc-crypto-biometrics-and-build-cloud/)
@@ -40,7 +41,6 @@
 - [Android Push Changes](https://www.codenameone.com/blog/android-push-changes/)
 - [Codename One Shared Files Library](https://www.codenameone.com/blog/codename-one-shared-files-library/)
 - [How to Build iOS Apps with Java](https://www.codenameone.com/blog/how-to-build-ios-apps-with-java/)
-- [Async Debugging with IntelliJ IDEA](https://www.codenameone.com/blog/async-debugging-with-intellij-idea/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
