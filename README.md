@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mac Native Builds, Live Protocols, And Open Issues Under 350](https://www.codenameone.com/blog/mac-native-grpc-graphql-and-fewer-open-issues/)
 - [We Will Not Sabotage Your Code](https://www.codenameone.com/blog/we-will-not-sabotage-your-code/)
 - [OpenAPI, ORM, SVG and Lottie](https://www.codenameone.com/blog/build-time-codegen/)
 - [AI, OAuth, And Other Platform APIs In The Core](https://www.codenameone.com/blog/platform-apis-in-the-core/)
@@ -40,7 +41,6 @@
 - [Xcode 26 Migration, UIScene Rollout, Initializr Localization Bundles, and More](https://www.codenameone.com/blog/xcode-26-migration-and-localization-bundles/)
 - [New Initializr and Build Server Migration Plan](https://www.codenameone.com/blog/new-initializr-and-build-server-migrations/)
 - [Moving from WordPress to Hugo + Cloudflare Pages](https://www.codenameone.com/blog/moving-from-wordpress-to-hugo-cloudflare-pages/)
-- [Android Push Changes](https://www.codenameone.com/blog/android-push-changes/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
