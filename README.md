@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [WebSockets, gRPC, And GraphQL In The Core](https://www.codenameone.com/blog/websockets-grpc-and-graphql/)
 - [Your Codename One App, Now A Native Mac App](https://www.codenameone.com/blog/mac-native-builds-and-desktop-integration/)
 - [Mac Native Builds, Live Protocols, And Open Issues Under 350](https://www.codenameone.com/blog/mac-native-grpc-graphql-and-fewer-open-issues/)
 - [We Will Not Sabotage Your Code](https://www.codenameone.com/blog/we-will-not-sabotage-your-code/)
@@ -40,7 +41,6 @@
 - [Stream APIs, Swift Package Manager, Tutorial Trail Refresh, and the UWP Transition](https://www.codenameone.com/blog/stream-apis-spm-tutorial-trail-and-uwp/)
 - [Official Experimental Java 17 Support for Codename One Projects](https://www.codenameone.com/blog/official-experimental-java-17-support/)
 - [Xcode 26 Migration, UIScene Rollout, Initializr Localization Bundles, and More](https://www.codenameone.com/blog/xcode-26-migration-and-localization-bundles/)
-- [New Initializr and Build Server Migration Plan](https://www.codenameone.com/blog/new-initializr-and-build-server-migrations/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
