@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Background Work, Push Topics, And Richer Notifications](https://www.codenameone.com/blog/background-execution-and-push/)
 - [A New Advertising API, Built From The Ground Up](https://www.codenameone.com/blog/modern-advertising-api/)
 - [WebSockets, gRPC, And GraphQL In The Core](https://www.codenameone.com/blog/websockets-grpc-and-graphql/)
 - [Your Codename One App, Now A Native Mac App](https://www.codenameone.com/blog/mac-native-builds-and-desktop-integration/)
@@ -40,7 +41,6 @@
 - [Compliance Improvements, Simulator Updates, and More](https://www.codenameone.com/blog/compliance-improvements-simulator-updates-and-more/)
 - [Playground and java.time Support in Codename One](https://www.codenameone.com/blog/playground-and-java-time-support/)
 - [Stream APIs, Swift Package Manager, Tutorial Trail Refresh, and the UWP Transition](https://www.codenameone.com/blog/stream-apis-spm-tutorial-trail-and-uwp/)
-- [Official Experimental Java 17 Support for Codename One Projects](https://www.codenameone.com/blog/official-experimental-java-17-support/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
