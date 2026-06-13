@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [3D Graphics Without Writing Shaders: The Portable GPU API](https://www.codenameone.com/blog/portable-3d-graphics-api/)
 - [Native Java Win32, 3D Gaming, Printing and Wallet](https://www.codenameone.com/blog/native-java-win32-3d-gaming-printing-and-wallet/)
 - [Background Work, Push Topics, And Richer Notifications](https://www.codenameone.com/blog/background-execution-and-push/)
 - [A New Advertising API, Built From The Ground Up](https://www.codenameone.com/blog/modern-advertising-api/)
@@ -40,7 +41,6 @@
 - [UIScene on by Default and iOS Performance](https://www.codenameone.com/blog/uiscene-on-by-default-ios-performance/)
 - [Swift and Kotlin Native Interfaces, Faster Base64, and More](https://www.codenameone.com/blog/swift-and-kotlin-native-interfaces-faster-base64/)
 - [Compliance Improvements, Simulator Updates, and More](https://www.codenameone.com/blog/compliance-improvements-simulator-updates-and-more/)
-- [Playground and java.time Support in Codename One](https://www.codenameone.com/blog/playground-and-java-time-support/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
