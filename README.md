@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Java To A Native Windows EXE: No JVM, 5MB, x64 And Arm](https://www.codenameone.com/blog/native-windows-port-no-jvm/)
 - [Build Games In Java: Sprites, Box2D Physics And Low-Latency Sound](https://www.codenameone.com/blog/game-development-api-box2d/)
 - [3D Graphics Without Writing Shaders: The Portable GPU API](https://www.codenameone.com/blog/portable-3d-graphics-api/)
 - [Native Java Win32, 3D Gaming, Printing and Wallet](https://www.codenameone.com/blog/native-java-win32-3d-gaming-printing-and-wallet/)
@@ -40,7 +41,6 @@
 - [Liquid Glass, Material 3, And A Lot Of Plumbing](https://www.codenameone.com/blog/liquid-glass-material-3-modern-native-themes/)
 - [iOS Density, Scroll Physics, and Accessibility](https://www.codenameone.com/blog/ios-density-scroll-and-accessibility/)
 - [UIScene on by Default and iOS Performance](https://www.codenameone.com/blog/uiscene-on-by-default-ios-performance/)
-- [Swift and Kotlin Native Interfaces, Faster Base64, and More](https://www.codenameone.com/blog/swift-and-kotlin-native-interfaces-faster-base64/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
