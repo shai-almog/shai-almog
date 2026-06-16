@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Print Anywhere, And Put Your Cards In Apple Wallet](https://www.codenameone.com/blog/printing-and-apple-wallet/)
 - [Java To A Native Windows EXE: No JVM, 5MB, x64 And Arm](https://www.codenameone.com/blog/native-windows-port-no-jvm/)
 - [Build Games In Java: Sprites, Box2D Physics And Low-Latency Sound](https://www.codenameone.com/blog/game-development-api-box2d/)
 - [3D Graphics Without Writing Shaders: The Portable GPU API](https://www.codenameone.com/blog/portable-3d-graphics-api/)
@@ -40,7 +41,6 @@
 - [Metal and Skins](https://www.codenameone.com/blog/metal-and-skins/)
 - [Liquid Glass, Material 3, And A Lot Of Plumbing](https://www.codenameone.com/blog/liquid-glass-material-3-modern-native-themes/)
 - [iOS Density, Scroll Physics, and Accessibility](https://www.codenameone.com/blog/ios-density-scroll-and-accessibility/)
-- [UIScene on by Default and iOS Performance](https://www.codenameone.com/blog/uiscene-on-by-default-ios-performance/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
