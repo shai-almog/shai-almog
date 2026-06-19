@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Native Linux, Apple Watch, A Game Builder And Crash Protection](https://www.codenameone.com/blog/native-linux-apple-watch-game-builder-crash-protection/)
 - [Print Anywhere, And Put Your Cards In Apple Wallet](https://www.codenameone.com/blog/printing-and-apple-wallet/)
 - [Java To A Native Windows EXE: No JVM, 5MB, x64 And Arm](https://www.codenameone.com/blog/native-windows-port-no-jvm/)
 - [Build Games In Java: Sprites, Box2D Physics And Low-Latency Sound](https://www.codenameone.com/blog/game-development-api-box2d/)
@@ -40,7 +41,6 @@
 - [Skills, Java 17, And Theme Accents](https://www.codenameone.com/blog/skills-java17-and-theme-accents/)
 - [Metal and Skins](https://www.codenameone.com/blog/metal-and-skins/)
 - [Liquid Glass, Material 3, And A Lot Of Plumbing](https://www.codenameone.com/blog/liquid-glass-material-3-modern-native-themes/)
-- [iOS Density, Scroll Physics, and Accessibility](https://www.codenameone.com/blog/ios-density-scroll-and-accessibility/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
