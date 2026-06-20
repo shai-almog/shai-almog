@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Java To Native Linux App: One 5MB Binary, x64 And Arm](https://www.codenameone.com/blog/java-to-a-native-linux-app/)
 - [Native Linux, Apple Watch, A Game Builder And Crash Protection](https://www.codenameone.com/blog/native-linux-apple-watch-game-builder-crash-protection/)
 - [Print Anywhere, And Put Your Cards In Apple Wallet](https://www.codenameone.com/blog/printing-and-apple-wallet/)
 - [Java To A Native Windows EXE: No JVM, 5MB, x64 And Arm](https://www.codenameone.com/blog/native-windows-port-no-jvm/)
@@ -40,7 +41,6 @@
 - [NFC, Crypto, Biometrics, And A New Build Cloud](https://www.codenameone.com/blog/nfc-crypto-biometrics-and-build-cloud/)
 - [Skills, Java 17, And Theme Accents](https://www.codenameone.com/blog/skills-java17-and-theme-accents/)
 - [Metal and Skins](https://www.codenameone.com/blog/metal-and-skins/)
-- [Liquid Glass, Material 3, And A Lot Of Plumbing](https://www.codenameone.com/blog/liquid-glass-material-3-modern-native-themes/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
