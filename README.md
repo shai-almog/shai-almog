@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Just Watch](https://www.codenameone.com/blog/native-apple-watch-and-wear/)
 - [Java To Native Linux App: One 5MB Binary, x64 And Arm](https://www.codenameone.com/blog/java-to-a-native-linux-app/)
 - [Native Linux, Apple Watch, A Game Builder And Crash Protection](https://www.codenameone.com/blog/native-linux-apple-watch-game-builder-crash-protection/)
 - [Print Anywhere, And Put Your Cards In Apple Wallet](https://www.codenameone.com/blog/printing-and-apple-wallet/)
@@ -40,7 +41,6 @@
 - [Metal Default, A New Build Cloud, And A New Format](https://www.codenameone.com/blog/metal-default-new-build-cloud-and-a-new-format/)
 - [NFC, Crypto, Biometrics, And A New Build Cloud](https://www.codenameone.com/blog/nfc-crypto-biometrics-and-build-cloud/)
 - [Skills, Java 17, And Theme Accents](https://www.codenameone.com/blog/skills-java17-and-theme-accents/)
-- [Metal and Skins](https://www.codenameone.com/blog/metal-and-skins/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
