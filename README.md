@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Codename One Game Builder: Draw The Level, Code The Rules](https://www.codenameone.com/blog/the-codename-one-game-builder/)
 - [Seamless Crash Protection That Symbolicates Native Crashes](https://www.codenameone.com/blog/seamless-crash-protection/)
 - [Just Watch](https://www.codenameone.com/blog/native-apple-watch-and-wear/)
 - [Java To Native Linux App: One 5MB Binary, x64 And Arm](https://www.codenameone.com/blog/java-to-a-native-linux-app/)
@@ -40,7 +41,6 @@
 - [AI, OAuth, And Other Platform APIs In The Core](https://www.codenameone.com/blog/platform-apis-in-the-core/)
 - [On-Device Debugging And JUnit 5](https://www.codenameone.com/blog/developer-workflow-debug-and-junit/)
 - [Metal Default, A New Build Cloud, And A New Format](https://www.codenameone.com/blog/metal-default-new-build-cloud-and-a-new-format/)
-- [NFC, Crypto, Biometrics, And A New Build Cloud](https://www.codenameone.com/blog/nfc-crypto-biometrics-and-build-cloud/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
