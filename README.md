@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Game Builder Tutorial 1: Build a 2D Platformer — Duke&#39;s Coffee Run](https://www.codenameone.com/blog/game-builder-2d-platformer/)
 - [The Codename One Game Builder: Draw The Level, Code The Rules](https://www.codenameone.com/blog/the-codename-one-game-builder/)
 - [Seamless Crash Protection That Symbolicates Native Crashes](https://www.codenameone.com/blog/seamless-crash-protection/)
 - [Just Watch](https://www.codenameone.com/blog/native-apple-watch-and-wear/)
@@ -40,7 +41,6 @@
 - [OpenAPI, ORM, SVG and Lottie](https://www.codenameone.com/blog/build-time-codegen/)
 - [AI, OAuth, And Other Platform APIs In The Core](https://www.codenameone.com/blog/platform-apis-in-the-core/)
 - [On-Device Debugging And JUnit 5](https://www.codenameone.com/blog/developer-workflow-debug-and-junit/)
-- [Metal Default, A New Build Cloud, And A New Format](https://www.codenameone.com/blog/metal-default-new-build-cloud-and-a-new-format/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
