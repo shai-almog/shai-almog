@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Maps You Control: A Pure-Vector MapView And Pluggable Native Providers](https://www.codenameone.com/blog/vector-and-native-maps/)
 - [Funding Open Source Without The Bait And Switch: Analytics, Native Maps, TV And More](https://www.codenameone.com/blog/funding-open-source-without-the-bait-and-switch/)
 - [Game Builder Tutorial 1: Build a 2D Platformer — Duke&#39;s Coffee Run](https://www.codenameone.com/blog/game-builder-2d-platformer/)
 - [The Codename One Game Builder: Draw The Level, Code The Rules](https://www.codenameone.com/blog/the-codename-one-game-builder/)
@@ -40,7 +41,6 @@
 - [Mac Native Builds, Live Protocols, And Open Issues Under 350](https://www.codenameone.com/blog/mac-native-grpc-graphql-and-fewer-open-issues/)
 - [We Will Not Sabotage Your Code](https://www.codenameone.com/blog/we-will-not-sabotage-your-code/)
 - [OpenAPI, ORM, SVG and Lottie](https://www.codenameone.com/blog/build-time-codegen/)
-- [AI, OAuth, And Other Platform APIs In The Core](https://www.codenameone.com/blog/platform-apis-in-the-core/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
