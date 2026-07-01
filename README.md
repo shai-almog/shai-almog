@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Device Integrity And App Review: RASP, Attestation, And Asking For Ratings Right](https://www.codenameone.com/blog/device-integrity-and-app-review/)
 - [Apple TV And Android TV: One Codebase, And CSS @media For The Living Room](https://www.codenameone.com/blog/apple-tv-and-android-tv/)
 - [A Privacy-First Analytics API: One Facade, A Provider SPI, And A Consent Gate](https://www.codenameone.com/blog/privacy-first-analytics/)
 - [Rich Text And Code Editing: RichTextArea And A Syntax-Highlighting CodeEditor](https://www.codenameone.com/blog/rich-text-and-code-editing/)
@@ -40,7 +41,6 @@
 - [Background Work, Push Topics, And Richer Notifications](https://www.codenameone.com/blog/background-execution-and-push/)
 - [A New Advertising API, Built From The Ground Up](https://www.codenameone.com/blog/modern-advertising-api/)
 - [WebSockets, gRPC, And GraphQL In The Core](https://www.codenameone.com/blog/websockets-grpc-and-graphql/)
-- [Your Codename One App, Now A Native Mac App](https://www.codenameone.com/blog/mac-native-builds-and-desktop-integration/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
