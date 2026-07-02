@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Game Builder Tutorial 2: Build a Blackjack Card Game &lpar;Duke Jack&rpar;](https://www.codenameone.com/blog/game-builder-board-game/)
 - [Device Integrity And App Review: RASP, Attestation, And Asking For Ratings Right](https://www.codenameone.com/blog/device-integrity-and-app-review/)
 - [Apple TV And Android TV: One Codebase, And CSS @media For The Living Room](https://www.codenameone.com/blog/apple-tv-and-android-tv/)
 - [A Privacy-First Analytics API: One Facade, A Provider SPI, And A Consent Gate](https://www.codenameone.com/blog/privacy-first-analytics/)
@@ -40,7 +41,6 @@
 - [Native Java Win32, 3D Gaming, Printing and Wallet](https://www.codenameone.com/blog/native-java-win32-3d-gaming-printing-and-wallet/)
 - [Background Work, Push Topics, And Richer Notifications](https://www.codenameone.com/blog/background-execution-and-push/)
 - [A New Advertising API, Built From The Ground Up](https://www.codenameone.com/blog/modern-advertising-api/)
-- [WebSockets, gRPC, And GraphQL In The Core](https://www.codenameone.com/blog/websockets-grpc-and-graphql/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
