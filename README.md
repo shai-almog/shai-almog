@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [More Surfaces, Same Deal: Cars, Sensors, Commerce, Video And Builds](https://www.codenameone.com/blog/one-codebase-more-surfaces/)
 - [Game Builder Tutorial 2: Build a Blackjack Card Game &lpar;Duke Jack&rpar;](https://www.codenameone.com/blog/game-builder-board-game/)
 - [Device Integrity And App Review: RASP, Attestation, And Asking For Ratings Right](https://www.codenameone.com/blog/device-integrity-and-app-review/)
 - [Apple TV And Android TV: One Codebase, And CSS @media For The Living Room](https://www.codenameone.com/blog/apple-tv-and-android-tv/)
@@ -40,7 +41,6 @@
 - [3D Graphics Without Writing Shaders: The Portable GPU API](https://www.codenameone.com/blog/portable-3d-graphics-api/)
 - [Native Java Win32, 3D Gaming, Printing and Wallet](https://www.codenameone.com/blog/native-java-win32-3d-gaming-printing-and-wallet/)
 - [Background Work, Push Topics, And Richer Notifications](https://www.codenameone.com/blog/background-execution-and-push/)
-- [A New Advertising API, Built From The Ground Up](https://www.codenameone.com/blog/modern-advertising-api/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
