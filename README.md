@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Commerce And Secrets Without An IAP Tax](https://www.codenameone.com/blog/commerce-secrets-without-iap-tax/)
 - [Motion, Stylus, Trackpads And Foldables In The Core](https://www.codenameone.com/blog/motion-input-form-factors/)
 - [CarPlay And Android Auto From One Codename One API](https://www.codenameone.com/blog/carplay-android-auto-codename-one/)
 - [More Surfaces, Same Deal: Cars, Sensors, Commerce, Video And Builds](https://www.codenameone.com/blog/one-codebase-more-surfaces/)
@@ -40,7 +41,6 @@
 - [Print Anywhere, And Put Your Cards In Apple Wallet](https://www.codenameone.com/blog/printing-and-apple-wallet/)
 - [Java To A Native Windows EXE: No JVM, 5MB, x64 And Arm](https://www.codenameone.com/blog/native-windows-port-no-jvm/)
 - [Build Games In Java: Sprites, Box2D Physics And Low-Latency Sound](https://www.codenameone.com/blog/game-development-api-box2d/)
-- [3D Graphics Without Writing Shaders: The Portable GPU API](https://www.codenameone.com/blog/portable-3d-graphics-api/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
