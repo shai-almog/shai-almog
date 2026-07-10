@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How We Beat HotSpot Performance &lpar;By Cheating, But Not Like That&rpar;](https://www.codenameone.com/blog/beating-hotspot-performance/)
 - [Game Builder Tutorial 3: Build a First-Person 3D Dungeon](https://www.codenameone.com/blog/game-builder-3d-dungeon/)
 - [VideoIO, PCM Mixing And Timed Whisper Captions](https://www.codenameone.com/blog/videoio-audio-mixer-whisper/)
 - [Versioned Builds Are Back, With Master Builds For Fast Verification](https://www.codenameone.com/blog/versioned-builds-master/)
@@ -40,7 +41,6 @@
 - [Seamless Crash Protection That Symbolicates Native Crashes](https://www.codenameone.com/blog/seamless-crash-protection/)
 - [Just Watch](https://www.codenameone.com/blog/native-apple-watch-and-wear/)
 - [Java To Native Linux App: One 5MB Binary, x64 And Arm](https://www.codenameone.com/blog/java-to-a-native-linux-app/)
-- [Native Linux, Apple Watch, A Game Builder And Crash Protection](https://www.codenameone.com/blog/native-linux-apple-watch-game-builder-crash-protection/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
