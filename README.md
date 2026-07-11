@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Certificate Wizard Is Now A Standalone App, And It Stopped Impersonating You](https://www.codenameone.com/blog/standalone-certificate-wizard/)
 - [How We Beat HotSpot Performance &lpar;By Cheating, But Not Like That&rpar;](https://www.codenameone.com/blog/beating-hotspot-performance/)
 - [Game Builder Tutorial 3: Build a First-Person 3D Dungeon](https://www.codenameone.com/blog/game-builder-3d-dungeon/)
 - [VideoIO, PCM Mixing And Timed Whisper Captions](https://www.codenameone.com/blog/videoio-audio-mixer-whisper/)
@@ -40,7 +41,6 @@
 - [The Codename One Game Builder: Draw The Level, Code The Rules](https://www.codenameone.com/blog/the-codename-one-game-builder/)
 - [Seamless Crash Protection That Symbolicates Native Crashes](https://www.codenameone.com/blog/seamless-crash-protection/)
 - [Just Watch](https://www.codenameone.com/blog/native-apple-watch-and-wear/)
-- [Java To Native Linux App: One 5MB Binary, x64 And Arm](https://www.codenameone.com/blog/java-to-a-native-linux-app/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
