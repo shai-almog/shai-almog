@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AR And VR In Java: ARKit, ARCore, And A Virtual Room You Can Debug](https://www.codenameone.com/blog/ar-vr-support-simulation/)
 - [The Certificate Wizard Is Now A Standalone App, And It Stopped Impersonating You](https://www.codenameone.com/blog/standalone-certificate-wizard/)
 - [How We Beat HotSpot Performance &lpar;By Cheating, But Not Like That&rpar;](https://www.codenameone.com/blog/beating-hotspot-performance/)
 - [Game Builder Tutorial 3: Build a First-Person 3D Dungeon](https://www.codenameone.com/blog/game-builder-3d-dungeon/)
@@ -40,7 +41,6 @@
 - [Game Builder Tutorial 1: Build a 2D Platformer — Duke&#39;s Coffee Run](https://www.codenameone.com/blog/game-builder-2d-platformer/)
 - [The Codename One Game Builder: Draw The Level, Code The Rules](https://www.codenameone.com/blog/the-codename-one-game-builder/)
 - [Seamless Crash Protection That Symbolicates Native Crashes](https://www.codenameone.com/blog/seamless-crash-protection/)
-- [Just Watch](https://www.codenameone.com/blog/native-apple-watch-and-wear/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
