@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Own Your Pixels: Native Fidelity on Your Schedule](https://www.codenameone.com/blog/pixel-perfect-is-a-test/)
 - [Store Submissions As Code: App Store, Google Play, And Huawei AppGallery](https://www.codenameone.com/blog/automated-store-submissions/)
 - [AR And VR In Java: ARKit, ARCore, And A Virtual Room You Can Debug](https://www.codenameone.com/blog/ar-vr-support-simulation/)
 - [The Certificate Wizard Is Now A Standalone App, And It Stopped Impersonating You](https://www.codenameone.com/blog/standalone-certificate-wizard/)
@@ -40,7 +41,6 @@
 - [Maps You Control: A Pure-Vector MapView And Pluggable Native Providers](https://www.codenameone.com/blog/vector-and-native-maps/)
 - [Funding Open Source Without The Bait And Switch: Analytics, Native Maps, TV And More](https://www.codenameone.com/blog/funding-open-source-without-the-bait-and-switch/)
 - [Game Builder Tutorial 1: Build a 2D Platformer — Duke&#39;s Coffee Run](https://www.codenameone.com/blog/game-builder-2d-platformer/)
-- [The Codename One Game Builder: Draw The Level, Code The Rules](https://www.codenameone.com/blog/the-codename-one-game-builder/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
