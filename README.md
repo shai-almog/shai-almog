@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Widgets, Live Activities, and Dynamic Island From One Java API](https://www.codenameone.com/blog/widgets-live-activities-dynamic-island/)
 - [Codename One Settings Is Now a Standalone Tool](https://www.codenameone.com/blog/standalone-codename-one-settings/)
 - [Own Your Pixels: Native Fidelity on Your Schedule](https://www.codenameone.com/blog/pixel-perfect-is-a-test/)
 - [Store Submissions As Code: App Store, Google Play, And Huawei AppGallery](https://www.codenameone.com/blog/automated-store-submissions/)
@@ -40,7 +41,6 @@
 - [A Privacy-First Analytics API: One Facade, A Provider SPI, And A Consent Gate](https://www.codenameone.com/blog/privacy-first-analytics/)
 - [Rich Text And Code Editing: RichTextArea And A Syntax-Highlighting CodeEditor](https://www.codenameone.com/blog/rich-text-and-code-editing/)
 - [Maps You Control: A Pure-Vector MapView And Pluggable Native Providers](https://www.codenameone.com/blog/vector-and-native-maps/)
-- [Funding Open Source Without The Bait And Switch: Analytics, Native Maps, TV And More](https://www.codenameone.com/blog/funding-open-source-without-the-bait-and-switch/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
