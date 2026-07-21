@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Your Codename One App Can Be an MCP Server](https://www.codenameone.com/blog/codename-one-mcp-server/)
 - [Accessibility Semantics: The UI Tree You Cannot See](https://www.codenameone.com/blog/accessibility-semantics/)
 - [Widgets, Live Activities, and Dynamic Island From One Java API](https://www.codenameone.com/blog/widgets-live-activities-dynamic-island/)
 - [Codename One Settings Is Now a Standalone Tool](https://www.codenameone.com/blog/standalone-codename-one-settings/)
@@ -40,7 +41,6 @@
 - [Device Integrity And App Review: RASP, Attestation, And Asking For Ratings Right](https://www.codenameone.com/blog/device-integrity-and-app-review/)
 - [Apple TV And Android TV: One Codebase, And CSS @media For The Living Room](https://www.codenameone.com/blog/apple-tv-and-android-tv/)
 - [A Privacy-First Analytics API: One Facade, A Provider SPI, And A Consent Gate](https://www.codenameone.com/blog/privacy-first-analytics/)
-- [Rich Text And Code Editing: RichTextArea And A Syntax-Highlighting CodeEditor](https://www.codenameone.com/blog/rich-text-and-code-editing/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
