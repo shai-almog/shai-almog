@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Port Support You Can Trace Back to a Green Test](https://www.codenameone.com/blog/tested-port-support/)
 - [Your Codename One App Can Be an MCP Server](https://www.codenameone.com/blog/codename-one-mcp-server/)
 - [Accessibility Semantics: The UI Tree You Cannot See](https://www.codenameone.com/blog/accessibility-semantics/)
 - [Widgets, Live Activities, and Dynamic Island From One Java API](https://www.codenameone.com/blog/widgets-live-activities-dynamic-island/)
@@ -40,7 +41,6 @@
 - [Game Builder Tutorial 2: Build a Blackjack Card Game &lpar;Duke Jack&rpar;](https://www.codenameone.com/blog/game-builder-board-game/)
 - [Device Integrity And App Review: RASP, Attestation, And Asking For Ratings Right](https://www.codenameone.com/blog/device-integrity-and-app-review/)
 - [Apple TV And Android TV: One Codebase, And CSS @media For The Living Room](https://www.codenameone.com/blog/apple-tv-and-android-tv/)
-- [A Privacy-First Analytics API: One Facade, A Provider SPI, And A Consent Gate](https://www.codenameone.com/blog/privacy-first-analytics/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
