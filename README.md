@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Calendar API: Local Calendars, Cloud Sync, and Conflict Handling](https://www.codenameone.com/blog/calendar-is-not-add-event/)
 - [The Codename One JavaScript Port Is Now Free and Open Source](https://www.codenameone.com/blog/javascript-free-open-source/)
 - [Port Support You Can Trace Back to a Green Test](https://www.codenameone.com/blog/tested-port-support/)
 - [Your Codename One App Can Be an MCP Server](https://www.codenameone.com/blog/codename-one-mcp-server/)
@@ -40,7 +41,6 @@
 - [CarPlay And Android Auto From One Codename One API](https://www.codenameone.com/blog/carplay-android-auto-codename-one/)
 - [More Surfaces, Same Deal: Cars, Sensors, Commerce, Video And Builds](https://www.codenameone.com/blog/one-codebase-more-surfaces/)
 - [Game Builder Tutorial 2: Build a Blackjack Card Game &lpar;Duke Jack&rpar;](https://www.codenameone.com/blog/game-builder-board-game/)
-- [Device Integrity And App Review: RASP, Attestation, And Asking For Ratings Right](https://www.codenameone.com/blog/device-integrity-and-app-review/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
