@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pure Codename One Text Editing Without Native Overlays](https://www.codenameone.com/blog/text-input-without-native-overlay/)
 - [Bluetooth Support Across Every Codename One Target](https://www.codenameone.com/blog/bluetooth-beyond-ble/)
 - [Calendar API: Local Calendars, Cloud Sync, and Conflict Handling](https://www.codenameone.com/blog/calendar-is-not-add-event/)
 - [The Codename One JavaScript Port Is Now Free and Open Source](https://www.codenameone.com/blog/javascript-free-open-source/)
@@ -40,7 +41,6 @@
 - [Commerce And Secrets Without An IAP Tax](https://www.codenameone.com/blog/commerce-secrets-without-iap-tax/)
 - [Motion, Stylus, Trackpads And Foldables In The Core](https://www.codenameone.com/blog/motion-input-form-factors/)
 - [CarPlay And Android Auto From One Codename One API](https://www.codenameone.com/blog/carplay-android-auto-codename-one/)
-- [More Surfaces, Same Deal: Cars, Sensors, Commerce, Video And Builds](https://www.codenameone.com/blog/one-codebase-more-surfaces/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
