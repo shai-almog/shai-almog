@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Push V3: One Message From Your Server to Every Surface](https://www.codenameone.com/blog/push-v3-new-cloud/)
 - [Compact Strings Cut Character Storage in Half](https://www.codenameone.com/blog/compact-strings-parparvm/)
 - [A Lightweight Rich Text Component Without a Web View](https://www.codenameone.com/blog/rich-text-without-webview/)
 - [Pure Codename One Text Editing Without Native Overlays](https://www.codenameone.com/blog/text-input-without-native-overlay/)
@@ -40,7 +41,6 @@
 - [Game Builder Tutorial 3: Build a First-Person 3D Dungeon](https://www.codenameone.com/blog/game-builder-3d-dungeon/)
 - [VideoIO, PCM Mixing And Timed Whisper Captions](https://www.codenameone.com/blog/videoio-audio-mixer-whisper/)
 - [Versioned Builds Are Back, With Master Builds For Fast Verification](https://www.codenameone.com/blog/versioned-builds-master/)
-- [Commerce And Secrets Without An IAP Tax](https://www.codenameone.com/blog/commerce-secrets-without-iap-tax/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
