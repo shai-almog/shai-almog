@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [On-Device AI and MCP on Every Port](https://www.codenameone.com/blog/on-device-ai-mcp-loopback/)
 - [Health Data Without Fake Certainty](https://www.codenameone.com/blog/health-api-false-certainty/)
 - [Push V3: One Message From Your Server to Every Surface](https://www.codenameone.com/blog/push-v3-new-cloud/)
 - [Compact Strings Cut Character Storage in Half](https://www.codenameone.com/blog/compact-strings-parparvm/)
@@ -40,7 +41,6 @@
 - [The Certificate Wizard Is Now A Standalone App, And It Stopped Impersonating You](https://www.codenameone.com/blog/standalone-certificate-wizard/)
 - [How We Beat HotSpot Performance &lpar;By Cheating, But Not Like That&rpar;](https://www.codenameone.com/blog/beating-hotspot-performance/)
 - [Game Builder Tutorial 3: Build a First-Person 3D Dungeon](https://www.codenameone.com/blog/game-builder-3d-dungeon/)
-- [VideoIO, PCM Mixing And Timed Whisper Captions](https://www.codenameone.com/blog/videoio-audio-mixer-whisper/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
