@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [App Shield: Your Server Should Not Trust the App Calling It](https://www.codenameone.com/blog/app-shield-server-attestation/)
 - [Why Codename One Is Moving Beyond Maven Central](https://www.codenameone.com/blog/maven-central-cloudflare-r2/)
 - [A Polyline Is Not a Route](https://www.codenameone.com/blog/road-following-map-routing/)
 - [On-Device AI and MCP on Every Port](https://www.codenameone.com/blog/on-device-ai-mcp-loopback/)
@@ -40,7 +41,6 @@
 - [Own Your Pixels: Native Fidelity on Your Schedule](https://www.codenameone.com/blog/pixel-perfect-is-a-test/)
 - [Store Submissions As Code: App Store, Google Play, And Huawei AppGallery](https://www.codenameone.com/blog/automated-store-submissions/)
 - [AR And VR In Java: ARKit, ARCore, And A Virtual Room You Can Debug](https://www.codenameone.com/blog/ar-vr-support-simulation/)
-- [The Certificate Wizard Is Now A Standalone App, And It Stopped Impersonating You](https://www.codenameone.com/blog/standalone-certificate-wizard/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
