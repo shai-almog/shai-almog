@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Third-Generation GUI Builder: One Workspace for Every Form](https://www.codenameone.com/blog/third-generation-gui-builder/)
 - [App Shield: Your Server Should Not Trust the App Calling It](https://www.codenameone.com/blog/app-shield-server-attestation/)
 - [Why Codename One Is Moving Beyond Maven Central](https://www.codenameone.com/blog/maven-central-cloudflare-r2/)
 - [A Polyline Is Not a Route](https://www.codenameone.com/blog/road-following-map-routing/)
@@ -40,7 +41,6 @@
 - [Codename One Settings Is Now a Standalone Tool](https://www.codenameone.com/blog/standalone-codename-one-settings/)
 - [Own Your Pixels: Native Fidelity on Your Schedule](https://www.codenameone.com/blog/pixel-perfect-is-a-test/)
 - [Store Submissions As Code: App Store, Google Play, And Huawei AppGallery](https://www.codenameone.com/blog/automated-store-submissions/)
-- [AR And VR In Java: ARKit, ARCore, And A Virtual Room You Can Debug](https://www.codenameone.com/blog/ar-vr-support-simulation/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
