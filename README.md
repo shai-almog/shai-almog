@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [SQLite Across Every Port: One Contract, One Encrypted File Format](https://www.codenameone.com/blog/sqlite-portable-encrypted/)
 - [App Hardening: One Obfuscation Pipeline Across Every Port](https://www.codenameone.com/blog/app-hardening-cross-platform/)
 - [The Third-Generation GUI Builder: One Workspace for Every Form](https://www.codenameone.com/blog/third-generation-gui-builder/)
 - [App Shield: Your Server Should Not Trust the App Calling It](https://www.codenameone.com/blog/app-shield-server-attestation/)
@@ -40,7 +41,6 @@
 - [Accessibility Semantics: The UI Tree You Cannot See](https://www.codenameone.com/blog/accessibility-semantics/)
 - [Widgets, Live Activities, and Dynamic Island From One Java API](https://www.codenameone.com/blog/widgets-live-activities-dynamic-island/)
 - [Codename One Settings Is Now a Standalone Tool](https://www.codenameone.com/blog/standalone-codename-one-settings/)
-- [Own Your Pixels: Native Fidelity on Your Schedule](https://www.codenameone.com/blog/pixel-perfect-is-a-test/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
