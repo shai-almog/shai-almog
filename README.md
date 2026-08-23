@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Find in Page: DOM Text Above the Codename One Canvas](https://www.codenameone.com/blog/javascript-dom-text-search/)
 - [Watch Apps: One Codebase, Two Real Applications](https://www.codenameone.com/blog/watch-apps-phone-channel/)
 - [SQLite Across Every Port: One Contract, One Encrypted File Format](https://www.codenameone.com/blog/sqlite-portable-encrypted/)
 - [App Hardening: One Obfuscation Pipeline Across Every Port](https://www.codenameone.com/blog/app-hardening-cross-platform/)
@@ -40,7 +41,6 @@
 - [Port Support You Can Trace Back to a Green Test](https://www.codenameone.com/blog/tested-port-support/)
 - [Your Codename One App Can Be an MCP Server](https://www.codenameone.com/blog/codename-one-mcp-server/)
 - [Accessibility Semantics: The UI Tree You Cannot See](https://www.codenameone.com/blog/accessibility-semantics/)
-- [Widgets, Live Activities, and Dynamic Island From One Java API](https://www.codenameone.com/blog/widgets-live-activities-dynamic-island/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
