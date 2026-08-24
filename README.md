@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [One Java API for HomeKit, Matter, and Google Home](https://www.codenameone.com/blog/smart-home-homekit-matter/)
 - [JavaScript Find in Page: DOM Text Above the Codename One Canvas](https://www.codenameone.com/blog/javascript-dom-text-search/)
 - [Watch Apps: One Codebase, Two Real Applications](https://www.codenameone.com/blog/watch-apps-phone-channel/)
 - [SQLite Across Every Port: One Contract, One Encrypted File Format](https://www.codenameone.com/blog/sqlite-portable-encrypted/)
@@ -40,7 +41,6 @@
 - [The Codename One JavaScript Port Is Now Free and Open Source](https://www.codenameone.com/blog/javascript-free-open-source/)
 - [Port Support You Can Trace Back to a Green Test](https://www.codenameone.com/blog/tested-port-support/)
 - [Your Codename One App Can Be an MCP Server](https://www.codenameone.com/blog/codename-one-mcp-server/)
-- [Accessibility Semantics: The UI Tree You Cannot See](https://www.codenameone.com/blog/accessibility-semantics/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
