@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [CodeScanner.scan&lpar;&rpar;: Barcode Scanning Without Rebuilding the Camera Pipeline](https://www.codenameone.com/blog/camera-vision-scanners/)
 - [Tapjacking Protection: Rejecting Android Touches Behind an Overlay](https://www.codenameone.com/blog/tapjacking-protection/)
 - [One Java API for HomeKit, Matter, and Google Home](https://www.codenameone.com/blog/smart-home-homekit-matter/)
 - [JavaScript Find in Page: DOM Text Above the Codename One Canvas](https://www.codenameone.com/blog/javascript-dom-text-search/)
@@ -40,7 +41,6 @@
 - [Bluetooth Support Across Every Codename One Target](https://www.codenameone.com/blog/bluetooth-beyond-ble/)
 - [Calendar API: Local Calendars, Cloud Sync, and Conflict Handling](https://www.codenameone.com/blog/calendar-is-not-add-event/)
 - [The Codename One JavaScript Port Is Now Free and Open Source](https://www.codenameone.com/blog/javascript-free-open-source/)
-- [Port Support You Can Trace Back to a Green Test](https://www.codenameone.com/blog/tested-port-support/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
