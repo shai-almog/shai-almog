@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Put App Documents in the System File Browser](https://www.codenameone.com/blog/documents-in-system-file-browser/)
 - [One App, More Than One Native Window](https://www.codenameone.com/blog/native-desktop-windows/)
 - [App Intents: One Java Declaration for Siri, Spotlight, and Shortcuts](https://www.codenameone.com/blog/app-intents-siri-spotlight-shortcuts/)
 - [CodeScanner.scan&lpar;&rpar;: Barcode Scanning Without Rebuilding the Camera Pipeline](https://www.codenameone.com/blog/camera-vision-scanners/)
@@ -40,7 +41,6 @@
 - [Compact Strings Cut Character Storage in Half](https://www.codenameone.com/blog/compact-strings-parparvm/)
 - [A Lightweight Rich Text Component Without a Web View](https://www.codenameone.com/blog/rich-text-without-webview/)
 - [Pure Codename One Text Editing Without Native Overlays](https://www.codenameone.com/blog/text-input-without-native-overlay/)
-- [Bluetooth Support Across Every Codename One Target](https://www.codenameone.com/blog/bluetooth-beyond-ble/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
