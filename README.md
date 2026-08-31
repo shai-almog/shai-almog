@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Watch Follow-Through: Complications, Tiles, and a Companion Wear APK](https://www.codenameone.com/blog/watch-complications-wear-companion/)
 - [UWB and Nearby Devices: Distance, Direction, Association, and Transport](https://www.codenameone.com/blog/uwb-nearby-devices/)
 - [Put App Documents in the System File Browser](https://www.codenameone.com/blog/documents-in-system-file-browser/)
 - [One App, More Than One Native Window](https://www.codenameone.com/blog/native-desktop-windows/)
@@ -40,7 +41,6 @@
 - [Health Data Without Fake Certainty](https://www.codenameone.com/blog/health-api-false-certainty/)
 - [Push V3: One Message From Your Server to Every Surface](https://www.codenameone.com/blog/push-v3-new-cloud/)
 - [Compact Strings Cut Character Storage in Half](https://www.codenameone.com/blog/compact-strings-parparvm/)
-- [A Lightweight Rich Text Component Without a Web View](https://www.codenameone.com/blog/rich-text-without-webview/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
