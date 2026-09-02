@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Build Hints That Fail Before the Build Server](https://www.codenameone.com/blog/compile-time-build-hints/)
 - [Rootless Jailbreak Detection: Updating the Signals, Not the Claim](https://www.codenameone.com/blog/rootless-jailbreak-detection/)
 - [Watch Follow-Through: Complications, Tiles, and a Companion Wear APK](https://www.codenameone.com/blog/watch-complications-wear-companion/)
 - [UWB and Nearby Devices: Distance, Direction, Association, and Transport](https://www.codenameone.com/blog/uwb-nearby-devices/)
@@ -40,7 +41,6 @@
 - [A Polyline Is Not a Route](https://www.codenameone.com/blog/road-following-map-routing/)
 - [On-Device AI and MCP on Every Port](https://www.codenameone.com/blog/on-device-ai-mcp-loopback/)
 - [Health Data Without Fake Certainty](https://www.codenameone.com/blog/health-api-false-certainty/)
-- [Push V3: One Message From Your Server to Every Surface](https://www.codenameone.com/blog/push-v3-new-cloud/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
