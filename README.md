@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [VoIP, VPN, and the Build System Behind Them](https://www.codenameone.com/blog/voip-vpn-builders/)
 - [Build Hints That Fail Before the Build Server](https://www.codenameone.com/blog/compile-time-build-hints/)
 - [Rootless Jailbreak Detection: Updating the Signals, Not the Claim](https://www.codenameone.com/blog/rootless-jailbreak-detection/)
 - [Watch Follow-Through: Complications, Tiles, and a Companion Wear APK](https://www.codenameone.com/blog/watch-complications-wear-companion/)
@@ -40,7 +41,6 @@
 - [Why Codename One Is Moving Beyond Maven Central](https://www.codenameone.com/blog/maven-central-cloudflare-r2/)
 - [A Polyline Is Not a Route](https://www.codenameone.com/blog/road-following-map-routing/)
 - [On-Device AI and MCP on Every Port](https://www.codenameone.com/blog/on-device-ai-mcp-loopback/)
-- [Health Data Without Fake Certainty](https://www.codenameone.com/blog/health-api-false-certainty/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
