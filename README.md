@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Dialog Can Now Be a Native Desktop Window](https://www.codenameone.com/blog/dialogs-in-native-windows/)
 - [VoIP, VPN, and the Build System Behind Them](https://www.codenameone.com/blog/voip-vpn-builders/)
 - [Build Hints That Fail Before the Build Server](https://www.codenameone.com/blog/compile-time-build-hints/)
 - [Rootless Jailbreak Detection: Updating the Signals, Not the Claim](https://www.codenameone.com/blog/rootless-jailbreak-detection/)
@@ -40,7 +41,6 @@
 - [App Shield: Your Server Should Not Trust the App Calling It](https://www.codenameone.com/blog/app-shield-server-attestation/)
 - [Why Codename One Is Moving Beyond Maven Central](https://www.codenameone.com/blog/maven-central-cloudflare-r2/)
 - [A Polyline Is Not a Route](https://www.codenameone.com/blog/road-following-map-routing/)
-- [On-Device AI and MCP on Every Port](https://www.codenameone.com/blog/on-device-ai-mcp-loopback/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
