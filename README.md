@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Lies, Damn Lies and Benchmarks](https://www.codenameone.com/blog/performance-work-between-benchmarks/)
 - [Pick One Contact Without Asking for the Address Book](https://www.codenameone.com/blog/private-contact-picker/)
 - [We Stopped Waiting for Platform Changes to Find Us](https://www.codenameone.com/blog/platform-deprecation-watch/)
 - [Fill an SMS Verification Code Without Reading the Inbox](https://www.codenameone.com/blog/sms-otp-autofill/)
@@ -40,7 +41,6 @@
 - [JavaScript Find in Page: DOM Text Above the Codename One Canvas](https://www.codenameone.com/blog/javascript-dom-text-search/)
 - [Watch Apps: One Codebase, Two Real Applications](https://www.codenameone.com/blog/watch-apps-phone-channel/)
 - [SQLite Across Every Port: One Contract, One Encrypted File Format](https://www.codenameone.com/blog/sqlite-portable-encrypted/)
-- [App Hardening: One Obfuscation Pipeline Across Every Port](https://www.codenameone.com/blog/app-hardening-cross-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
