@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What Go Taught Us About Java Garbage Collection](https://www.codenameone.com/blog/parparvm-gc-small-heaps/)
 - [Lies, Damn Lies and Benchmarks](https://www.codenameone.com/blog/performance-work-between-benchmarks/)
 - [Pick One Contact Without Asking for the Address Book](https://www.codenameone.com/blog/private-contact-picker/)
 - [We Stopped Waiting for Platform Changes to Find Us](https://www.codenameone.com/blog/platform-deprecation-watch/)
@@ -40,7 +41,6 @@
 - [One Java API for HomeKit, Matter, and Google Home](https://www.codenameone.com/blog/smart-home-homekit-matter/)
 - [JavaScript Find in Page: DOM Text Above the Codename One Canvas](https://www.codenameone.com/blog/javascript-dom-text-search/)
 - [Watch Apps: One Codebase, Two Real Applications](https://www.codenameone.com/blog/watch-apps-phone-channel/)
-- [SQLite Across Every Port: One Contract, One Encrypted File Format](https://www.codenameone.com/blog/sqlite-portable-encrypted/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
