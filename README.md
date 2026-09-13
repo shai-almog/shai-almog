@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Faster Maps: Chasing Swiss Speed](https://www.codenameone.com/blog/hashmap-misses-probe-sequence/)
 - [What Go Taught Us About Java Garbage Collection](https://www.codenameone.com/blog/parparvm-gc-small-heaps/)
 - [Lies, Damn Lies and Benchmarks](https://www.codenameone.com/blog/performance-work-between-benchmarks/)
 - [Pick One Contact Without Asking for the Address Book](https://www.codenameone.com/blog/private-contact-picker/)
@@ -40,7 +41,6 @@
 - [Tapjacking Protection: Rejecting Android Touches Behind an Overlay](https://www.codenameone.com/blog/tapjacking-protection/)
 - [One Java API for HomeKit, Matter, and Google Home](https://www.codenameone.com/blog/smart-home-homekit-matter/)
 - [JavaScript Find in Page: DOM Text Above the Codename One Canvas](https://www.codenameone.com/blog/javascript-dom-text-search/)
-- [Watch Apps: One Codebase, Two Real Applications](https://www.codenameone.com/blog/watch-apps-phone-channel/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
