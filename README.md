@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Native Drag and Drop Meets Cross-Device Continuity](https://www.codenameone.com/blog/continuity-restoring-work/)
 - [Faster Starts, Less JavaScript Overhead](https://www.codenameone.com/blog/startup-cost-before-first-paint/)
 - [Faster Maps: Chasing Swiss Speed](https://www.codenameone.com/blog/hashmap-misses-probe-sequence/)
 - [What Go Taught Us About Java Garbage Collection](https://www.codenameone.com/blog/parparvm-gc-small-heaps/)
@@ -40,7 +41,6 @@
 - [App Intents: One Java Declaration for Siri, Spotlight, and Shortcuts](https://www.codenameone.com/blog/app-intents-siri-spotlight-shortcuts/)
 - [CodeScanner.scan&lpar;&rpar;: Barcode Scanning Without Rebuilding the Camera Pipeline](https://www.codenameone.com/blog/camera-vision-scanners/)
 - [Tapjacking Protection: Rejecting Android Touches Behind an Overlay](https://www.codenameone.com/blog/tapjacking-protection/)
-- [One Java API for HomeKit, Matter, and Google Home](https://www.codenameone.com/blog/smart-home-homekit-matter/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
