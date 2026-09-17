@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Android 17 Without the Last-Minute Scramble](https://www.codenameone.com/blog/android-37-readiness-location-button/)
 - [Javadoc That Feels Like Your Website](https://www.codenameone.com/blog/javadoc-hugo-markdown-doclet/)
 - [Native Drag and Drop Meets Cross-Device Continuity](https://www.codenameone.com/blog/continuity-restoring-work/)
 - [Faster Starts, Less JavaScript Overhead](https://www.codenameone.com/blog/startup-cost-before-first-paint/)
@@ -40,7 +41,6 @@
 - [Put App Documents in the System File Browser](https://www.codenameone.com/blog/documents-in-system-file-browser/)
 - [One App, More Than One Native Window](https://www.codenameone.com/blog/native-desktop-windows/)
 - [App Intents: One Java Declaration for Siri, Spotlight, and Shortcuts](https://www.codenameone.com/blog/app-intents-siri-spotlight-shortcuts/)
-- [CodeScanner.scan&lpar;&rpar;: Barcode Scanning Without Rebuilding the Camera Pipeline](https://www.codenameone.com/blog/camera-vision-scanners/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
