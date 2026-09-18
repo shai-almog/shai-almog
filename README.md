@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [We Didn&#39;t Want to Build Another Java Server](https://www.codenameone.com/blog/why-another-java-server/)
 - [Android 17 Without the Last-Minute Scramble](https://www.codenameone.com/blog/android-37-readiness-location-button/)
 - [Javadoc That Feels Like Your Website](https://www.codenameone.com/blog/javadoc-hugo-markdown-doclet/)
 - [Native Drag and Drop Meets Cross-Device Continuity](https://www.codenameone.com/blog/continuity-restoring-work/)
@@ -40,7 +41,6 @@
 - [UWB and Nearby Devices: Distance, Direction, Association, and Transport](https://www.codenameone.com/blog/uwb-nearby-devices/)
 - [Put App Documents in the System File Browser](https://www.codenameone.com/blog/documents-in-system-file-browser/)
 - [One App, More Than One Native Window](https://www.codenameone.com/blog/native-desktop-windows/)
-- [App Intents: One Java Declaration for Siri, Spotlight, and Shortcuts](https://www.codenameone.com/blog/app-intents-siri-spotlight-shortcuts/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
