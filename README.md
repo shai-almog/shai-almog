@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [One Vault, from Your Phone to the Browser](https://www.codenameone.com/blog/vault-encryption-browser-phone/)
 - [One Java Model from the App to PostgreSQL](https://www.codenameone.com/blog/java-backend-shared-models/)
 - [We Didn&#39;t Want to Build Another Java Server](https://www.codenameone.com/blog/why-another-java-server/)
 - [Android 17 Without the Last-Minute Scramble](https://www.codenameone.com/blog/android-37-readiness-location-button/)
@@ -40,7 +41,6 @@
 - [Rootless Jailbreak Detection: Updating the Signals, Not the Claim](https://www.codenameone.com/blog/rootless-jailbreak-detection/)
 - [Watch Follow-Through: Complications, Tiles, and a Companion Wear APK](https://www.codenameone.com/blog/watch-complications-wear-companion/)
 - [UWB and Nearby Devices: Distance, Direction, Association, and Transport](https://www.codenameone.com/blog/uwb-nearby-devices/)
-- [Put App Documents in the System File Browser](https://www.codenameone.com/blog/documents-in-system-file-browser/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
