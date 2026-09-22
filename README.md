@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Xcode 27: The Build Settings That Can Stop a Release](https://www.codenameone.com/blog/xcode-27-build-settings/)
 - [The Hard Part of Invite a Friend Is the Install](https://www.codenameone.com/blog/invite-link-through-app-store/)
 - [One Vault, from Your Phone to the Browser](https://www.codenameone.com/blog/vault-encryption-browser-phone/)
 - [One Java Model from the App to PostgreSQL](https://www.codenameone.com/blog/java-backend-shared-models/)
@@ -40,7 +41,6 @@
 - [VoIP, VPN, and the Build System Behind Them](https://www.codenameone.com/blog/voip-vpn-builders/)
 - [Build Hints That Fail Before the Build Server](https://www.codenameone.com/blog/compile-time-build-hints/)
 - [Rootless Jailbreak Detection: Updating the Signals, Not the Claim](https://www.codenameone.com/blog/rootless-jailbreak-detection/)
-- [Watch Follow-Through: Complications, Tiles, and a Companion Wear APK](https://www.codenameone.com/blog/watch-complications-wear-companion/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
