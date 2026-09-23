@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Desktop Theme Has to Know About the Mouse](https://www.codenameone.com/blog/native-desktop-themes-experiment/)
 - [Xcode 27: The Build Settings That Can Stop a Release](https://www.codenameone.com/blog/xcode-27-build-settings/)
 - [The Hard Part of Invite a Friend Is the Install](https://www.codenameone.com/blog/invite-link-through-app-store/)
 - [One Vault, from Your Phone to the Browser](https://www.codenameone.com/blog/vault-encryption-browser-phone/)
@@ -40,7 +41,6 @@
 - [A Dialog Can Now Be a Native Desktop Window](https://www.codenameone.com/blog/dialogs-in-native-windows/)
 - [VoIP, VPN, and the Build System Behind Them](https://www.codenameone.com/blog/voip-vpn-builders/)
 - [Build Hints That Fail Before the Build Server](https://www.codenameone.com/blog/compile-time-build-hints/)
-- [Rootless Jailbreak Detection: Updating the Signals, Not the Claim](https://www.codenameone.com/blog/rootless-jailbreak-detection/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
