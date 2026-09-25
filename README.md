@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Apple Shouldn&#39;t Dictate Your App&#39;s Redesign Schedule](https://www.codenameone.com/blog/who-decides-your-app-redesign/)
 - [The Java Compiler That Became Its Own Test Case](https://www.codenameone.com/blog/parparvm-compiles-itself/)
 - [A Desktop Theme Has to Know About the Mouse](https://www.codenameone.com/blog/native-desktop-themes-experiment/)
 - [Xcode 27: The Build Settings That Can Stop a Release](https://www.codenameone.com/blog/xcode-27-build-settings/)
@@ -40,7 +41,6 @@
 - [Fill an SMS Verification Code Without Reading the Inbox](https://www.codenameone.com/blog/sms-otp-autofill/)
 - [A Mac App, Not an iOS App on a Mac](https://www.codenameone.com/blog/native-appkit-mac-port/)
 - [A Dialog Can Now Be a Native Desktop Window](https://www.codenameone.com/blog/dialogs-in-native-windows/)
-- [VoIP, VPN, and the Build System Behind Them](https://www.codenameone.com/blog/voip-vpn-builders/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
