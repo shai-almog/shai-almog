@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [JPA Inspired ORM from SQLite to PostgreSQL](https://www.codenameone.com/blog/orm-session-from-phone-to-server/)
 - [iOS 27 Glass You Can Choose, Measure, and Test](https://www.codenameone.com/blog/ios-27-glass-you-can-test/)
 - [Apple Shouldn&#39;t Dictate Your App&#39;s Redesign Schedule](https://www.codenameone.com/blog/who-decides-your-app-redesign/)
 - [The Java Compiler That Became Its Own Test Case](https://www.codenameone.com/blog/parparvm-compiles-itself/)
@@ -40,7 +41,6 @@
 - [Pick One Contact Without Asking for the Address Book](https://www.codenameone.com/blog/private-contact-picker/)
 - [We Stopped Waiting for Platform Changes to Find Us](https://www.codenameone.com/blog/platform-deprecation-watch/)
 - [Fill an SMS Verification Code Without Reading the Inbox](https://www.codenameone.com/blog/sms-otp-autofill/)
-- [A Mac App, Not an iOS App on a Mac](https://www.codenameone.com/blog/native-appkit-mac-port/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
