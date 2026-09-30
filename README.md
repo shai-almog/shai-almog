@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Your Push Request Succeeded. The Device Key Is Dead.](https://www.codenameone.com/blog/push-feedback-retire-dead-tokens/)
 - [WebSocket Support for Your Java Backend](https://www.codenameone.com/blog/websocket-server-tests-our-apps/)
 - [OpenTelemetry Support from App to Database](https://www.codenameone.com/blog/follow-a-tap-with-opentelemetry/)
 - [JPA Inspired ORM from SQLite to PostgreSQL](https://www.codenameone.com/blog/orm-session-from-phone-to-server/)
@@ -40,7 +41,6 @@
 - [Faster Maps: Chasing Swiss Speed](https://www.codenameone.com/blog/hashmap-misses-probe-sequence/)
 - [What Go Taught Us About Java Garbage Collection](https://www.codenameone.com/blog/parparvm-gc-small-heaps/)
 - [Lies, Damn Lies and Benchmarks](https://www.codenameone.com/blog/performance-work-between-benchmarks/)
-- [Pick One Contact Without Asking for the Address Book](https://www.codenameone.com/blog/private-contact-picker/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
