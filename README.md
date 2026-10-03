@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Honey, I Shrunk Java](https://www.codenameone.com/blog/parparvm-four-byte-header/)
 - [A Smaller, Faster Java Server with a Spring-Style API](https://www.codenameone.com/blog/java-server-work-before-startup/)
 - [Native Desktop Themes for Production Apps](https://www.codenameone.com/blog/desktop-theme-real-settings-app/)
 - [Your Push Request Succeeded. The Device Key Is Dead.](https://www.codenameone.com/blog/push-feedback-retire-dead-tokens/)
@@ -40,7 +41,6 @@
 - [Javadoc That Feels Like Your Website](https://www.codenameone.com/blog/javadoc-hugo-markdown-doclet/)
 - [Native Drag and Drop Meets Cross-Device Continuity](https://www.codenameone.com/blog/continuity-restoring-work/)
 - [Faster Starts, Less JavaScript Overhead](https://www.codenameone.com/blog/startup-cost-before-first-paint/)
-- [Faster Maps: Chasing Swiss Speed](https://www.codenameone.com/blog/hashmap-misses-probe-sequence/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
