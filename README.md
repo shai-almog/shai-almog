@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Do You Prefer Gradle?](https://www.codenameone.com/blog/gradle-smaller-projects/)
 - [Can You Tell the Difference Between These iOS Tab Bars?](https://www.codenameone.com/blog/ios27-glass-from-measurements/)
 - [Honey, I Shrunk Java](https://www.codenameone.com/blog/parparvm-four-byte-header/)
 - [A Smaller, Faster Java Server with a Spring-Style API](https://www.codenameone.com/blog/java-server-work-before-startup/)
@@ -40,7 +41,6 @@
 - [We Didn&#39;t Want to Build Another Java Server](https://www.codenameone.com/blog/why-another-java-server/)
 - [Android 17 Without the Last-Minute Scramble](https://www.codenameone.com/blog/android-37-readiness-location-button/)
 - [Javadoc That Feels Like Your Website](https://www.codenameone.com/blog/javadoc-hugo-markdown-doclet/)
-- [Native Drag and Drop Meets Cross-Device Continuity](https://www.codenameone.com/blog/continuity-restoring-work/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
