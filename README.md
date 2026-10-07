@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Do You Want Your Web App to Feel Like a Native App?](https://www.codenameone.com/blog/browser-desktop-theme/)
 - [Connect Your App to Your Enterprise Traces](https://www.codenameone.com/blog/native-backend-observability/)
 - [Do You Prefer Gradle?](https://www.codenameone.com/blog/gradle-smaller-projects/)
 - [Can You Tell the Difference Between These iOS Tab Bars?](https://www.codenameone.com/blog/ios27-glass-from-measurements/)
@@ -40,7 +41,6 @@
 - [One Vault, from Your Phone to the Browser](https://www.codenameone.com/blog/vault-encryption-browser-phone/)
 - [One Java Model from the App to PostgreSQL](https://www.codenameone.com/blog/java-backend-shared-models/)
 - [We Didn&#39;t Want to Build Another Java Server](https://www.codenameone.com/blog/why-another-java-server/)
-- [Android 17 Without the Last-Minute Scramble](https://www.codenameone.com/blog/android-37-readiness-location-button/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
