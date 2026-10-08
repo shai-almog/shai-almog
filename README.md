@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Don&#39;t Order Fish on Monday. Don&#39;t Release on Friday](https://www.codenameone.com/blog/friday-release-better-gates/)
 - [Do You Want Your Web App to Feel Like a Native App?](https://www.codenameone.com/blog/browser-desktop-theme/)
 - [Connect Your App to Your Enterprise Traces](https://www.codenameone.com/blog/native-backend-observability/)
 - [Do You Prefer Gradle?](https://www.codenameone.com/blog/gradle-smaller-projects/)
@@ -40,7 +41,6 @@
 - [The Hard Part of Invite a Friend Is the Install](https://www.codenameone.com/blog/invite-link-through-app-store/)
 - [One Vault, from Your Phone to the Browser](https://www.codenameone.com/blog/vault-encryption-browser-phone/)
 - [One Java Model from the App to PostgreSQL](https://www.codenameone.com/blog/java-backend-shared-models/)
-- [We Didn&#39;t Want to Build Another Java Server](https://www.codenameone.com/blog/why-another-java-server/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
