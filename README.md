@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Update DB Schema in Production with Flyway like Syntax](https://www.codenameone.com/blog/database-upgrades-without-lost-data/)
 - [Easy Full Stack Authentication and Login in the Style of Spring](https://www.codenameone.com/blog/sign-in-client-server-contract/)
 - [Android on iOS, Web &amp; Desktop Efficiently and for Free](https://www.codenameone.com/blog/android-apps-beyond-android/)
 - [Don&#39;t Order Fish on Monday. Don&#39;t Release on Friday](https://www.codenameone.com/blog/friday-release-better-gates/)
@@ -40,7 +41,6 @@
 - [The Java Compiler That Became Its Own Test Case](https://www.codenameone.com/blog/parparvm-compiles-itself/)
 - [A Desktop Theme Has to Know About the Mouse](https://www.codenameone.com/blog/native-desktop-themes-experiment/)
 - [Xcode 27: The Build Settings That Can Stop a Release](https://www.codenameone.com/blog/xcode-27-build-settings/)
-- [The Hard Part of Invite a Friend Is the Install](https://www.codenameone.com/blog/invite-link-through-app-store/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
