@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Try Real Java in Your Browser, Compiler Errors Included](https://www.codenameone.com/blog/playground-real-java-compiler/)
 - [How Do You Test Spring Compatibility?](https://www.codenameone.com/blog/spring-tests-native-backend/)
 - [Update DB Schema in Production with Flyway like Syntax](https://www.codenameone.com/blog/database-upgrades-without-lost-data/)
 - [Easy Full Stack Authentication and Login in the Style of Spring](https://www.codenameone.com/blog/sign-in-client-server-contract/)
@@ -40,7 +41,6 @@
 - [iOS 27 Glass You Can Choose, Measure, and Test](https://www.codenameone.com/blog/ios-27-glass-you-can-test/)
 - [Apple Shouldn&#39;t Dictate Your App&#39;s Redesign Schedule](https://www.codenameone.com/blog/who-decides-your-app-redesign/)
 - [The Java Compiler That Became Its Own Test Case](https://www.codenameone.com/blog/parparvm-compiles-itself/)
-- [A Desktop Theme Has to Know About the Mouse](https://www.codenameone.com/blog/native-desktop-themes-experiment/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
