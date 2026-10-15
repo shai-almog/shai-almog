@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Smaller Simpler Maven Projects](https://www.codenameone.com/blog/maven-projects-with-less-scaffolding/)
 - [PGO for Faster Apps and Generational/Adaptive GC](https://www.codenameone.com/blog/gc-memory-budget-performance/)
 - [Try Real Java in Your Browser, Compiler Errors Included](https://www.codenameone.com/blog/playground-real-java-compiler/)
 - [How Do You Test Spring Compatibility?](https://www.codenameone.com/blog/spring-tests-native-backend/)
@@ -40,7 +41,6 @@
 - [OpenTelemetry Support from App to Database](https://www.codenameone.com/blog/follow-a-tap-with-opentelemetry/)
 - [JPA Inspired ORM from SQLite to PostgreSQL](https://www.codenameone.com/blog/orm-session-from-phone-to-server/)
 - [iOS 27 Glass You Can Choose, Measure, and Test](https://www.codenameone.com/blog/ios-27-glass-you-can-test/)
-- [Apple Shouldn&#39;t Dictate Your App&#39;s Redesign Schedule](https://www.codenameone.com/blog/who-decides-your-app-redesign/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
