@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Create an Uber Clone in 1 Minute](https://www.codenameone.com/blog/create-an-uber-clone-in-1-minute/)
 - [Smaller Simpler Maven Projects](https://www.codenameone.com/blog/maven-projects-with-less-scaffolding/)
 - [PGO for Faster Apps and Generational/Adaptive GC](https://www.codenameone.com/blog/gc-memory-budget-performance/)
 - [Try Real Java in Your Browser, Compiler Errors Included](https://www.codenameone.com/blog/playground-real-java-compiler/)
@@ -40,7 +41,6 @@
 - [WebSocket Support for Your Java Backend](https://www.codenameone.com/blog/websocket-server-tests-our-apps/)
 - [OpenTelemetry Support from App to Database](https://www.codenameone.com/blog/follow-a-tap-with-opentelemetry/)
 - [JPA Inspired ORM from SQLite to PostgreSQL](https://www.codenameone.com/blog/orm-session-from-phone-to-server/)
-- [iOS 27 Glass You Can Choose, Measure, and Test](https://www.codenameone.com/blog/ios-27-glass-you-can-test/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
