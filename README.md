@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Build Your App Theme Without a Display Server](https://www.codenameone.com/blog/headless-css-builds/)
 - [Thymeleaf, Spring MVC and htmx for Native Java Backends](https://www.codenameone.com/blog/compile-html-before-deployment/)
 - [Spring Data-Style Repositories Compiled to Native Code](https://www.codenameone.com/blog/repositories-and-transactions-without-surprises/)
 - [Create an Uber Clone in 1 Minute](https://www.codenameone.com/blog/create-an-uber-clone-in-1-minute/)
@@ -40,7 +41,6 @@
 - [A Smaller, Faster Java Server with a Spring-Style API](https://www.codenameone.com/blog/java-server-work-before-startup/)
 - [Native Desktop Themes for Production Apps](https://www.codenameone.com/blog/desktop-theme-real-settings-app/)
 - [Your Push Request Succeeded. The Device Key Is Dead.](https://www.codenameone.com/blog/push-feedback-retire-dead-tokens/)
-- [WebSocket Support for Your Java Backend](https://www.codenameone.com/blog/websocket-server-tests-our-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
