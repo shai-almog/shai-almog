@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Let Users Install Your Java Web App Again](https://www.codenameone.com/blog/install-your-java-web-app-again/)
 - [Give Your Desktop App a Useful Title Bar and Real Tools](https://www.codenameone.com/blog/desktop-tools-title-bars-processes-zip/)
 - [Build Your App Theme Without a Display Server](https://www.codenameone.com/blog/headless-css-builds/)
 - [Thymeleaf, Spring MVC and htmx for Native Java Backends](https://www.codenameone.com/blog/compile-html-before-deployment/)
@@ -40,7 +41,6 @@
 - [Can You Tell the Difference Between These iOS Tab Bars?](https://www.codenameone.com/blog/ios27-glass-from-measurements/)
 - [Honey, I Shrunk Java](https://www.codenameone.com/blog/parparvm-four-byte-header/)
 - [A Smaller, Faster Java Server with a Spring-Style API](https://www.codenameone.com/blog/java-server-work-before-startup/)
-- [Native Desktop Themes for Production Apps](https://www.codenameone.com/blog/desktop-theme-real-settings-app/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
