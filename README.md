@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Rewrite Everything in Java: Not Rust](https://www.codenameone.com/blog/rewrite-everything-in-java-not-rust/)
 - [A Java IDE in Your Browser, With Your Files in Your Browser](https://www.codenameone.com/blog/not-a-cloud-ide/)
 - [Let Users Install Your Java Web App Again](https://www.codenameone.com/blog/install-your-java-web-app-again/)
 - [Give Your Desktop App a Useful Title Bar and Real Tools](https://www.codenameone.com/blog/desktop-tools-title-bars-processes-zip/)
@@ -40,7 +41,6 @@
 - [Connect Your App to Your Enterprise Traces](https://www.codenameone.com/blog/native-backend-observability/)
 - [Do You Prefer Gradle?](https://www.codenameone.com/blog/gradle-smaller-projects/)
 - [Can You Tell the Difference Between These iOS Tab Bars?](https://www.codenameone.com/blog/ios27-glass-from-measurements/)
-- [Honey, I Shrunk Java](https://www.codenameone.com/blog/parparvm-four-byte-header/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
