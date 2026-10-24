@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Skirmish: A Multiplayer Strategy Game Template in Java](https://www.codenameone.com/blog/build-a-multiplayer-strategy-game-in-java/)
 - [Rewrite Everything in Java: Not Rust](https://www.codenameone.com/blog/rewrite-everything-in-java-not-rust/)
 - [A Java IDE in Your Browser, With Your Files in Your Browser](https://www.codenameone.com/blog/not-a-cloud-ide/)
 - [Let Users Install Your Java Web App Again](https://www.codenameone.com/blog/install-your-java-web-app-again/)
@@ -40,7 +41,6 @@
 - [Do You Want Your Web App to Feel Like a Native App?](https://www.codenameone.com/blog/browser-desktop-theme/)
 - [Connect Your App to Your Enterprise Traces](https://www.codenameone.com/blog/native-backend-observability/)
 - [Do You Prefer Gradle?](https://www.codenameone.com/blog/gradle-smaller-projects/)
-- [Can You Tell the Difference Between These iOS Tab Bars?](https://www.codenameone.com/blog/ios27-glass-from-measurements/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
