@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Parley: A Private Messenger Template You Can Brand](https://www.codenameone.com/blog/launch-your-own-private-messenger/)
 - [Skirmish: A Multiplayer Strategy Game Template in Java](https://www.codenameone.com/blog/build-a-multiplayer-strategy-game-in-java/)
 - [Rewrite Everything in Java: Not Rust](https://www.codenameone.com/blog/rewrite-everything-in-java-not-rust/)
 - [A Java IDE in Your Browser, With Your Files in Your Browser](https://www.codenameone.com/blog/not-a-cloud-ide/)
@@ -40,7 +41,6 @@
 - [Don&#39;t Order Fish on Monday. Don&#39;t Release on Friday](https://www.codenameone.com/blog/friday-release-better-gates/)
 - [Do You Want Your Web App to Feel Like a Native App?](https://www.codenameone.com/blog/browser-desktop-theme/)
 - [Connect Your App to Your Enterprise Traces](https://www.codenameone.com/blog/native-backend-observability/)
-- [Do You Prefer Gradle?](https://www.codenameone.com/blog/gradle-smaller-projects/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
