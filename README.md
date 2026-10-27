@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [More of the Java API, and an Experiment With Unity Games](https://www.codenameone.com/blog/bring-your-java-code-everywhere/)
 - [Savor: A Food Delivery Template for Restaurants and Local Fleets](https://www.codenameone.com/blog/launch-your-own-food-delivery-app/)
 - [Parley: A Private Messenger Template You Can Brand](https://www.codenameone.com/blog/launch-your-own-private-messenger/)
 - [Skirmish: A Multiplayer Strategy Game Template in Java](https://www.codenameone.com/blog/build-a-multiplayer-strategy-game-in-java/)
@@ -40,7 +41,6 @@
 - [Easy Full Stack Authentication and Login in the Style of Spring](https://www.codenameone.com/blog/sign-in-client-server-contract/)
 - [Android on iOS, Web &amp; Desktop Efficiently and for Free](https://www.codenameone.com/blog/android-apps-beyond-android/)
 - [Don&#39;t Order Fish on Monday. Don&#39;t Release on Friday](https://www.codenameone.com/blog/friday-release-better-gates/)
-- [Do You Want Your Web App to Feel Like a Native App?](https://www.codenameone.com/blog/browser-desktop-theme/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
