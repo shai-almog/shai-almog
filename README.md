@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Your Compose Code, on More Screens and Less CPU](https://www.codenameone.com/blog/compose-on-more-screens/)
 - [Flutter Better in Java](https://www.codenameone.com/blog/flutter-better-in-java/)
 - [WebRTC Calls, Key Agreement and ORM Checks at Build Time](https://www.codenameone.com/blog/private-calls-and-safer-backends/)
 - [Native Menus, File Dialogs and 3D Models](https://www.codenameone.com/blog/desktop-dialogs-menus-3d-models/)
@@ -40,7 +41,6 @@
 - [PGO for Faster Apps and Generational/Adaptive GC](https://www.codenameone.com/blog/gc-memory-budget-performance/)
 - [Try Real Java in Your Browser, Compiler Errors Included](https://www.codenameone.com/blog/playground-real-java-compiler/)
 - [How Do You Test Spring Compatibility?](https://www.codenameone.com/blog/spring-tests-native-backend/)
-- [Update DB Schema in Production with Flyway like Syntax](https://www.codenameone.com/blog/database-upgrades-without-lost-data/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
