@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Your Swing and JavaFX Code on iPhone, Android and the Web](https://www.codenameone.com/blog/swing-and-javafx-on-phones/)
 - [Your Compose Code, on More Screens and Less CPU](https://www.codenameone.com/blog/compose-on-more-screens/)
 - [Flutter Better in Java](https://www.codenameone.com/blog/flutter-better-in-java/)
 - [WebRTC Calls, Key Agreement and ORM Checks at Build Time](https://www.codenameone.com/blog/private-calls-and-safer-backends/)
@@ -40,7 +41,6 @@
 - [Smaller Simpler Maven Projects](https://www.codenameone.com/blog/maven-projects-with-less-scaffolding/)
 - [PGO for Faster Apps and Generational/Adaptive GC](https://www.codenameone.com/blog/gc-memory-budget-performance/)
 - [Try Real Java in Your Browser, Compiler Errors Included](https://www.codenameone.com/blog/playground-real-java-compiler/)
-- [How Do You Test Spring Compatibility?](https://www.codenameone.com/blog/spring-tests-native-backend/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
