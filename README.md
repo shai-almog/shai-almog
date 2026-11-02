@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Bastion: A Hardened Bank Template, and Crypto Wallets in Core](https://www.codenameone.com/blog/bastion-hardened-bank-template/)
 - [Your Swing and JavaFX Code on iPhone, Android and the Web](https://www.codenameone.com/blog/swing-and-javafx-on-phones/)
 - [Your Compose Code, on More Screens and Less CPU](https://www.codenameone.com/blog/compose-on-more-screens/)
 - [Flutter Better in Java](https://www.codenameone.com/blog/flutter-better-in-java/)
@@ -40,7 +41,6 @@
 - [Create an Uber Clone in 1 Minute](https://www.codenameone.com/blog/create-an-uber-clone-in-1-minute/)
 - [Smaller Simpler Maven Projects](https://www.codenameone.com/blog/maven-projects-with-less-scaffolding/)
 - [PGO for Faster Apps and Generational/Adaptive GC](https://www.codenameone.com/blog/gc-memory-budget-performance/)
-- [Try Real Java in Your Browser, Compiler Errors Included](https://www.codenameone.com/blog/playground-real-java-compiler/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
