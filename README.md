@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [GrapheneOS, LineageOS, /e/OS and Others Are Now Officially Supported](https://www.codenameone.com/blog/android-apps-everywhere-even-without-google/)
 - [Reel: Your Own Streaming Service or Course Platform](https://www.codenameone.com/blog/reel-streaming-and-courses-template/)
 - [Bastion: A Hardened Bank Template, and Crypto Wallets in Core](https://www.codenameone.com/blog/bastion-hardened-bank-template/)
 - [Your Swing and JavaFX Code on iPhone, Android and the Web](https://www.codenameone.com/blog/swing-and-javafx-on-phones/)
@@ -40,7 +41,6 @@
 - [Thymeleaf, Spring MVC and htmx for Native Java Backends](https://www.codenameone.com/blog/compile-html-before-deployment/)
 - [Spring Data-Style Repositories Compiled to Native Code](https://www.codenameone.com/blog/repositories-and-transactions-without-surprises/)
 - [Create an Uber Clone in 1 Minute](https://www.codenameone.com/blog/create-an-uber-clone-in-1-minute/)
-- [Smaller Simpler Maven Projects](https://www.codenameone.com/blog/maven-projects-with-less-scaffolding/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
