@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Caches, Certificates, Streaming Uploads and a Simulator That Types](https://www.codenameone.com/blog/backend-caches-certificates-and-a-simulator-that-types/)
 - [GrapheneOS, LineageOS, /e/OS and Others Are Now Officially Supported](https://www.codenameone.com/blog/android-apps-everywhere-even-without-google/)
 - [Reel: Your Own Streaming Service or Course Platform](https://www.codenameone.com/blog/reel-streaming-and-courses-template/)
 - [Bastion: A Hardened Bank Template, and Crypto Wallets in Core](https://www.codenameone.com/blog/bastion-hardened-bank-template/)
@@ -40,7 +41,6 @@
 - [Build Your App Theme Without a Display Server](https://www.codenameone.com/blog/headless-css-builds/)
 - [Thymeleaf, Spring MVC and htmx for Native Java Backends](https://www.codenameone.com/blog/compile-html-before-deployment/)
 - [Spring Data-Style Repositories Compiled to Native Code](https://www.codenameone.com/blog/repositories-and-transactions-without-surprises/)
-- [Create an Uber Clone in 1 Minute](https://www.codenameone.com/blog/create-an-uber-clone-in-1-minute/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
