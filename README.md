@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Embedded Java: 20x Smaller Than Chrome, Faster Than Rust, Royalty Free](https://www.codenameone.com/blog/embedded-linux-ui-in-18-mb/)
 - [Caches, Certificates, Streaming Uploads and a Simulator That Types](https://www.codenameone.com/blog/backend-caches-certificates-and-a-simulator-that-types/)
 - [GrapheneOS, LineageOS, /e/OS and Others Are Now Officially Supported](https://www.codenameone.com/blog/android-apps-everywhere-even-without-google/)
 - [Reel: Your Own Streaming Service or Course Platform](https://www.codenameone.com/blog/reel-streaming-and-courses-template/)
@@ -40,7 +41,6 @@
 - [Give Your Desktop App a Useful Title Bar and Real Tools](https://www.codenameone.com/blog/desktop-tools-title-bars-processes-zip/)
 - [Build Your App Theme Without a Display Server](https://www.codenameone.com/blog/headless-css-builds/)
 - [Thymeleaf, Spring MVC and htmx for Native Java Backends](https://www.codenameone.com/blog/compile-html-before-deployment/)
-- [Spring Data-Style Repositories Compiled to Native Code](https://www.codenameone.com/blog/repositories-and-transactions-without-surprises/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
