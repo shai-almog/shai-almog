@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Real-Time Java: Control Loops the Garbage Collector Never Stops](https://www.codenameone.com/blog/real-time-java-control-loops/)
 - [Pulse: Heart Rate Zones From the Watch to the Trainer&#39;s Screen](https://www.codenameone.com/blog/launch-your-own-gym-app/)
 - [Dash: An Endless Runner That Races Through Your City](https://www.codenameone.com/blog/build-an-endless-runner-in-java/)
 - [Embedded Java: 20x Smaller Than Chrome, Faster Than Rust, Royalty Free](https://www.codenameone.com/blog/embedded-linux-ui-in-18-mb/)
@@ -40,7 +41,6 @@
 - [Rewrite Everything in Java: Not Rust](https://www.codenameone.com/blog/rewrite-everything-in-java-not-rust/)
 - [A Java IDE in Your Browser, With Your Files in Your Browser](https://www.codenameone.com/blog/not-a-cloud-ide/)
 - [Let Users Install Your Java Web App Again](https://www.codenameone.com/blog/install-your-java-web-app-again/)
-- [Give Your Desktop App a Useful Title Bar and Real Tools](https://www.codenameone.com/blog/desktop-tools-title-bars-processes-zip/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
