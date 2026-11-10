@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Packaging Java Apps for Xbox Developer Mode, and Why Consoles Need Help](https://www.codenameone.com/blog/codename-one-on-xbox/)
 - [Real-Time Java: Control Loops the Garbage Collector Never Stops](https://www.codenameone.com/blog/real-time-java-control-loops/)
 - [Pulse: Heart Rate Zones From the Watch to the Trainer&#39;s Screen](https://www.codenameone.com/blog/launch-your-own-gym-app/)
 - [Dash: An Endless Runner That Races Through Your City](https://www.codenameone.com/blog/build-an-endless-runner-in-java/)
@@ -40,7 +41,6 @@
 - [Skirmish: A Multiplayer Strategy Game Template in Java](https://www.codenameone.com/blog/build-a-multiplayer-strategy-game-in-java/)
 - [Rewrite Everything in Java: Not Rust](https://www.codenameone.com/blog/rewrite-everything-in-java-not-rust/)
 - [A Java IDE in Your Browser, With Your Files in Your Browser](https://www.codenameone.com/blog/not-a-cloud-ide/)
-- [Let Users Install Your Java Web App Again](https://www.codenameone.com/blog/install-your-java-web-app-again/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
