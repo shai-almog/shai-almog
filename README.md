@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Port Your Spring Code With Fewer Edits, and Libraries That Bring Their Own Server](https://www.codenameone.com/blog/cn1libs-with-a-server-side/)
 - [Packaging Java Apps for Xbox Developer Mode, and Why Consoles Need Help](https://www.codenameone.com/blog/codename-one-on-xbox/)
 - [Real-Time Java: Control Loops the Garbage Collector Never Stops](https://www.codenameone.com/blog/real-time-java-control-loops/)
 - [Pulse: Heart Rate Zones From the Watch to the Trainer&#39;s Screen](https://www.codenameone.com/blog/launch-your-own-gym-app/)
@@ -40,7 +41,6 @@
 - [Parley: A Private Messenger Template You Can Brand](https://www.codenameone.com/blog/launch-your-own-private-messenger/)
 - [Skirmish: A Multiplayer Strategy Game Template in Java](https://www.codenameone.com/blog/build-a-multiplayer-strategy-game-in-java/)
 - [Rewrite Everything in Java: Not Rust](https://www.codenameone.com/blog/rewrite-everything-in-java-not-rust/)
-- [A Java IDE in Your Browser, With Your Files in Your Browser](https://www.codenameone.com/blog/not-a-cloud-ide/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
