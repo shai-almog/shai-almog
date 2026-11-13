@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Shopify Was Wrong and Right to Dump React Native](https://www.codenameone.com/blog/shopify-was-wrong-and-right-to-dump-react-native/)
 - [Debug Your Dart in a Java Debugger, and JFX Central on a Phone](https://www.codenameone.com/blog/debug-dart-in-a-java-debugger/)
 - [Port Your Spring Code With Fewer Edits, and Libraries That Bring Their Own Server](https://www.codenameone.com/blog/cn1libs-with-a-server-side/)
 - [Packaging Java Apps for Xbox Developer Mode, and Why Consoles Need Help](https://www.codenameone.com/blog/codename-one-on-xbox/)
@@ -40,7 +41,6 @@
 - [More of the Java API, and an Experiment With Unity Games](https://www.codenameone.com/blog/bring-your-java-code-everywhere/)
 - [Savor: A Food Delivery Template for Restaurants and Local Fleets](https://www.codenameone.com/blog/launch-your-own-food-delivery-app/)
 - [Parley: A Private Messenger Template You Can Brand](https://www.codenameone.com/blog/launch-your-own-private-messenger/)
-- [Skirmish: A Multiplayer Strategy Game Template in Java](https://www.codenameone.com/blog/build-a-multiplayer-strategy-game-in-java/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
