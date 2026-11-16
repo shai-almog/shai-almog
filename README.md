@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Kafka Listeners, Mail and Live Streams in Your Backend, With Records as Entities](https://www.codenameone.com/blog/kafka-mail-and-records-in-your-java-backend/)
 - [Subscriptions, Paywalls and a Customer Center, and We Don&#39;t Take a Cut](https://www.codenameone.com/blog/subscriptions-and-paywalls-without-a-revenue-cut/)
 - [Calendars, Gantt Charts and Booking Apps Without Writing a Calendar](https://www.codenameone.com/blog/scheduler-gantt-and-material-pickers/)
 - [Shopify Was Wrong and Right to Dump React Native](https://www.codenameone.com/blog/shopify-was-wrong-and-right-to-dump-react-native/)
@@ -40,7 +41,6 @@
 - [Flutter Better in Java](https://www.codenameone.com/blog/flutter-better-in-java/)
 - [WebRTC Calls, Key Agreement and ORM Checks at Build Time](https://www.codenameone.com/blog/private-calls-and-safer-backends/)
 - [Native Menus, File Dialogs and 3D Models](https://www.codenameone.com/blog/desktop-dialogs-menus-3d-models/)
-- [More of the Java API, and an Experiment With Unity Games](https://www.codenameone.com/blog/bring-your-java-code-everywhere/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
