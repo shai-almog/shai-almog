@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Windows Kiosks and Command Line Tools, Built From Java](https://www.codenameone.com/blog/windows-kiosks-and-command-line-apps/)
 - [Ship Your Game on Steam, and Why the Art Matters More Than the Engine](https://www.codenameone.com/blog/ship-your-java-game-on-steam/)
 - [Kafka Listeners, Mail and Live Streams in Your Backend, With Records as Entities](https://www.codenameone.com/blog/kafka-mail-and-records-in-your-java-backend/)
 - [Subscriptions, Paywalls and a Customer Center, and We Don&#39;t Take a Cut](https://www.codenameone.com/blog/subscriptions-and-paywalls-without-a-revenue-cut/)
@@ -40,7 +41,6 @@
 - [Your Swing and JavaFX Code on iPhone, Android and the Web](https://www.codenameone.com/blog/swing-and-javafx-on-phones/)
 - [Your Compose Code, on More Screens and Less CPU](https://www.codenameone.com/blog/compose-on-more-screens/)
 - [Flutter Better in Java](https://www.codenameone.com/blog/flutter-better-in-java/)
-- [WebRTC Calls, Key Agreement and ORM Checks at Build Time](https://www.codenameone.com/blog/private-calls-and-safer-backends/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
