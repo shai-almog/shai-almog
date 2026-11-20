@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why My Kids are Learning to Program - The New Baseline](https://www.codenameone.com/blog/why-my-kids-are-learning-to-program/)
 - [Run an LLM and Whisper on the Phone, With No Server Bill](https://www.codenameone.com/blog/run-an-llm-on-the-phone/)
 - [Windows Kiosks and Command Line Tools, Built From Java](https://www.codenameone.com/blog/windows-kiosks-and-command-line-apps/)
 - [Ship Your Game on Steam, and Why the Art Matters More Than the Engine](https://www.codenameone.com/blog/ship-your-java-game-on-steam/)
@@ -40,7 +41,6 @@
 - [Reel: Your Own Streaming Service or Course Platform](https://www.codenameone.com/blog/reel-streaming-and-courses-template/)
 - [Bastion: A Hardened Bank Template, and Crypto Wallets in Core](https://www.codenameone.com/blog/bastion-hardened-bank-template/)
 - [Your Swing and JavaFX Code on iPhone, Android and the Web](https://www.codenameone.com/blog/swing-and-javafx-on-phones/)
-- [Your Compose Code, on More Screens and Less CPU](https://www.codenameone.com/blog/compose-on-more-screens/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
