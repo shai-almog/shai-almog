@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Million Rows and Live Excel Formulas, Inside Your Own App](https://www.codenameone.com/blog/a-million-rows-and-live-excel-formulas/)
 - [Why My Kids are Learning to Program - The New Baseline](https://www.codenameone.com/blog/why-my-kids-are-learning-to-program/)
 - [Run an LLM and Whisper on the Phone, With No Server Bill](https://www.codenameone.com/blog/run-an-llm-on-the-phone/)
 - [Windows Kiosks and Command Line Tools, Built From Java](https://www.codenameone.com/blog/windows-kiosks-and-command-line-apps/)
@@ -40,7 +41,6 @@
 - [GrapheneOS, LineageOS, /e/OS and Others Are Now Officially Supported](https://www.codenameone.com/blog/android-apps-everywhere-even-without-google/)
 - [Reel: Your Own Streaming Service or Course Platform](https://www.codenameone.com/blog/reel-streaming-and-courses-template/)
 - [Bastion: A Hardened Bank Template, and Crypto Wallets in Core](https://www.codenameone.com/blog/bastion-hardened-bank-template/)
-- [Your Swing and JavaFX Code on iPhone, Android and the Web](https://www.codenameone.com/blog/swing-and-javafx-on-phones/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
