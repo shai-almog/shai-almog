@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Build a Multi-Tenant SaaS Backend That Can&#39;t Leak One Customer Into Another](https://www.codenameone.com/blog/multi-tenant-saas-backend-in-java/)
 - [A Million Rows and Live Excel Formulas, Inside Your Own App](https://www.codenameone.com/blog/a-million-rows-and-live-excel-formulas/)
 - [Why My Kids are Learning to Program - The New Baseline](https://www.codenameone.com/blog/why-my-kids-are-learning-to-program/)
 - [Run an LLM and Whisper on the Phone, With No Server Bill](https://www.codenameone.com/blog/run-an-llm-on-the-phone/)
@@ -40,7 +41,6 @@
 - [Caches, Certificates, Streaming Uploads and a Simulator That Types](https://www.codenameone.com/blog/backend-caches-certificates-and-a-simulator-that-types/)
 - [GrapheneOS, LineageOS, /e/OS and Others Are Now Officially Supported](https://www.codenameone.com/blog/android-apps-everywhere-even-without-google/)
 - [Reel: Your Own Streaming Service or Course Platform](https://www.codenameone.com/blog/reel-streaming-and-courses-template/)
-- [Bastion: A Hardened Bank Template, and Crypto Wallets in Core](https://www.codenameone.com/blog/bastion-hardened-bank-template/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
