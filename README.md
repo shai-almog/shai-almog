@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Fieldline: Launch Your Own Field Service App, With a Scheduler That Plans the Week](https://www.codenameone.com/blog/field-service-scheduling-template/)
 - [Invoices, Tickets and Reports: Generate, View and Print PDFs From One Java Codebase](https://www.codenameone.com/blog/generate-and-view-pdfs-in-java/)
 - [Build a Multi-Tenant SaaS Backend That Can&#39;t Leak One Customer Into Another](https://www.codenameone.com/blog/multi-tenant-saas-backend-in-java/)
 - [A Million Rows and Live Excel Formulas, Inside Your Own App](https://www.codenameone.com/blog/a-million-rows-and-live-excel-formulas/)
@@ -40,7 +41,6 @@
 - [Dash: An Endless Runner That Races Through Your City](https://www.codenameone.com/blog/build-an-endless-runner-in-java/)
 - [Embedded Java: 20x Smaller Than Chrome, Faster Than Rust, Royalty Free](https://www.codenameone.com/blog/embedded-linux-ui-in-18-mb/)
 - [Caches, Certificates, Streaming Uploads and a Simulator That Types](https://www.codenameone.com/blog/backend-caches-certificates-and-a-simulator-that-types/)
-- [GrapheneOS, LineageOS, /e/OS and Others Are Now Officially Supported](https://www.codenameone.com/blog/android-apps-everywhere-even-without-google/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
