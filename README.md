@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Flowcharts, Node Editors and Kanban Boards Are Now Standard Components](https://www.codenameone.com/blog/diagrams-flowcharts-and-kanban-boards/)
 - [Fieldline: Launch Your Own Field Service App, With a Scheduler That Plans the Week](https://www.codenameone.com/blog/field-service-scheduling-template/)
 - [Invoices, Tickets and Reports: Generate, View and Print PDFs From One Java Codebase](https://www.codenameone.com/blog/generate-and-view-pdfs-in-java/)
 - [Build a Multi-Tenant SaaS Backend That Can&#39;t Leak One Customer Into Another](https://www.codenameone.com/blog/multi-tenant-saas-backend-in-java/)
@@ -40,7 +41,6 @@
 - [Pulse: Heart Rate Zones From the Watch to the Trainer&#39;s Screen](https://www.codenameone.com/blog/launch-your-own-gym-app/)
 - [Dash: An Endless Runner That Races Through Your City](https://www.codenameone.com/blog/build-an-endless-runner-in-java/)
 - [Embedded Java: 20x Smaller Than Chrome, Faster Than Rust, Royalty Free](https://www.codenameone.com/blog/embedded-linux-ui-in-18-mb/)
-- [Caches, Certificates, Streaming Uploads and a Simulator That Types](https://www.codenameone.com/blog/backend-caches-certificates-and-a-simulator-that-types/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
