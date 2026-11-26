@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Brickyard: Launch Your Own Game Platform, With the Studio Inside the App](https://www.codenameone.com/blog/build-a-game-platform-with-luau-scripting/)
 - [Flowcharts, Node Editors and Kanban Boards Are Now Standard Components](https://www.codenameone.com/blog/diagrams-flowcharts-and-kanban-boards/)
 - [Fieldline: Launch Your Own Field Service App, With a Scheduler That Plans the Week](https://www.codenameone.com/blog/field-service-scheduling-template/)
 - [Invoices, Tickets and Reports: Generate, View and Print PDFs From One Java Codebase](https://www.codenameone.com/blog/generate-and-view-pdfs-in-java/)
@@ -40,7 +41,6 @@
 - [Real-Time Java: Control Loops the Garbage Collector Never Stops](https://www.codenameone.com/blog/real-time-java-control-loops/)
 - [Pulse: Heart Rate Zones From the Watch to the Trainer&#39;s Screen](https://www.codenameone.com/blog/launch-your-own-gym-app/)
 - [Dash: An Endless Runner That Races Through Your City](https://www.codenameone.com/blog/build-an-endless-runner-in-java/)
-- [Embedded Java: 20x Smaller Than Chrome, Faster Than Rust, Royalty Free](https://www.codenameone.com/blog/embedded-linux-ui-in-18-mb/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
