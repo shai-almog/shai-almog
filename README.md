@@ -21,6 +21,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Open, Edit, Spell Check and Present Word and PowerPoint Files Inside Your App](https://www.codenameone.com/blog/word-documents-and-presentations-in-your-app/)
 - [We Built a Full Shopify Clone in Three Days](https://www.codenameone.com/blog/full-shopify-clone-in-three-days/)
 - [Brickyard: Launch Your Own Game Platform, With the Studio Inside the App](https://www.codenameone.com/blog/build-a-game-platform-with-luau-scripting/)
 - [Flowcharts, Node Editors and Kanban Boards Are Now Standard Components](https://www.codenameone.com/blog/diagrams-flowcharts-and-kanban-boards/)
@@ -40,7 +41,6 @@
 - [Port Your Spring Code With Fewer Edits, and Libraries That Bring Their Own Server](https://www.codenameone.com/blog/cn1libs-with-a-server-side/)
 - [Packaging Java Apps for Xbox Developer Mode, and Why Consoles Need Help](https://www.codenameone.com/blog/codename-one-on-xbox/)
 - [Real-Time Java: Control Loops the Garbage Collector Never Stops](https://www.codenameone.com/blog/real-time-java-control-loops/)
-- [Pulse: Heart Rate Zones From the Watch to the Trainer&#39;s Screen](https://www.codenameone.com/blog/launch-your-own-gym-app/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
